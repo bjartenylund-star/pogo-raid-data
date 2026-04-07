@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T11:56:49.408961",
+  "generated_at": "2026-04-07T17:03:53.353370",
   "disclaimer": "Data calculated by an independent community tool. Not affiliated with Niantic or The Pokemon Company.",
   "bosses": {
     "Raichu": {
@@ -2408,6 +2408,965 @@
           "dps": 24.2,
           "tdo": 21778.0,
           "avg_faints": 56
+        }
+      ]
+    },
+    "Shadow Lapras": {
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "tier": "T3",
+      "l40": [
+        {
+          "name": "Mega Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Force Palm",
+          "charged": "Aura Sphere",
+          "dps": 41.49,
+          "tdo": 37344.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Counter",
+          "charged": "Aura Sphere",
+          "dps": 37.05,
+          "tdo": 33342.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Regieleki",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Lock On",
+          "charged": "Thunder Cage",
+          "dps": 36.48,
+          "tdo": 32833.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Sceptile",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Frenzy Plant",
+          "dps": 33.33,
+          "tdo": 30001.0,
+          "avg_faints": 53
+        },
+        {
+          "name": "Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Force Palm",
+          "charged": "Aura Sphere",
+          "dps": 31.93,
+          "tdo": 28734.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Blaziken",
+          "types": [
+            "Fire",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Focus Blast",
+          "dps": 31.77,
+          "tdo": 28596.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Mega Alakazam",
+          "types": [
+            "Psychic"
+          ],
+          "fast": "Counter",
+          "charged": "Focus Blast",
+          "dps": 31.33,
+          "tdo": 28200.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Shadow Raikou",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Thunder Shock",
+          "charged": "Aura Sphere",
+          "dps": 31.28,
+          "tdo": 28153.0,
+          "avg_faints": 53
+        },
+        {
+          "name": "Kartana",
+          "types": [
+            "Grass",
+            "Steel"
+          ],
+          "fast": "Razor Leaf",
+          "charged": "Leaf Blade",
+          "dps": 30.9,
+          "tdo": 27812.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Diancie",
+          "types": [
+            "Rock",
+            "Fairy"
+          ],
+          "fast": "Rock Throw",
+          "charged": "Rock Slide",
+          "dps": 30.6,
+          "tdo": 27541.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Heracross",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Upper Hand",
+          "dps": 30.56,
+          "tdo": 27504.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Shadow Raikou",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Thunder Shock",
+          "charged": "Wild Charge",
+          "dps": 30.14,
+          "tdo": 27122.0,
+          "avg_faints": 53
+        },
+        {
+          "name": "Mega Sceptile",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Bullet Seed",
+          "charged": "Frenzy Plant",
+          "dps": 30.02,
+          "tdo": 27021.0,
+          "avg_faints": 53
+        },
+        {
+          "name": "Mega Heracross",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Close Combat",
+          "dps": 29.93,
+          "tdo": 26934.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Xurkitree",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Thunder Shock",
+          "charged": "Discharge",
+          "dps": 29.81,
+          "tdo": 26832.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Diancie",
+          "types": [
+            "Rock",
+            "Fairy"
+          ],
+          "fast": "Rock Throw",
+          "charged": "Power Gem",
+          "dps": 28.93,
+          "tdo": 26040.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Ampharos",
+          "types": [
+            "Electric",
+            "Dragon"
+          ],
+          "fast": "Volt Switch",
+          "charged": "Zap Cannon",
+          "dps": 28.65,
+          "tdo": 25781.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Counter",
+          "charged": "Aura Sphere",
+          "dps": 28.59,
+          "tdo": 25734.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Shadow Electivire",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Thunder Shock",
+          "charged": "Wild Charge",
+          "dps": 28.54,
+          "tdo": 25690.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Rayquaza",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Dragon Ascent",
+          "dps": 28.36,
+          "tdo": 25523.0,
+          "avg_faints": 33
+        }
+      ],
+      "l50": [
+        {
+          "name": "Mega Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Force Palm",
+          "charged": "Aura Sphere",
+          "dps": 43.98,
+          "tdo": 39580.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Regieleki",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Lock On",
+          "charged": "Thunder Cage",
+          "dps": 38.54,
+          "tdo": 34687.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Counter",
+          "charged": "Aura Sphere",
+          "dps": 37.73,
+          "tdo": 33960.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Mega Sceptile",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Frenzy Plant",
+          "dps": 35.37,
+          "tdo": 31833.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Force Palm",
+          "charged": "Aura Sphere",
+          "dps": 34.04,
+          "tdo": 30636.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Sceptile",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Bullet Seed",
+          "charged": "Frenzy Plant",
+          "dps": 33.79,
+          "tdo": 30411.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Mega Diancie",
+          "types": [
+            "Rock",
+            "Fairy"
+          ],
+          "fast": "Rock Throw",
+          "charged": "Rock Slide",
+          "dps": 33.47,
+          "tdo": 30120.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Mega Diancie",
+          "types": [
+            "Rock",
+            "Fairy"
+          ],
+          "fast": "Rock Throw",
+          "charged": "Power Gem",
+          "dps": 33.19,
+          "tdo": 29868.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Mega Blaziken",
+          "types": [
+            "Fire",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Focus Blast",
+          "dps": 33.1,
+          "tdo": 29787.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Kartana",
+          "types": [
+            "Grass",
+            "Steel"
+          ],
+          "fast": "Razor Leaf",
+          "charged": "Leaf Blade",
+          "dps": 32.46,
+          "tdo": 29216.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Heracross",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Upper Hand",
+          "dps": 32.2,
+          "tdo": 28980.0,
+          "avg_faints": 36
+        },
+        {
+          "name": "Shadow Raikou",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Thunder Shock",
+          "charged": "Aura Sphere",
+          "dps": 32.13,
+          "tdo": 28917.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Mega Manectric",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Thunder Fang",
+          "charged": "Wild Charge",
+          "dps": 31.63,
+          "tdo": 28467.0,
+          "avg_faints": 42
+        },
+        {
+          "name": "Mega Alakazam",
+          "types": [
+            "Psychic"
+          ],
+          "fast": "Counter",
+          "charged": "Focus Blast",
+          "dps": 31.56,
+          "tdo": 28404.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Xurkitree",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Thunder Shock",
+          "charged": "Discharge",
+          "dps": 31.31,
+          "tdo": 28176.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Terrakion",
+          "types": [
+            "Rock",
+            "Fighting"
+          ],
+          "fast": "Double Kick",
+          "charged": "Sacred Sword",
+          "dps": 30.94,
+          "tdo": 27843.0,
+          "avg_faints": 36
+        },
+        {
+          "name": "Mega Heracross",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Close Combat",
+          "dps": 30.42,
+          "tdo": 27378.0,
+          "avg_faints": 36
+        },
+        {
+          "name": "Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Counter",
+          "charged": "Aura Sphere",
+          "dps": 30.33,
+          "tdo": 27300.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Shadow Electivire",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Low Kick",
+          "charged": "Wild Charge",
+          "dps": 30.19,
+          "tdo": 27168.0,
+          "avg_faints": 56
+        },
+        {
+          "name": "Mega Latios",
+          "types": [
+            "Dragon",
+            "Psychic"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Aura Sphere",
+          "dps": 30.14,
+          "tdo": 27126.0,
+          "avg_faints": 33
+        }
+      ]
+    },
+    "Shadow Stantler": {
+      "types": [
+        "Normal"
+      ],
+      "tier": "T3",
+      "l40": [
+        {
+          "name": "Mega Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Force Palm",
+          "charged": "Aura Sphere",
+          "dps": 50.33,
+          "tdo": 45300.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Mega Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Counter",
+          "charged": "Aura Sphere",
+          "dps": 43.8,
+          "tdo": 39420.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Mega Blaziken",
+          "types": [
+            "Fire",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Focus Blast",
+          "dps": 42.03,
+          "tdo": 37827.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Mega Alakazam",
+          "types": [
+            "Psychic"
+          ],
+          "fast": "Counter",
+          "charged": "Focus Blast",
+          "dps": 39.12,
+          "tdo": 35210.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Force Palm",
+          "charged": "Aura Sphere",
+          "dps": 39.0,
+          "tdo": 35100.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Mega Heracross",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Close Combat",
+          "dps": 38.85,
+          "tdo": 34968.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Mega Heracross",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Upper Hand",
+          "dps": 38.8,
+          "tdo": 34920.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Terrakion",
+          "types": [
+            "Rock",
+            "Fighting"
+          ],
+          "fast": "Double Kick",
+          "charged": "Sacred Sword",
+          "dps": 37.16,
+          "tdo": 33444.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Mega Rayquaza",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Dragon Ascent",
+          "dps": 35.93,
+          "tdo": 32340.0,
+          "avg_faints": 40
+        },
+        {
+          "name": "Shadow Machamp",
+          "types": [
+            "Fighting"
+          ],
+          "fast": "Karate Chop",
+          "charged": "Dynamic Punch",
+          "dps": 35.73,
+          "tdo": 32160.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Shadow Raikou",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Thunder Shock",
+          "charged": "Aura Sphere",
+          "dps": 35.68,
+          "tdo": 32115.0,
+          "avg_faints": 53
+        },
+        {
+          "name": "Shadow Machamp",
+          "types": [
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Dynamic Punch",
+          "dps": 35.16,
+          "tdo": 31640.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Keldeo (Resolute)",
+          "types": [
+            "Water",
+            "Fighting"
+          ],
+          "fast": "Low Kick",
+          "charged": "Sacred Sword",
+          "dps": 35.07,
+          "tdo": 31561.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Keldeo (Ordinary)",
+          "types": [
+            "Water",
+            "Fighting"
+          ],
+          "fast": "Low Kick",
+          "charged": "Sacred Sword",
+          "dps": 35.07,
+          "tdo": 31561.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Mega Latios",
+          "types": [
+            "Dragon",
+            "Psychic"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Aura Sphere",
+          "dps": 34.64,
+          "tdo": 31176.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Mega Gallade",
+          "types": [
+            "Psychic",
+            "Fighting"
+          ],
+          "fast": "Low Kick",
+          "charged": "Close Combat",
+          "dps": 34.36,
+          "tdo": 30928.0,
+          "avg_faints": 53
+        },
+        {
+          "name": "Mega Blaziken",
+          "types": [
+            "Fire",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Blast Burn",
+          "dps": 34.33,
+          "tdo": 30900.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Counter",
+          "charged": "Aura Sphere",
+          "dps": 34.2,
+          "tdo": 30780.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Mega Latios",
+          "types": [
+            "Dragon",
+            "Psychic"
+          ],
+          "fast": "Zen Headbutt",
+          "charged": "Aura Sphere",
+          "dps": 34.13,
+          "tdo": 30720.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Shadow Latios",
+          "types": [
+            "Dragon",
+            "Psychic"
+          ],
+          "fast": "Zen Headbutt",
+          "charged": "Aura Sphere",
+          "dps": 33.91,
+          "tdo": 30520.0,
+          "avg_faints": 57
+        }
+      ],
+      "l50": [
+        {
+          "name": "Mega Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Force Palm",
+          "charged": "Aura Sphere",
+          "dps": 55.76,
+          "tdo": 50184.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Mega Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Counter",
+          "charged": "Aura Sphere",
+          "dps": 49.41,
+          "tdo": 44472.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Mega Blaziken",
+          "types": [
+            "Fire",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Focus Blast",
+          "dps": 44.0,
+          "tdo": 39600.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Mega Heracross",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Upper Hand",
+          "dps": 41.6,
+          "tdo": 37442.0,
+          "avg_faints": 40
+        },
+        {
+          "name": "Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Force Palm",
+          "charged": "Aura Sphere",
+          "dps": 41.33,
+          "tdo": 37200.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Mega Alakazam",
+          "types": [
+            "Psychic"
+          ],
+          "fast": "Counter",
+          "charged": "Focus Blast",
+          "dps": 40.94,
+          "tdo": 36850.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Terrakion",
+          "types": [
+            "Rock",
+            "Fighting"
+          ],
+          "fast": "Double Kick",
+          "charged": "Sacred Sword",
+          "dps": 40.45,
+          "tdo": 36403.0,
+          "avg_faints": 40
+        },
+        {
+          "name": "Mega Heracross",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Close Combat",
+          "dps": 39.87,
+          "tdo": 35880.0,
+          "avg_faints": 40
+        },
+        {
+          "name": "Mega Latios",
+          "types": [
+            "Dragon",
+            "Psychic"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Aura Sphere",
+          "dps": 39.5,
+          "tdo": 35548.0,
+          "avg_faints": 36
+        },
+        {
+          "name": "Mega Blaziken",
+          "types": [
+            "Fire",
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Blast Burn",
+          "dps": 38.99,
+          "tdo": 35095.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Mega Rayquaza",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Dragon Ascent",
+          "dps": 37.87,
+          "tdo": 34080.0,
+          "avg_faints": 40
+        },
+        {
+          "name": "Shadow Machamp",
+          "types": [
+            "Fighting"
+          ],
+          "fast": "Karate Chop",
+          "charged": "Dynamic Punch",
+          "dps": 37.73,
+          "tdo": 33960.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Shadow Machamp",
+          "types": [
+            "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Dynamic Punch",
+          "dps": 37.6,
+          "tdo": 33840.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Mega Latios",
+          "types": [
+            "Dragon",
+            "Psychic"
+          ],
+          "fast": "Zen Headbutt",
+          "charged": "Aura Sphere",
+          "dps": 37.4,
+          "tdo": 33660.0,
+          "avg_faints": 36
+        },
+        {
+          "name": "Keldeo (Resolute)",
+          "types": [
+            "Water",
+            "Fighting"
+          ],
+          "fast": "Low Kick",
+          "charged": "Sacred Sword",
+          "dps": 37.03,
+          "tdo": 33323.0,
+          "avg_faints": 40
+        },
+        {
+          "name": "Keldeo (Ordinary)",
+          "types": [
+            "Water",
+            "Fighting"
+          ],
+          "fast": "Low Kick",
+          "charged": "Sacred Sword",
+          "dps": 37.03,
+          "tdo": 33323.0,
+          "avg_faints": 40
+        },
+        {
+          "name": "Shadow Raikou",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Thunder Shock",
+          "charged": "Aura Sphere",
+          "dps": 36.8,
+          "tdo": 33120.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Shadow Raikou",
+          "types": [
+            "Electric"
+          ],
+          "fast": "Volt Switch",
+          "charged": "Aura Sphere",
+          "dps": 36.64,
+          "tdo": 32977.0,
+          "avg_faints": 48
+        },
+        {
+          "name": "Shadow Hariyama",
+          "types": [
+            "Fighting"
+          ],
+          "fast": "Force Palm",
+          "charged": "Dynamic Punch",
+          "dps": 36.29,
+          "tdo": 32663.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Lucario",
+          "types": [
+            "Fighting",
+            "Steel"
+          ],
+          "fast": "Counter",
+          "charged": "Aura Sphere",
+          "dps": 36.0,
+          "tdo": 32400.0,
+          "avg_faints": 60
         }
       ]
     },
