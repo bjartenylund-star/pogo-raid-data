@@ -17,140 +17,61 @@
     },
     {
       "name": "Shadow Latios",
-      "tier": "Shadow",
+      "tier": "Shadow T5",
       "types": [
         "Dragon",
         "Psychic"
       ]
     },
     {
-      "name": "Rayquaza",
-      "tier": "T5",
+      "name": "Ampharos",
+      "tier": "T3",
       "types": [
-        "Dragon",
-        "Flying"
-      ]
-    },
-    {
-      "name": "Mewtwo",
-      "tier": "T5",
-      "types": [
-        "Psychic"
-      ]
-    },
-    {
-      "name": "Lugia",
-      "tier": "T5",
-      "types": [
-        "Psychic",
-        "Flying"
-      ]
-    },
-    {
-      "name": "Zekrom",
-      "tier": "T5",
-      "types": [
-        "Dragon",
         "Electric"
       ]
     },
     {
-      "name": "Reshiram",
-      "tier": "T5",
+      "name": "Shiftry",
+      "tier": "T3",
       "types": [
-        "Dragon",
-        "Fire"
+        "Grass",
+        "Dark"
       ]
     },
     {
-      "name": "Palkia (ORIGIN)",
-      "tier": "T5",
-      "types": [
-        "Water",
-        "Dragon"
-      ]
-    },
-    {
-      "name": "Dialga (ORIGIN)",
-      "tier": "T5",
-      "types": [
-        "Steel",
-        "Dragon"
-      ]
-    },
-    {
-      "name": "Giratina (ORIGIN)",
-      "tier": "T5",
+      "name": "Dhelmise",
+      "tier": "T3",
       "types": [
         "Ghost",
+        "Grass"
+      ]
+    },
+    {
+      "name": "Vulpix (ALOLA)",
+      "tier": "T1",
+      "types": [
+        "Ice"
+      ]
+    },
+    {
+      "name": "Goomy",
+      "tier": "T1",
+      "types": [
         "Dragon"
       ]
     },
     {
-      "name": "Rayquaza (MEGA)",
-      "tier": "Mega",
+      "name": "Rookidee",
+      "tier": "T1",
       "types": [
-        "Dragon",
         "Flying"
       ]
     },
     {
-      "name": "Latios (MEGA)",
-      "tier": "Mega",
+      "name": "Sinistea",
+      "tier": "T1",
       "types": [
-        "Dragon",
-        "Psychic"
-      ]
-    },
-    {
-      "name": "Latias (MEGA)",
-      "tier": "Mega",
-      "types": [
-        "Dragon",
-        "Psychic"
-      ]
-    },
-    {
-      "name": "Kyogre (PRIMAL)",
-      "tier": "Mega",
-      "types": [
-        "Water"
-      ]
-    },
-    {
-      "name": "Groudon (PRIMAL)",
-      "tier": "Mega",
-      "types": [
-        "Ground"
-      ]
-    },
-    {
-      "name": "Shadow Lugia",
-      "tier": "Shadow",
-      "types": [
-        "Psychic",
-        "Flying"
-      ]
-    },
-    {
-      "name": "Shadow Mewtwo",
-      "tier": "Shadow",
-      "types": [
-        "Psychic"
-      ]
-    },
-    {
-      "name": "Shadow Raikou",
-      "tier": "Shadow",
-      "types": [
-        "Electric"
-      ]
-    },
-    {
-      "name": "Shadow Entei",
-      "tier": "Shadow",
-      "types": [
-        "Fire"
+        "Ghost"
       ]
     }
   ]
