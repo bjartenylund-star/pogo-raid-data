@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T17:21:25.958674",
+  "generated_at": "2026-04-11T21:53:01.771020",
   "disclaimer": "Data calculated by an independent community tool. Not affiliated with Niantic or The Pokemon Company.",
   "bosses": {
     "Kyogre": {
@@ -3551,6 +3551,730 @@
           "dps": 32.5,
           "tdo": 29251.0,
           "avg_faints": 57
+        }
+      ]
+    },
+    "Shadow Latios": {
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "tier": "T5",
+      "l40": [
+        {
+          "name": "Mega Rayquaza",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Breaking Swipe",
+          "dps": 33.18,
+          "tdo": 29862.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Eternatus",
+          "types": [
+            "Poison",
+            "Dragon"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Dynamax Cannon",
+          "dps": 32.4,
+          "tdo": 29160.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Kyurem (Black)",
+          "types": [
+            "Dragon",
+            "Ice"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Freeze Shock",
+          "dps": 31.4,
+          "tdo": 28260.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Necrozma (Dawn wings)",
+          "types": [
+            "Psychic",
+            "Ghost"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Moongeist Beam",
+          "dps": 30.22,
+          "tdo": 27198.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Mega Garchomp",
+          "types": [
+            "Dragon",
+            "Ground"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Breaking Swipe",
+          "dps": 29.46,
+          "tdo": 26514.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Mega Gengar",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Lick",
+          "charged": "Shadow Ball",
+          "dps": 28.72,
+          "tdo": 25848.0,
+          "avg_faints": 81
+        },
+        {
+          "name": "Kyurem (White)",
+          "types": [
+            "Dragon",
+            "Ice"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Ice Burn",
+          "dps": 28.66,
+          "tdo": 25792.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Mega Salamence",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Draco Meteor",
+          "dps": 28.22,
+          "tdo": 25398.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Shadow Salamence",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Outrage",
+          "dps": 26.78,
+          "tdo": 24100.0,
+          "avg_faints": 93
+        },
+        {
+          "name": "Mega Tyranitar",
+          "types": [
+            "Rock",
+            "Dark"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 26.4,
+          "tdo": 23760.0,
+          "avg_faints": 46
+        },
+        {
+          "name": "Mega Sceptile",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Breaking Swipe",
+          "dps": 25.72,
+          "tdo": 23148.0,
+          "avg_faints": 87
+        },
+        {
+          "name": "Palkia (Origin)",
+          "types": [
+            "Water",
+            "Dragon"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Draco Meteor",
+          "dps": 25.68,
+          "tdo": 23112.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Mega Gardevoir",
+          "types": [
+            "Psychic",
+            "Fairy"
+          ],
+          "fast": "Charm",
+          "charged": "Dazzling Gleam",
+          "dps": 25.65,
+          "tdo": 23084.0,
+          "avg_faints": 72
+        },
+        {
+          "name": "Mega Absol",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Brutal Swing",
+          "dps": 24.92,
+          "tdo": 22424.0,
+          "avg_faints": 109
+        },
+        {
+          "name": "Mega Banette",
+          "types": [
+            "Ghost"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Shadow Ball",
+          "dps": 24.9,
+          "tdo": 22414.0,
+          "avg_faints": 109
+        },
+        {
+          "name": "Mega Latios",
+          "types": [
+            "Dragon",
+            "Psychic"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Dragon Claw",
+          "dps": 24.44,
+          "tdo": 22000.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Primal Groudon",
+          "types": [
+            "Ground",
+            "Fire"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Precipice Blades",
+          "dps": 24.31,
+          "tdo": 21879.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "types": [
+            "Rock",
+            "Dark"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 24.3,
+          "tdo": 21868.0,
+          "avg_faints": 72
+        },
+        {
+          "name": "Pheromosa",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Bug Bite",
+          "charged": "Bug Buzz",
+          "dps": 24.17,
+          "tdo": 21756.0,
+          "avg_faints": 109
+        },
+        {
+          "name": "Dragonite",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Draco Meteor",
+          "dps": 24.05,
+          "tdo": 21645.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Shadow Weavile",
+          "types": [
+            "Dark",
+            "Ice"
+          ],
+          "fast": "Snarl",
+          "charged": "Avalanche",
+          "dps": 24.03,
+          "tdo": 21628.0,
+          "avg_faints": 109
+        },
+        {
+          "name": "Mega Houndoom",
+          "types": [
+            "Dark",
+            "Fire"
+          ],
+          "fast": "Snarl",
+          "charged": "Foul Play",
+          "dps": 24.0,
+          "tdo": 21600.0,
+          "avg_faints": 81
+        },
+        {
+          "name": "Rayquaza",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Breaking Swipe",
+          "dps": 23.89,
+          "tdo": 21504.0,
+          "avg_faints": 72
+        },
+        {
+          "name": "Shadow Latios",
+          "types": [
+            "Dragon",
+            "Psychic"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Dragon Claw",
+          "dps": 23.8,
+          "tdo": 21424.0,
+          "avg_faints": 81
+        },
+        {
+          "name": "Shadow Dragonite",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Draco Meteor",
+          "dps": 23.79,
+          "tdo": 21415.0,
+          "avg_faints": 72
+        },
+        {
+          "name": "Zacian (Crowned sword)",
+          "types": [
+            "Fairy",
+            "Steel"
+          ],
+          "fast": "Metal Claw",
+          "charged": "Play Rough",
+          "dps": 23.75,
+          "tdo": 21373.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Dialga",
+          "types": [
+            "Steel",
+            "Dragon"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Draco Meteor",
+          "dps": 23.68,
+          "tdo": 21312.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Reshiram",
+          "types": [
+            "Dragon",
+            "Fire"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Draco Meteor",
+          "dps": 23.68,
+          "tdo": 21312.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Shadow Absol",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Brutal Swing",
+          "dps": 23.61,
+          "tdo": 21252.0,
+          "avg_faints": 109
+        },
+        {
+          "name": "Dialga (Origin)",
+          "types": [
+            "Steel",
+            "Dragon"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Draco Meteor",
+          "dps": 23.5,
+          "tdo": 21150.0,
+          "avg_faints": 54
+        }
+      ],
+      "l50": [
+        {
+          "name": "Mega Rayquaza",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Breaking Swipe",
+          "dps": 34.9,
+          "tdo": 31410.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Eternatus",
+          "types": [
+            "Poison",
+            "Dragon"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Dynamax Cannon",
+          "dps": 33.49,
+          "tdo": 30140.0,
+          "avg_faints": 50
+        },
+        {
+          "name": "Kyurem (Black)",
+          "types": [
+            "Dragon",
+            "Ice"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Freeze Shock",
+          "dps": 33.15,
+          "tdo": 29835.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Mega Garchomp",
+          "types": [
+            "Dragon",
+            "Ground"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Breaking Swipe",
+          "dps": 31.82,
+          "tdo": 28638.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Mega Gengar",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Lick",
+          "charged": "Shadow Ball",
+          "dps": 31.32,
+          "tdo": 28190.0,
+          "avg_faints": 72
+        },
+        {
+          "name": "Necrozma (Dawn wings)",
+          "types": [
+            "Psychic",
+            "Ghost"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Moongeist Beam",
+          "dps": 31.24,
+          "tdo": 28116.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Shadow Salamence",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Outrage",
+          "dps": 30.52,
+          "tdo": 27470.0,
+          "avg_faints": 81
+        },
+        {
+          "name": "Mega Salamence",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Draco Meteor",
+          "dps": 29.79,
+          "tdo": 26811.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Kyurem (White)",
+          "types": [
+            "Dragon",
+            "Ice"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Ice Burn",
+          "dps": 29.63,
+          "tdo": 26664.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Mega Sceptile",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Breaking Swipe",
+          "dps": 28.99,
+          "tdo": 26088.0,
+          "avg_faints": 72
+        },
+        {
+          "name": "Shadow Dragonite",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Draco Meteor",
+          "dps": 27.96,
+          "tdo": 25164.0,
+          "avg_faints": 72
+        },
+        {
+          "name": "Mega Banette",
+          "types": [
+            "Ghost"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Shadow Ball",
+          "dps": 27.71,
+          "tdo": 24942.0,
+          "avg_faints": 93
+        },
+        {
+          "name": "Darmanitan (Galarian zen)",
+          "types": [
+            "Ice",
+            "Fire"
+          ],
+          "fast": "Ice Fang",
+          "charged": "Avalanche",
+          "dps": 27.66,
+          "tdo": 24897.0,
+          "avg_faints": 81
+        },
+        {
+          "name": "Palkia (Origin)",
+          "types": [
+            "Water",
+            "Dragon"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Draco Meteor",
+          "dps": 27.25,
+          "tdo": 24525.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Palkia",
+          "types": [
+            "Water",
+            "Dragon"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Draco Meteor",
+          "dps": 26.95,
+          "tdo": 24255.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Mega Tyranitar",
+          "types": [
+            "Rock",
+            "Dark"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 26.92,
+          "tdo": 24224.0,
+          "avg_faints": 43
+        },
+        {
+          "name": "Mega Latios",
+          "types": [
+            "Dragon",
+            "Psychic"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Dragon Claw",
+          "dps": 26.61,
+          "tdo": 23945.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Mega Absol",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Brutal Swing",
+          "dps": 26.52,
+          "tdo": 23868.0,
+          "avg_faints": 109
+        },
+        {
+          "name": "Pheromosa",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Bug Bite",
+          "charged": "Bug Buzz",
+          "dps": 26.42,
+          "tdo": 23774.0,
+          "avg_faints": 109
+        },
+        {
+          "name": "Shadow Latios",
+          "types": [
+            "Dragon",
+            "Psychic"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Dragon Claw",
+          "dps": 26.28,
+          "tdo": 23655.0,
+          "avg_faints": 72
+        },
+        {
+          "name": "Mega Gardevoir",
+          "types": [
+            "Psychic",
+            "Fairy"
+          ],
+          "fast": "Charm",
+          "charged": "Dazzling Gleam",
+          "dps": 25.67,
+          "tdo": 23102.0,
+          "avg_faints": 72
+        },
+        {
+          "name": "Shadow Weavile",
+          "types": [
+            "Dark",
+            "Ice"
+          ],
+          "fast": "Snarl",
+          "charged": "Avalanche",
+          "dps": 25.58,
+          "tdo": 23019.0,
+          "avg_faints": 109
+        },
+        {
+          "name": "Dragonite",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Draco Meteor",
+          "dps": 25.5,
+          "tdo": 22950.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Haxorus",
+          "types": [
+            "Dragon"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Breaking Swipe",
+          "dps": 25.35,
+          "tdo": 22812.0,
+          "avg_faints": 81
+        },
+        {
+          "name": "Shadow Absol",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Brutal Swing",
+          "dps": 25.07,
+          "tdo": 22560.0,
+          "avg_faints": 109
+        },
+        {
+          "name": "Blacephalon",
+          "types": [
+            "Fire",
+            "Ghost"
+          ],
+          "fast": "Astonish",
+          "charged": "Shadow Ball",
+          "dps": 25.05,
+          "tdo": 22544.0,
+          "avg_faints": 109
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "types": [
+            "Rock",
+            "Dark"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 25.02,
+          "tdo": 22522.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Mega Beedrill",
+          "types": [
+            "Bug",
+            "Poison"
+          ],
+          "fast": "Bug Bite",
+          "charged": "X Scissor",
+          "dps": 24.93,
+          "tdo": 22436.0,
+          "avg_faints": 98
+        },
+        {
+          "name": "Rayquaza",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "Breaking Swipe",
+          "dps": 24.93,
+          "tdo": 22433.0,
+          "avg_faints": 72
+        },
+        {
+          "name": "Kyurem",
+          "types": [
+            "Dragon",
+            "Ice"
+          ],
+          "fast": "Dragon Breath",
+          "charged": "Glaciate",
+          "dps": 24.88,
+          "tdo": 22392.0,
+          "avg_faints": 54
         }
       ]
     }
