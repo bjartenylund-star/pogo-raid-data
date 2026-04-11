@@ -1,0 +1,157 @@
+{
+  "bosses": [
+    {
+      "name": "Kyogre",
+      "tier": "T5",
+      "types": [
+        "Water"
+      ]
+    },
+    {
+      "name": "Aerodactyl (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Rock",
+        "Flying"
+      ]
+    },
+    {
+      "name": "Shadow Latios",
+      "tier": "Shadow",
+      "types": [
+        "Dragon",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Rayquaza",
+      "tier": "T5",
+      "types": [
+        "Dragon",
+        "Flying"
+      ]
+    },
+    {
+      "name": "Mewtwo",
+      "tier": "T5",
+      "types": [
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Lugia",
+      "tier": "T5",
+      "types": [
+        "Psychic",
+        "Flying"
+      ]
+    },
+    {
+      "name": "Zekrom",
+      "tier": "T5",
+      "types": [
+        "Dragon",
+        "Electric"
+      ]
+    },
+    {
+      "name": "Reshiram",
+      "tier": "T5",
+      "types": [
+        "Dragon",
+        "Fire"
+      ]
+    },
+    {
+      "name": "Palkia (ORIGIN)",
+      "tier": "T5",
+      "types": [
+        "Water",
+        "Dragon"
+      ]
+    },
+    {
+      "name": "Dialga (ORIGIN)",
+      "tier": "T5",
+      "types": [
+        "Steel",
+        "Dragon"
+      ]
+    },
+    {
+      "name": "Giratina (ORIGIN)",
+      "tier": "T5",
+      "types": [
+        "Ghost",
+        "Dragon"
+      ]
+    },
+    {
+      "name": "Rayquaza (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Dragon",
+        "Flying"
+      ]
+    },
+    {
+      "name": "Latios (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Dragon",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Latias (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Dragon",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Kyogre (PRIMAL)",
+      "tier": "Mega",
+      "types": [
+        "Water"
+      ]
+    },
+    {
+      "name": "Groudon (PRIMAL)",
+      "tier": "Mega",
+      "types": [
+        "Ground"
+      ]
+    },
+    {
+      "name": "Shadow Lugia",
+      "tier": "Shadow",
+      "types": [
+        "Psychic",
+        "Flying"
+      ]
+    },
+    {
+      "name": "Shadow Mewtwo",
+      "tier": "Shadow",
+      "types": [
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Shadow Raikou",
+      "tier": "Shadow",
+      "types": [
+        "Electric"
+      ]
+    },
+    {
+      "name": "Shadow Entei",
+      "tier": "Shadow",
+      "types": [
+        "Fire"
+      ]
+    }
+  ]
+}
