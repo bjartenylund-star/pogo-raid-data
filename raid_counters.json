@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T20:07:57.767198",
+  "generated_at": "2026-04-15T20:08:23.388197",
   "bosses": {
     "Groudon": {
       "types": [
@@ -705,6 +705,720 @@
           "dps": 21.26,
           "tdo": 19131.0,
           "avg_faints": 51
+        }
+      ]
+    },
+    "Alakazam (MEGA)": {
+      "types": [
+        "Psychic"
+      ],
+      "tier": "Mega",
+      "l40": [
+        {
+          "name": "Gengar (MEGA)",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Lick",
+          "charged": "Shadow Ball",
+          "dps": 28.83,
+          "tdo": 25950.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Gengar",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Lick",
+          "charged": "Shadow Ball",
+          "dps": 27.2,
+          "tdo": 24480.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Darkrai",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Shadow Ball",
+          "dps": 26.87,
+          "tdo": 24180.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Absol (MEGA)",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Brutal Swing",
+          "dps": 26.3,
+          "tdo": 23672.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Tyranitar (MEGA)",
+          "types": [
+            "Rock",
+            "Dark"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 26.19,
+          "tdo": 23573.0,
+          "avg_faints": 52
+        },
+        {
+          "name": "Heracross (MEGA)",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Megahorn",
+          "dps": 25.5,
+          "tdo": 22949.0,
+          "avg_faints": 78
+        },
+        {
+          "name": "Banette (MEGA)",
+          "types": [
+            "Ghost"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Shadow Ball",
+          "dps": 25.43,
+          "tdo": 22888.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Pheromosa",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Bug Bite",
+          "charged": "Bug Buzz",
+          "dps": 25.33,
+          "tdo": 22800.0,
+          "avg_faints": 164
+        },
+        {
+          "name": "Shadow Chandelure",
+          "types": [
+            "Ghost",
+            "Fire"
+          ],
+          "fast": "Hex",
+          "charged": "Shadow Ball",
+          "dps": 25.18,
+          "tdo": 22665.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Absol",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Brutal Swing",
+          "dps": 24.96,
+          "tdo": 22468.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Hydreigon",
+          "types": [
+            "Dark",
+            "Dragon"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 24.53,
+          "tdo": 22080.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "types": [
+            "Rock",
+            "Dark"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 24.3,
+          "tdo": 21870.0,
+          "avg_faints": 87
+        },
+        {
+          "name": "Shadow Vikavolt",
+          "types": [
+            "Bug",
+            "Electric"
+          ],
+          "fast": "Bug Bite",
+          "charged": "X Scissor",
+          "dps": 23.79,
+          "tdo": 21408.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Beedrill (MEGA)",
+          "types": [
+            "Bug",
+            "Poison"
+          ],
+          "fast": "Bug Bite",
+          "charged": "X Scissor",
+          "dps": 23.55,
+          "tdo": 21193.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Haunter",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Lick",
+          "charged": "Shadow Ball",
+          "dps": 23.53,
+          "tdo": 21176.0,
+          "avg_faints": 210
+        },
+        {
+          "name": "Blacephalon",
+          "types": [
+            "Fire",
+            "Ghost"
+          ],
+          "fast": "Astonish",
+          "charged": "Shadow Ball",
+          "dps": 23.18,
+          "tdo": 20865.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Pinsir (MEGA)",
+          "types": [
+            "Bug"
+          ],
+          "fast": "Bug Bite",
+          "charged": "X Scissor",
+          "dps": 23.15,
+          "tdo": 20832.0,
+          "avg_faints": 98
+        },
+        {
+          "name": "Shadow Pinsir",
+          "types": [
+            "Bug"
+          ],
+          "fast": "Bug Bite",
+          "charged": "X Scissor",
+          "dps": 23.09,
+          "tdo": 20778.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Scizor (MEGA)",
+          "types": [
+            "Bug",
+            "Steel"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "X Scissor",
+          "dps": 22.53,
+          "tdo": 20280.0,
+          "avg_faints": 78
+        },
+        {
+          "name": "Shadow Weavile",
+          "types": [
+            "Dark",
+            "Ice"
+          ],
+          "fast": "Snarl",
+          "charged": "Foul Play",
+          "dps": 22.47,
+          "tdo": 20220.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Darkrai",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Shadow Ball",
+          "dps": 22.47,
+          "tdo": 20220.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Houndoom (MEGA)",
+          "types": [
+            "Dark",
+            "Fire"
+          ],
+          "fast": "Snarl",
+          "charged": "Foul Play",
+          "dps": 22.42,
+          "tdo": 20178.0,
+          "avg_faints": 98
+        },
+        {
+          "name": "Shadow Honchkrow",
+          "types": [
+            "Dark",
+            "Flying"
+          ],
+          "fast": "Snarl",
+          "charged": "Dark Pulse",
+          "dps": 22.35,
+          "tdo": 20115.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Salamence",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Bite",
+          "charged": "Fly",
+          "dps": 22.27,
+          "tdo": 20045.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Banette",
+          "types": [
+            "Ghost"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Shadow Ball",
+          "dps": 22.16,
+          "tdo": 19948.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Gengar",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Shadow Ball",
+          "dps": 22.08,
+          "tdo": 19872.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Zoroark (HISUIAN)",
+          "types": [
+            "Normal",
+            "Ghost"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Shadow Ball",
+          "dps": 22.08,
+          "tdo": 19872.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Gengar (COSTUME 2020)",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Shadow Ball",
+          "dps": 22.08,
+          "tdo": 19872.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Sharpedo",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Bite",
+          "charged": "Crunch",
+          "dps": 21.94,
+          "tdo": 19750.0,
+          "avg_faints": 210
+        },
+        {
+          "name": "Shadow Scizor",
+          "types": [
+            "Bug",
+            "Steel"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "X Scissor",
+          "dps": 21.62,
+          "tdo": 19461.0,
+          "avg_faints": 105
+        }
+      ],
+      "l50": [
+        {
+          "name": "Gengar (MEGA)",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Shadow Ball",
+          "dps": 31.52,
+          "tdo": 28368.0,
+          "avg_faints": 98
+        },
+        {
+          "name": "Shadow Darkrai",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Shadow Ball",
+          "dps": 28.45,
+          "tdo": 25605.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Gengar",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Lick",
+          "charged": "Shadow Ball",
+          "dps": 28.25,
+          "tdo": 25425.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Absol (MEGA)",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Brutal Swing",
+          "dps": 27.98,
+          "tdo": 25180.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Banette (MEGA)",
+          "types": [
+            "Ghost"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Shadow Ball",
+          "dps": 27.68,
+          "tdo": 24916.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Tyranitar (MEGA)",
+          "types": [
+            "Rock",
+            "Dark"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 26.94,
+          "tdo": 24246.0,
+          "avg_faints": 52
+        },
+        {
+          "name": "Shadow Chandelure",
+          "types": [
+            "Ghost",
+            "Fire"
+          ],
+          "fast": "Hex",
+          "charged": "Shadow Ball",
+          "dps": 26.88,
+          "tdo": 24195.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "types": [
+            "Rock",
+            "Dark"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 26.74,
+          "tdo": 24065.0,
+          "avg_faints": 78
+        },
+        {
+          "name": "Shadow Absol",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Brutal Swing",
+          "dps": 26.47,
+          "tdo": 23824.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Pheromosa",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Bug Bite",
+          "charged": "Bug Buzz",
+          "dps": 26.38,
+          "tdo": 23745.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Vikavolt",
+          "types": [
+            "Bug",
+            "Electric"
+          ],
+          "fast": "Bug Bite",
+          "charged": "X Scissor",
+          "dps": 26.02,
+          "tdo": 23417.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Beedrill (MEGA)",
+          "types": [
+            "Bug",
+            "Poison"
+          ],
+          "fast": "Bug Bite",
+          "charged": "X Scissor",
+          "dps": 25.78,
+          "tdo": 23205.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Hydreigon",
+          "types": [
+            "Dark",
+            "Dragon"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 25.31,
+          "tdo": 22777.0,
+          "avg_faints": 98
+        },
+        {
+          "name": "Heracross (MEGA)",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Megahorn",
+          "dps": 24.97,
+          "tdo": 22470.0,
+          "avg_faints": 70
+        },
+        {
+          "name": "Pinsir (MEGA)",
+          "types": [
+            "Bug"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "X Scissor",
+          "dps": 24.9,
+          "tdo": 22413.0,
+          "avg_faints": 78
+        },
+        {
+          "name": "Blacephalon",
+          "types": [
+            "Fire",
+            "Ghost"
+          ],
+          "fast": "Astonish",
+          "charged": "Shadow Ball",
+          "dps": 24.88,
+          "tdo": 22395.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Haunter",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Lick",
+          "charged": "Shadow Ball",
+          "dps": 24.5,
+          "tdo": 22050.0,
+          "avg_faints": 164
+        },
+        {
+          "name": "Shadow Salamence",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Bite",
+          "charged": "Fly",
+          "dps": 24.39,
+          "tdo": 21951.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Shadow Weavile",
+          "types": [
+            "Dark",
+            "Ice"
+          ],
+          "fast": "Snarl",
+          "charged": "Foul Play",
+          "dps": 23.93,
+          "tdo": 21540.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Gengar",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Lick",
+          "charged": "Shadow Ball",
+          "dps": 23.92,
+          "tdo": 21525.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Gengar (COSTUME 2020)",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Lick",
+          "charged": "Shadow Ball",
+          "dps": 23.92,
+          "tdo": 21525.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Darkrai",
+          "types": [
+            "Dark"
+          ],
+          "fast": "Snarl",
+          "charged": "Shadow Ball",
+          "dps": 23.82,
+          "tdo": 21435.0,
+          "avg_faints": 87
+        },
+        {
+          "name": "Shadow Pinsir",
+          "types": [
+            "Bug"
+          ],
+          "fast": "Bug Bite",
+          "charged": "X Scissor",
+          "dps": 23.78,
+          "tdo": 21405.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Scizor (MEGA)",
+          "types": [
+            "Bug",
+            "Steel"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "X Scissor",
+          "dps": 23.72,
+          "tdo": 21344.0,
+          "avg_faints": 70
+        },
+        {
+          "name": "Shadow Honchkrow",
+          "types": [
+            "Dark",
+            "Flying"
+          ],
+          "fast": "Snarl",
+          "charged": "Dark Pulse",
+          "dps": 23.7,
+          "tdo": 21330.0,
+          "avg_faints": 105
+        },
+        {
+          "name": "Houndoom (MEGA)",
+          "types": [
+            "Dark",
+            "Fire"
+          ],
+          "fast": "Snarl",
+          "charged": "Foul Play",
+          "dps": 23.7,
+          "tdo": 21330.0,
+          "avg_faints": 87
+        },
+        {
+          "name": "Hydreigon",
+          "types": [
+            "Dark",
+            "Dragon"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 23.62,
+          "tdo": 21260.0,
+          "avg_faints": 70
+        },
+        {
+          "name": "Salamence (MEGA)",
+          "types": [
+            "Dragon",
+            "Flying"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 23.17,
+          "tdo": 20850.0,
+          "avg_faints": 52
+        },
+        {
+          "name": "Lunala",
+          "types": [
+            "Psychic",
+            "Ghost"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Shadow Ball",
+          "dps": 22.95,
+          "tdo": 20657.0,
+          "avg_faints": 52
+        },
+        {
+          "name": "Shadow Banette",
+          "types": [
+            "Ghost"
+          ],
+          "fast": "Shadow Claw",
+          "charged": "Shadow Ball",
+          "dps": 22.84,
+          "tdo": 20556.0,
+          "avg_faints": 105
         }
       ]
     },
