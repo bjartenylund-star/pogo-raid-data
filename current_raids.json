@@ -1,38 +1,46 @@
 {
   "bosses": [
     {
-      "name": "Ampharos",
-      "tier": "T3",
+      "name": "Groudon",
+      "tier": "T5",
       "types": [
-        "Electric"
+        "Ground"
       ]
     },
     {
-      "name": "Shiftry",
+      "name": "Shadow Latios",
+      "tier": "Shadow T5",
+      "types": [
+        "Dragon",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Vileplume",
       "tier": "T3",
       "types": [
         "Grass",
-        "Dark"
+        "Poison"
       ]
     },
     {
-      "name": "Dhelmise",
+      "name": "Dugtrio",
       "tier": "T3",
       "types": [
-        "Ghost",
-        "Grass"
+        "Ground"
       ]
     },
     {
-      "name": "Kyogre",
-      "tier": "T5",
+      "name": "Torterra",
+      "tier": "T3",
       "types": [
-        "Water"
+        "Grass",
+        "Ground"
       ]
     },
     {
       "name": "Shadow Lapras",
-      "tier": "T3",
+      "tier": "Shadow T3",
       "types": [
         "Water",
         "Ice"
@@ -40,17 +48,70 @@
     },
     {
       "name": "Shadow Stantler",
-      "tier": "T3",
+      "tier": "Shadow T3",
       "types": [
         "Normal"
       ]
     },
     {
-      "name": "Shadow Latios",
-      "tier": "T5",
+      "name": "Foongus",
+      "tier": "T1",
       "types": [
-        "Dragon",
-        "Psychic"
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Phantump",
+      "tier": "T1",
+      "types": [
+        "Ghost",
+        "Grass"
+      ]
+    },
+    {
+      "name": "Sandygast",
+      "tier": "T1",
+      "types": [
+        "Ghost",
+        "Ground"
+      ]
+    },
+    {
+      "name": "Gossifleur",
+      "tier": "T1",
+      "types": [
+        "Grass"
+      ]
+    },
+    {
+      "name": "Shadow Dratini",
+      "tier": "Shadow T1",
+      "types": [
+        "Dragon"
+      ]
+    },
+    {
+      "name": "Shadow Gligar",
+      "tier": "Shadow T1",
+      "types": [
+        "Ground",
+        "Flying"
+      ]
+    },
+    {
+      "name": "Shadow Cacnea",
+      "tier": "Shadow T1",
+      "types": [
+        "Grass"
+      ]
+    },
+    {
+      "name": "Shadow Joltik",
+      "tier": "Shadow T1",
+      "types": [
+        "Bug",
+        "Electric"
       ]
     }
   ]
