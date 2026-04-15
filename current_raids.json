@@ -1,29 +1,6 @@
 {
   "bosses": [
     {
-      "name": "Kyogre",
-      "tier": "T5",
-      "types": [
-        "Water"
-      ]
-    },
-    {
-      "name": "Aerodactyl (MEGA)",
-      "tier": "Mega",
-      "types": [
-        "Rock",
-        "Flying"
-      ]
-    },
-    {
-      "name": "Shadow Latios",
-      "tier": "Shadow T5",
-      "types": [
-        "Dragon",
-        "Psychic"
-      ]
-    },
-    {
       "name": "Ampharos",
       "tier": "T3",
       "types": [
@@ -47,31 +24,33 @@
       ]
     },
     {
-      "name": "Vulpix (ALOLA)",
-      "tier": "T1",
+      "name": "Kyogre",
+      "tier": "T5",
       "types": [
+        "Water"
+      ]
+    },
+    {
+      "name": "Shadow Lapras",
+      "tier": "T3",
+      "types": [
+        "Water",
         "Ice"
       ]
     },
     {
-      "name": "Goomy",
-      "tier": "T1",
+      "name": "Shadow Stantler",
+      "tier": "T3",
       "types": [
-        "Dragon"
+        "Normal"
       ]
     },
     {
-      "name": "Rookidee",
-      "tier": "T1",
+      "name": "Shadow Latios",
+      "tier": "T5",
       "types": [
-        "Flying"
-      ]
-    },
-    {
-      "name": "Sinistea",
-      "tier": "T1",
-      "types": [
-        "Ghost"
+        "Dragon",
+        "Psychic"
       ]
     }
   ]
