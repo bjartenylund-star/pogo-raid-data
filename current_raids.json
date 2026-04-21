@@ -1,17 +1,19 @@
 {
   "bosses": [
     {
-      "name": "Groudon",
+      "name": "Tapu Koko",
       "tier": "T5",
       "types": [
-        "Ground"
+        "Electric",
+        "Fairy"
       ]
     },
     {
-      "name": "Alakazam (MEGA)",
+      "name": "Sharpedo (MEGA)",
       "tier": "Mega",
       "types": [
-        "Psychic"
+        "Water",
+        "Dark"
       ]
     },
     {
