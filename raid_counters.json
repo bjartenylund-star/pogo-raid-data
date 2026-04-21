@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T22:37:05.259710",
+  "generated_at": "2026-04-21T23:02:23.635821",
   "bosses": {
     "Tapu Koko": {
       "types": [
@@ -307,7 +307,7 @@
           "avg_faints": 90
         },
         {
-          "name": "Landorus",
+          "name": "Landorus (INCARNATE)",
           "types": [
             "Ground",
             "Flying"
@@ -319,7 +319,7 @@
           "avg_faints": 60
         },
         {
-          "name": "Landorus (INCARNATE)",
+          "name": "Landorus",
           "types": [
             "Ground",
             "Flying"
@@ -1673,7 +1673,7 @@
           "avg_faints": 56
         },
         {
-          "name": "Venusaur (MEGA)",
+          "name": "Shadow Venusaur",
           "types": [
             "Grass",
             "Poison"
@@ -1685,7 +1685,7 @@
           "avg_faints": 56
         },
         {
-          "name": "Shadow Venusaur",
+          "name": "Venusaur (MEGA)",
           "types": [
             "Grass",
             "Poison"
@@ -2095,7 +2095,7 @@
           "avg_faints": 56
         },
         {
-          "name": "Shadow Venusaur",
+          "name": "Venusaur (MEGA)",
           "types": [
             "Grass",
             "Poison"
@@ -2107,7 +2107,7 @@
           "avg_faints": 56
         },
         {
-          "name": "Venusaur (MEGA)",
+          "name": "Shadow Venusaur",
           "types": [
             "Grass",
             "Poison"
@@ -2405,7 +2405,7 @@
             "Dark",
             "Dragon"
           ],
-          "fast": "Bite",
+          "fast": "Dragon Breath",
           "charged": "Brutal Swing",
           "dps": 24.48,
           "tdo": 22032.0,
@@ -2946,10 +2946,10 @@
           "avg_faints": 60
         },
         {
-          "name": "Gardevoir (MEGA)",
+          "name": "Gallade (MEGA)",
           "types": [
             "Psychic",
-            "Fairy"
+            "Fighting"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -2958,10 +2958,10 @@
           "avg_faints": 48
         },
         {
-          "name": "Gallade (MEGA)",
+          "name": "Gardevoir (MEGA)",
           "types": [
             "Psychic",
-            "Fighting"
+            "Fairy"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -3313,10 +3313,10 @@
           "avg_faints": 60
         },
         {
-          "name": "Gallade (MEGA)",
+          "name": "Gardevoir (MEGA)",
           "types": [
             "Psychic",
-            "Fighting"
+            "Fairy"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -3325,10 +3325,10 @@
           "avg_faints": 40
         },
         {
-          "name": "Gardevoir (MEGA)",
+          "name": "Gallade (MEGA)",
           "types": [
             "Psychic",
-            "Fairy"
+            "Fighting"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -5861,7 +5861,7 @@
           "avg_faints": 48
         },
         {
-          "name": "Keldeo",
+          "name": "Keldeo (RESOLUTE)",
           "types": [
             "Water",
             "Fighting"
@@ -5873,7 +5873,7 @@
           "avg_faints": 48
         },
         {
-          "name": "Keldeo (RESOLUTE)",
+          "name": "Keldeo",
           "types": [
             "Water",
             "Fighting"
@@ -6003,9 +6003,10 @@
           "avg_faints": 55
         },
         {
-          "name": "Urshifu",
+          "name": "Urshifu (SINGLE STRIKE)",
           "types": [
-            "Fighting"
+            "Fighting",
+            "Dark"
           ],
           "fast": "Counter",
           "charged": "Dynamic Punch",
@@ -6026,10 +6027,9 @@
           "avg_faints": 40
         },
         {
-          "name": "Urshifu (SINGLE STRIKE)",
+          "name": "Urshifu",
           "types": [
-            "Fighting",
-            "Dark"
+            "Fighting"
           ],
           "fast": "Counter",
           "charged": "Dynamic Punch",
@@ -6236,7 +6236,7 @@
           "avg_faints": 40
         },
         {
-          "name": "Keldeo",
+          "name": "Keldeo (ORDINARY)",
           "types": [
             "Water",
             "Fighting"
@@ -6248,7 +6248,7 @@
           "avg_faints": 40
         },
         {
-          "name": "Keldeo (ORDINARY)",
+          "name": "Keldeo",
           "types": [
             "Water",
             "Fighting"
@@ -7128,10 +7128,10 @@
           "avg_faints": 30
         },
         {
-          "name": "Shadow Gardevoir",
+          "name": "Shadow Gallade",
           "types": [
             "Psychic",
-            "Fairy"
+            "Fighting"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -7140,10 +7140,10 @@
           "avg_faints": 34
         },
         {
-          "name": "Shadow Gallade",
+          "name": "Shadow Gardevoir",
           "types": [
             "Psychic",
-            "Fighting"
+            "Fairy"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -7397,18 +7397,6 @@
           "avg_faints": 48
         },
         {
-          "name": "Shadow Tyranitar",
-          "types": [
-            "Rock",
-            "Dark"
-          ],
-          "fast": "Bite",
-          "charged": "Brutal Swing",
-          "dps": 48.8,
-          "tdo": 43920.0,
-          "avg_faints": 32
-        },
-        {
           "name": "Shadow Hydreigon",
           "types": [
             "Dark",
@@ -7419,6 +7407,18 @@
           "dps": 48.8,
           "tdo": 43920.0,
           "avg_faints": 37
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "types": [
+            "Rock",
+            "Dark"
+          ],
+          "fast": "Bite",
+          "charged": "Brutal Swing",
+          "dps": 48.8,
+          "tdo": 43920.0,
+          "avg_faints": 32
         },
         {
           "name": "Charizard (MEGA X)",
