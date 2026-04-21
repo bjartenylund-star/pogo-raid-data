@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T22:25:37.933611",
+  "generated_at": "2026-04-21T22:37:05.259710",
   "bosses": {
     "Tapu Koko": {
       "types": [
@@ -721,6 +721,715 @@
           "dps": 24.42,
           "tdo": 21975.0,
           "avg_faints": 60
+        }
+      ]
+    },
+    "Groudon": {
+      "types": [
+        "Ground"
+      ],
+      "tier": "T5",
+      "l40": [
+        {
+          "name": "Kyogre (PRIMAL)",
+          "types": [
+            "Water"
+          ],
+          "fast": "Waterfall",
+          "charged": "Origin Pulse",
+          "dps": 27.31,
+          "tdo": 24581.0,
+          "avg_faints": 51
+        },
+        {
+          "name": "Sceptile (MEGA)",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Bullet Seed",
+          "charged": "Frenzy Plant",
+          "dps": 24.88,
+          "tdo": 22392.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Swampert (MEGA)",
+          "types": [
+            "Water",
+            "Ground"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 23.3,
+          "tdo": 20968.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Darmanitan (GALARIAN ZEN)",
+          "types": [
+            "Ice",
+            "Fire"
+          ],
+          "fast": "Ice Fang",
+          "charged": "Avalanche",
+          "dps": 23.15,
+          "tdo": 20834.0,
+          "avg_faints": 93
+        },
+        {
+          "name": "Shadow Kingler",
+          "types": [
+            "Water"
+          ],
+          "fast": "Bubble",
+          "charged": "Razor Shell",
+          "dps": 22.82,
+          "tdo": 20535.0,
+          "avg_faints": 124
+        },
+        {
+          "name": "Blastoise (MEGA)",
+          "types": [
+            "Water"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 22.47,
+          "tdo": 20224.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Chesnaught",
+          "types": [
+            "Grass",
+            "Fighting"
+          ],
+          "fast": "Vine Whip",
+          "charged": "Frenzy Plant",
+          "dps": 22.46,
+          "tdo": 20216.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Venusaur (MEGA)",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Vine Whip",
+          "charged": "Frenzy Plant",
+          "dps": 22.34,
+          "tdo": 20104.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Venusaur",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Vine Whip",
+          "charged": "Frenzy Plant",
+          "dps": 22.21,
+          "tdo": 19992.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Victreebel (MEGA)",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Magical Leaf",
+          "charged": "Solar Beam",
+          "dps": 22.1,
+          "tdo": 19886.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shaymin (SKY)",
+          "types": [
+            "Grass",
+            "Flying"
+          ],
+          "fast": "Magical Leaf",
+          "charged": "Grass Knot",
+          "dps": 21.96,
+          "tdo": 19762.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Swampert",
+          "types": [
+            "Water",
+            "Ground"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 21.92,
+          "tdo": 19728.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Feraligatr",
+          "types": [
+            "Water"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 21.64,
+          "tdo": 19480.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Tangrowth",
+          "types": [
+            "Grass"
+          ],
+          "fast": "Vine Whip",
+          "charged": "Solar Beam",
+          "dps": 21.47,
+          "tdo": 19320.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Kartana",
+          "types": [
+            "Grass",
+            "Steel"
+          ],
+          "fast": "Razor Leaf",
+          "charged": "Leaf Blade",
+          "dps": 21.41,
+          "tdo": 19270.0,
+          "avg_faints": 103
+        },
+        {
+          "name": "Zarude",
+          "types": [
+            "Dark",
+            "Grass"
+          ],
+          "fast": "Vine Whip",
+          "charged": "Power Whip",
+          "dps": 21.35,
+          "tdo": 19215.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Gardevoir (MEGA)",
+          "types": [
+            "Psychic",
+            "Fairy"
+          ],
+          "fast": "Magical Leaf",
+          "charged": "Triple Axel",
+          "dps": 21.17,
+          "tdo": 19055.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Sceptile",
+          "types": [
+            "Grass"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Frenzy Plant",
+          "dps": 21.14,
+          "tdo": 19022.0,
+          "avg_faints": 108
+        },
+        {
+          "name": "Shadow Regigigas",
+          "types": [
+            "Normal"
+          ],
+          "fast": "Hidden Power",
+          "charged": "Crush Grip",
+          "dps": 21.01,
+          "tdo": 18908.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Victreebel",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Magical Leaf",
+          "charged": "Solar Beam",
+          "dps": 20.97,
+          "tdo": 18872.0,
+          "avg_faints": 124
+        },
+        {
+          "name": "Shadow Samurott",
+          "types": [
+            "Water"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Hydro Cannon",
+          "dps": 20.64,
+          "tdo": 18575.0,
+          "avg_faints": 93
+        },
+        {
+          "name": "Shadow Empoleon",
+          "types": [
+            "Water",
+            "Steel"
+          ],
+          "fast": "Metal Claw",
+          "charged": "Hydro Cannon",
+          "dps": 20.61,
+          "tdo": 18548.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Roserade",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Magical Leaf",
+          "charged": "Solar Beam",
+          "dps": 20.56,
+          "tdo": 18500.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Mewtwo",
+          "types": [
+            "Psychic"
+          ],
+          "fast": "Psycho Cut",
+          "charged": "Ice Beam",
+          "dps": 20.54,
+          "tdo": 18484.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Exeggutor",
+          "types": [
+            "Grass",
+            "Psychic"
+          ],
+          "fast": "Bullet Seed",
+          "charged": "Solar Beam",
+          "dps": 20.52,
+          "tdo": 18469.0,
+          "avg_faints": 93
+        },
+        {
+          "name": "Palafin (HERO)",
+          "types": [
+            "Water"
+          ],
+          "fast": "Waterfall",
+          "charged": "Water Pulse",
+          "dps": 20.27,
+          "tdo": 18246.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Weavile",
+          "types": [
+            "Dark",
+            "Ice"
+          ],
+          "fast": "Snarl",
+          "charged": "Avalanche",
+          "dps": 20.23,
+          "tdo": 18206.0,
+          "avg_faints": 93
+        },
+        {
+          "name": "Eternatus",
+          "types": [
+            "Poison",
+            "Dragon"
+          ],
+          "fast": "Dragon Tail",
+          "charged": "482",
+          "dps": 19.99,
+          "tdo": 17991.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Kyurem (WHITE)",
+          "types": [
+            "Dragon",
+            "Ice"
+          ],
+          "fast": "Ice Fang",
+          "charged": "Blizzard",
+          "dps": 19.97,
+          "tdo": 17970.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Gyarados",
+          "types": [
+            "Water",
+            "Flying"
+          ],
+          "fast": "Waterfall",
+          "charged": "Aqua Tail",
+          "dps": 19.86,
+          "tdo": 17872.0,
+          "avg_faints": 62
+        }
+      ],
+      "l50": [
+        {
+          "name": "Kyogre (PRIMAL)",
+          "types": [
+            "Water"
+          ],
+          "fast": "Waterfall",
+          "charged": "Origin Pulse",
+          "dps": 28.05,
+          "tdo": 25245.0,
+          "avg_faints": 41
+        },
+        {
+          "name": "Sceptile (MEGA)",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Bullet Seed",
+          "charged": "Frenzy Plant",
+          "dps": 25.98,
+          "tdo": 23384.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Darmanitan (GALARIAN ZEN)",
+          "types": [
+            "Ice",
+            "Fire"
+          ],
+          "fast": "Ice Fang",
+          "charged": "Avalanche",
+          "dps": 24.55,
+          "tdo": 22096.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Kartana",
+          "types": [
+            "Grass",
+            "Steel"
+          ],
+          "fast": "Razor Leaf",
+          "charged": "Leaf Blade",
+          "dps": 24.44,
+          "tdo": 21992.0,
+          "avg_faints": 93
+        },
+        {
+          "name": "Swampert (MEGA)",
+          "types": [
+            "Water",
+            "Ground"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 24.31,
+          "tdo": 21882.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Shadow Sceptile",
+          "types": [
+            "Grass"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Frenzy Plant",
+          "dps": 24.08,
+          "tdo": 21676.0,
+          "avg_faints": 93
+        },
+        {
+          "name": "Shadow Kingler",
+          "types": [
+            "Water"
+          ],
+          "fast": "Bubble",
+          "charged": "Razor Shell",
+          "dps": 23.56,
+          "tdo": 21207.0,
+          "avg_faints": 93
+        },
+        {
+          "name": "Shadow Greninja",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Water Shuriken",
+          "charged": "Hydro Cannon",
+          "dps": 23.54,
+          "tdo": 21183.0,
+          "avg_faints": 93
+        },
+        {
+          "name": "Venusaur (MEGA)",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Vine Whip",
+          "charged": "Frenzy Plant",
+          "dps": 23.41,
+          "tdo": 21072.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Victreebel (MEGA)",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Magical Leaf",
+          "charged": "Solar Beam",
+          "dps": 23.36,
+          "tdo": 21024.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shaymin (SKY)",
+          "types": [
+            "Grass",
+            "Flying"
+          ],
+          "fast": "Magical Leaf",
+          "charged": "Grass Knot",
+          "dps": 23.22,
+          "tdo": 20900.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Chesnaught",
+          "types": [
+            "Grass",
+            "Fighting"
+          ],
+          "fast": "Vine Whip",
+          "charged": "Frenzy Plant",
+          "dps": 23.21,
+          "tdo": 20888.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Kyogre",
+          "types": [
+            "Water"
+          ],
+          "fast": "Waterfall",
+          "charged": "Origin Pulse",
+          "dps": 23.2,
+          "tdo": 20880.0,
+          "avg_faints": 54
+        },
+        {
+          "name": "Shadow Venusaur",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Vine Whip",
+          "charged": "Frenzy Plant",
+          "dps": 23.08,
+          "tdo": 20776.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Swampert",
+          "types": [
+            "Water",
+            "Ground"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 22.75,
+          "tdo": 20472.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Blastoise (MEGA)",
+          "types": [
+            "Water"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 22.57,
+          "tdo": 20312.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Gyarados (MEGA)",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Waterfall",
+          "charged": "Hydro Pump",
+          "dps": 22.53,
+          "tdo": 20275.0,
+          "avg_faints": 49
+        },
+        {
+          "name": "Shadow Feraligatr",
+          "types": [
+            "Water"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 22.47,
+          "tdo": 20224.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Regigigas",
+          "types": [
+            "Normal"
+          ],
+          "fast": "Hidden Power",
+          "charged": "Crush Grip",
+          "dps": 22.41,
+          "tdo": 20170.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Gardevoir (MEGA)",
+          "types": [
+            "Psychic",
+            "Fairy"
+          ],
+          "fast": "Magical Leaf",
+          "charged": "Triple Axel",
+          "dps": 22.34,
+          "tdo": 20108.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Tangrowth",
+          "types": [
+            "Grass"
+          ],
+          "fast": "Vine Whip",
+          "charged": "Power Whip",
+          "dps": 22.21,
+          "tdo": 19992.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Weavile",
+          "types": [
+            "Dark",
+            "Ice"
+          ],
+          "fast": "Ice Shard",
+          "charged": "Avalanche",
+          "dps": 21.86,
+          "tdo": 19675.0,
+          "avg_faints": 93
+        },
+        {
+          "name": "Roserade",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Magical Leaf",
+          "charged": "Solar Beam",
+          "dps": 21.82,
+          "tdo": 19638.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Quaquaval",
+          "types": [
+            "Water",
+            "Fighting"
+          ],
+          "fast": "Water Gun",
+          "charged": "Hydro Cannon",
+          "dps": 21.78,
+          "tdo": 19604.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Samurott",
+          "types": [
+            "Water"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Hydro Cannon",
+          "dps": 21.67,
+          "tdo": 19505.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Mewtwo",
+          "types": [
+            "Psychic"
+          ],
+          "fast": "Psycho Cut",
+          "charged": "Ice Beam",
+          "dps": 21.5,
+          "tdo": 19352.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Exeggutor",
+          "types": [
+            "Grass",
+            "Psychic"
+          ],
+          "fast": "Bullet Seed",
+          "charged": "Solar Beam",
+          "dps": 21.47,
+          "tdo": 19322.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Shadow Empoleon",
+          "types": [
+            "Water",
+            "Steel"
+          ],
+          "fast": "Metal Claw",
+          "charged": "Hydro Cannon",
+          "dps": 21.44,
+          "tdo": 19292.0,
+          "avg_faints": 62
+        },
+        {
+          "name": "Palafin (HERO)",
+          "types": [
+            "Water"
+          ],
+          "fast": "Waterfall",
+          "charged": "Water Pulse",
+          "dps": 21.32,
+          "tdo": 19188.0,
+          "avg_faints": 57
+        },
+        {
+          "name": "Zarude",
+          "types": [
+            "Dark",
+            "Grass"
+          ],
+          "fast": "Vine Whip",
+          "charged": "Power Whip",
+          "dps": 21.26,
+          "tdo": 19135.0,
+          "avg_faints": 51
         }
       ]
     },

@@ -9,6 +9,13 @@
       ]
     },
     {
+      "name": "Groudon",
+      "tier": "T5",
+      "types": [
+        "Ground"
+      ]
+    },
+    {
       "name": "Sharpedo (MEGA)",
       "tier": "Mega",
       "types": [
