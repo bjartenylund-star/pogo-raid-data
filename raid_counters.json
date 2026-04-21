@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T21:22:07.288595",
+  "generated_at": "2026-04-21T22:25:37.933611",
   "bosses": {
     "Tapu Koko": {
       "types": [
@@ -9,51 +9,16 @@
       "tier": "T5",
       "l40": [
         {
-          "name": "Beedrill (MEGA)",
-          "types": [
-            "Bug",
-            "Poison"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 29.53,
-          "tdo": 26579.0,
-          "avg_faints": 95
-        },
-        {
-          "name": "Shadow Groudon",
-          "types": [
-            "Ground"
-          ],
-          "fast": "Mud Shot",
-          "charged": "Earthquake",
-          "dps": 29.29,
-          "tdo": 26364.0,
-          "avg_faints": 74
-        },
-        {
-          "name": "Shadow Garchomp",
-          "types": [
-            "Dragon",
-            "Ground"
-          ],
-          "fast": "Mud Shot",
-          "charged": "Earthquake",
-          "dps": 28.72,
-          "tdo": 25846.0,
-          "avg_faints": 74
-        },
-        {
-          "name": "Landorus (THERIAN)",
+          "name": "Groudon (PRIMAL)",
           "types": [
             "Ground",
-            "Flying"
+            "Fire"
           ],
           "fast": "Mud Shot",
-          "charged": "Sandsear Storm",
-          "dps": 28.6,
-          "tdo": 25738.0,
-          "avg_faints": 77
+          "charged": "Precipice Blades",
+          "dps": 35.19,
+          "tdo": 31670.0,
+          "avg_faints": 45
         },
         {
           "name": "Garchomp (MEGA)",
@@ -63,9 +28,21 @@
           ],
           "fast": "Mud Shot",
           "charged": "Earth Power",
-          "dps": 28.33,
-          "tdo": 25499.0,
-          "avg_faints": 51
+          "dps": 29.56,
+          "tdo": 26600.0,
+          "avg_faints": 45
+        },
+        {
+          "name": "Beedrill (MEGA)",
+          "types": [
+            "Bug",
+            "Poison"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 29.05,
+          "tdo": 26145.0,
+          "avg_faints": 90
         },
         {
           "name": "Shadow Excadrill",
@@ -75,163 +52,32 @@
           ],
           "fast": "Mud Slap",
           "charged": "Scorching Sands",
-          "dps": 27.6,
-          "tdo": 24837.0,
-          "avg_faints": 77
+          "dps": 28.77,
+          "tdo": 25890.0,
+          "avg_faints": 90
         },
         {
-          "name": "Eternatus",
+          "name": "Shadow Garchomp",
           "types": [
-            "Poison",
-            "Dragon"
+            "Dragon",
+            "Ground"
           ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 27.44,
-          "tdo": 24699.0,
-          "avg_faints": 51
+          "fast": "Mud Shot",
+          "charged": "Earth Power",
+          "dps": 27.93,
+          "tdo": 25140.0,
+          "avg_faints": 60
         },
         {
-          "name": "Groudon (PRIMAL)",
+          "name": "Groudon",
           "types": [
             "Ground"
           ],
           "fast": "Mud Shot",
-          "charged": "Earthquake",
-          "dps": 27.16,
-          "tdo": 24447.0,
-          "avg_faints": 51
-        },
-        {
-          "name": "Shadow Gengar",
-          "types": [
-            "Ghost",
-            "Poison"
-          ],
-          "fast": "Lick",
-          "charged": "Sludge Bomb",
-          "dps": 26.88,
-          "tdo": 24192.0,
-          "avg_faints": 124
-        },
-        {
-          "name": "Gengar (MEGA)",
-          "types": [
-            "Ghost",
-            "Poison"
-          ],
-          "fast": "Lick",
-          "charged": "Sludge Bomb",
-          "dps": 26.37,
-          "tdo": 23732.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Toxicroak",
-          "types": [
-            "Poison",
-            "Fighting"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 25.71,
-          "tdo": 23136.0,
-          "avg_faints": 102
-        },
-        {
-          "name": "Eternatus (ETERNAMAX)",
-          "types": [
-            "Poison",
-            "Dragon"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 25.22,
-          "tdo": 22698.0,
-          "avg_faints": 14
-        },
-        {
-          "name": "Shadow Overqwil",
-          "types": [
-            "Dark",
-            "Poison"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 25.13,
-          "tdo": 22615.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Regigigas",
-          "types": [
-            "Normal"
-          ],
-          "fast": "Hidden Power",
-          "charged": "Crush Grip",
-          "dps": 24.8,
-          "tdo": 22323.0,
-          "avg_faints": 74
-        },
-        {
-          "name": "Nihilego",
-          "types": [
-            "Rock",
-            "Poison"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 24.65,
-          "tdo": 22185.0,
-          "avg_faints": 51
-        },
-        {
-          "name": "Shadow Mamoswine",
-          "types": [
-            "Ice",
-            "Ground"
-          ],
-          "fast": "Mud Slap",
-          "charged": "Bulldoze",
-          "dps": 24.64,
-          "tdo": 22178.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Golurk",
-          "types": [
-            "Ground",
-            "Ghost"
-          ],
-          "fast": "Mud Slap",
-          "charged": "Earth Power",
-          "dps": 24.61,
-          "tdo": 22147.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Scolipede",
-          "types": [
-            "Bug",
-            "Poison"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 24.54,
-          "tdo": 22083.0,
-          "avg_faints": 102
-        },
-        {
-          "name": "Naganadel",
-          "types": [
-            "Poison",
-            "Dragon"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 24.08,
-          "tdo": 21676.0,
-          "avg_faints": 77
+          "charged": "Precipice Blades",
+          "dps": 26.92,
+          "tdo": 24227.0,
+          "avg_faints": 45
         },
         {
           "name": "Shadow Rhyperior",
@@ -241,33 +87,68 @@
           ],
           "fast": "Mud Slap",
           "charged": "Earthquake",
-          "dps": 24.03,
-          "tdo": 21623.0,
-          "avg_faints": 68
+          "dps": 26.52,
+          "tdo": 23864.0,
+          "avg_faints": 60
         },
         {
-          "name": "Shadow Victreebel",
+          "name": "Eternatus",
           "types": [
-            "Grass",
-            "Poison"
-          ],
-          "fast": "Acid",
-          "charged": "Sludge Bomb",
-          "dps": 23.98,
-          "tdo": 21585.0,
-          "avg_faints": 110
-        },
-        {
-          "name": "Shadow Flygon",
-          "types": [
-            "Ground",
+            "Poison",
             "Dragon"
           ],
-          "fast": "Sand Attack",
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 26.45,
+          "tdo": 23805.0,
+          "avg_faints": 45
+        },
+        {
+          "name": "Landorus (THERIAN)",
+          "types": [
+            "Ground",
+            "Flying"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Sandsear Storm",
+          "dps": 26.44,
+          "tdo": 23798.0,
+          "avg_faints": 67
+        },
+        {
+          "name": "Shadow Groudon",
+          "types": [
+            "Ground"
+          ],
+          "fast": "Mud Shot",
           "charged": "Earthquake",
-          "dps": 23.98,
-          "tdo": 21580.0,
-          "avg_faints": 77
+          "dps": 26.4,
+          "tdo": 23760.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Shadow Overqwil",
+          "types": [
+            "Dark",
+            "Poison"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 26.15,
+          "tdo": 23535.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Shadow Golurk",
+          "types": [
+            "Ground",
+            "Ghost"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Earth Power",
+          "dps": 25.7,
+          "tdo": 23130.0,
+          "avg_faints": 90
         },
         {
           "name": "Shadow Landorus",
@@ -277,9 +158,69 @@
           ],
           "fast": "Mud Shot",
           "charged": "Earth Power",
-          "dps": 23.75,
-          "tdo": 21378.0,
-          "avg_faints": 77
+          "dps": 25.4,
+          "tdo": 22860.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Shadow Mamoswine",
+          "types": [
+            "Ice",
+            "Ground"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Bulldoze",
+          "dps": 25.4,
+          "tdo": 22860.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Naganadel",
+          "types": [
+            "Poison",
+            "Dragon"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 25.1,
+          "tdo": 22590.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Eternatus (ETERNAMAX)",
+          "types": [
+            "Poison",
+            "Dragon"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 24.92,
+          "tdo": 22424.0,
+          "avg_faints": 13
+        },
+        {
+          "name": "Shadow Toxicroak",
+          "types": [
+            "Poison",
+            "Fighting"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 24.8,
+          "tdo": 22320.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Gengar (MEGA)",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Lick",
+          "charged": "Sludge Bomb",
+          "dps": 24.2,
+          "tdo": 21780.0,
+          "avg_faints": 90
         },
         {
           "name": "Shadow Nidoking",
@@ -289,44 +230,45 @@
           ],
           "fast": "Poison Jab",
           "charged": "Earth Power",
-          "dps": 23.46,
-          "tdo": 21111.0,
-          "avg_faints": 95
+          "dps": 23.95,
+          "tdo": 21555.0,
+          "avg_faints": 90
         },
         {
-          "name": "Shadow Hippowdon",
+          "name": "Heracross (MEGA)",
           "types": [
-            "Ground"
+            "Bug",
+            "Fighting"
           ],
-          "fast": "Sand Attack",
+          "fast": "Fury Cutter",
           "charged": "Earthquake",
-          "dps": 23.37,
-          "tdo": 21033.0,
-          "avg_faints": 74
+          "dps": 23.8,
+          "tdo": 21424.0,
+          "avg_faints": 60
         },
         {
-          "name": "Shadow Golem",
+          "name": "Victreebel (MEGA)",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Acid",
+          "charged": "Sludge Bomb",
+          "dps": 23.8,
+          "tdo": 21422.0,
+          "avg_faints": 67
+        },
+        {
+          "name": "Nihilego",
           "types": [
             "Rock",
-            "Ground"
+            "Poison"
           ],
-          "fast": "Mud Shot",
-          "charged": "Earthquake",
-          "dps": 23.36,
-          "tdo": 21027.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Swampert",
-          "types": [
-            "Water",
-            "Ground"
-          ],
-          "fast": "Mud Shot",
-          "charged": "Earthquake",
-          "dps": 23.21,
-          "tdo": 20885.0,
-          "avg_faints": 77
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 23.75,
+          "tdo": 21375.0,
+          "avg_faints": 45
         },
         {
           "name": "Garchomp",
@@ -336,365 +278,9 @@
           ],
           "fast": "Mud Shot",
           "charged": "Earth Power",
-          "dps": 23.18,
-          "tdo": 20858.0,
-          "avg_faints": 59
-        },
-        {
-          "name": "Excadrill",
-          "types": [
-            "Ground",
-            "Steel"
-          ],
-          "fast": "Mud Slap",
-          "charged": "Scorching Sands",
-          "dps": 23.15,
-          "tdo": 20836.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Deoxys (ATTACK)",
-          "types": [
-            "Psychic"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Psycho Boost",
-          "dps": 23.0,
-          "tdo": 20700.0,
-          "avg_faints": 154
-        }
-      ],
-      "l50": [
-        {
-          "name": "Groudon (PRIMAL)",
-          "types": [
-            "Ground"
-          ],
-          "fast": "Mud Shot",
-          "charged": "Precipice Blades",
-          "dps": 35.93,
-          "tdo": 32334.0,
-          "avg_faints": 44
-        },
-        {
-          "name": "Garchomp (MEGA)",
-          "types": [
-            "Dragon",
-            "Ground"
-          ],
-          "fast": "Mud Shot",
-          "charged": "Earth Power",
-          "dps": 30.36,
-          "tdo": 27320.0,
-          "avg_faints": 49
-        },
-        {
-          "name": "Beedrill (MEGA)",
-          "types": [
-            "Bug",
-            "Poison"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 29.37,
-          "tdo": 26433.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Excadrill",
-          "types": [
-            "Ground",
-            "Steel"
-          ],
-          "fast": "Mud Slap",
-          "charged": "Scorching Sands",
-          "dps": 29.36,
-          "tdo": 26422.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Groudon",
-          "types": [
-            "Ground"
-          ],
-          "fast": "Mud Shot",
-          "charged": "Earthquake",
-          "dps": 29.15,
-          "tdo": 26234.0,
-          "avg_faints": 61
-        },
-        {
-          "name": "Eternatus",
-          "types": [
-            "Poison",
-            "Dragon"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 29.07,
-          "tdo": 26160.0,
-          "avg_faints": 51
-        },
-        {
-          "name": "Shadow Garchomp",
-          "types": [
-            "Dragon",
-            "Ground"
-          ],
-          "fast": "Mud Shot",
-          "charged": "Earth Power",
-          "dps": 28.88,
-          "tdo": 25992.0,
-          "avg_faints": 61
-        },
-        {
-          "name": "Landorus (THERIAN)",
-          "types": [
-            "Ground",
-            "Flying"
-          ],
-          "fast": "Mud Shot",
-          "charged": "Sandsear Storm",
-          "dps": 28.66,
-          "tdo": 25795.0,
-          "avg_faints": 65
-        },
-        {
-          "name": "Gengar (MEGA)",
-          "types": [
-            "Ghost",
-            "Poison"
-          ],
-          "fast": "Hex",
-          "charged": "Sludge Bomb",
-          "dps": 28.13,
-          "tdo": 25318.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Rhyperior",
-          "types": [
-            "Ground",
-            "Rock"
-          ],
-          "fast": "Mud Slap",
-          "charged": "Earthquake",
-          "dps": 27.74,
-          "tdo": 24970.0,
-          "avg_faints": 59
-        },
-        {
-          "name": "Eternatus (ETERNAMAX)",
-          "types": [
-            "Poison",
-            "Dragon"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 27.15,
-          "tdo": 24432.0,
-          "avg_faints": 12
-        },
-        {
-          "name": "Shadow Toxicroak",
-          "types": [
-            "Poison",
-            "Fighting"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 26.79,
-          "tdo": 24111.0,
-          "avg_faints": 95
-        },
-        {
-          "name": "Shadow Regigigas",
-          "types": [
-            "Normal"
-          ],
-          "fast": "Hidden Power",
-          "charged": "Crush Grip",
-          "dps": 26.7,
-          "tdo": 24028.0,
-          "avg_faints": 59
-        },
-        {
-          "name": "Shadow Overqwil",
-          "types": [
-            "Dark",
-            "Poison"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 26.51,
-          "tdo": 23862.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Golurk",
-          "types": [
-            "Ground",
-            "Ghost"
-          ],
-          "fast": "Mud Slap",
-          "charged": "Earth Power",
-          "dps": 26.31,
-          "tdo": 23682.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Gengar",
-          "types": [
-            "Ghost",
-            "Poison"
-          ],
-          "fast": "Lick",
-          "charged": "Sludge Bomb",
-          "dps": 26.3,
-          "tdo": 23670.0,
-          "avg_faints": 110
-        },
-        {
-          "name": "Shadow Mamoswine",
-          "types": [
-            "Ice",
-            "Ground"
-          ],
-          "fast": "Mud Slap",
-          "charged": "Bulldoze",
-          "dps": 26.18,
-          "tdo": 23559.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Nihilego",
-          "types": [
-            "Rock",
-            "Poison"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 26.16,
-          "tdo": 23544.0,
-          "avg_faints": 51
-        },
-        {
-          "name": "Naganadel",
-          "types": [
-            "Poison",
-            "Dragon"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Sludge Bomb",
-          "dps": 25.56,
-          "tdo": 23000.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Deoxys (ATTACK)",
-          "types": [
-            "Psychic"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Psycho Boost",
-          "dps": 25.0,
-          "tdo": 22500.0,
-          "avg_faints": 154
-        },
-        {
-          "name": "Shadow Flygon",
-          "types": [
-            "Ground",
-            "Dragon"
-          ],
-          "fast": "Sand Attack",
-          "charged": "Earthquake",
-          "dps": 24.92,
-          "tdo": 22427.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Hippowdon",
-          "types": [
-            "Ground"
-          ],
-          "fast": "Sand Attack",
-          "charged": "Earth Power",
-          "dps": 24.71,
-          "tdo": 22239.0,
-          "avg_faints": 61
-        },
-        {
-          "name": "Shadow Swampert",
-          "types": [
-            "Water",
-            "Ground"
-          ],
-          "fast": "Mud Shot",
-          "charged": "Earthquake",
-          "dps": 24.66,
-          "tdo": 22196.0,
-          "avg_faints": 74
-        },
-        {
-          "name": "Shadow Landorus",
-          "types": [
-            "Ground",
-            "Flying"
-          ],
-          "fast": "Mud Shot",
-          "charged": "Earth Power",
-          "dps": 24.61,
-          "tdo": 22148.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Rhyperior",
-          "types": [
-            "Ground",
-            "Rock"
-          ],
-          "fast": "Mud Slap",
-          "charged": "Earthquake",
-          "dps": 24.49,
-          "tdo": 22043.0,
-          "avg_faints": 51
-        },
-        {
-          "name": "Shadow Nidoking",
-          "types": [
-            "Poison",
-            "Ground"
-          ],
-          "fast": "Poison Jab",
-          "charged": "Earth Power",
-          "dps": 24.34,
-          "tdo": 21907.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Shadow Golem",
-          "types": [
-            "Rock",
-            "Ground"
-          ],
-          "fast": "Mud Shot",
-          "charged": "Earthquake",
-          "dps": 24.31,
-          "tdo": 21880.0,
-          "avg_faints": 77
-        },
-        {
-          "name": "Excadrill",
-          "types": [
-            "Ground",
-            "Steel"
-          ],
-          "fast": "Mud Slap",
-          "charged": "Scorching Sands",
-          "dps": 24.25,
-          "tdo": 21821.0,
-          "avg_faints": 77
+          "dps": 23.7,
+          "tdo": 21328.0,
+          "avg_faints": 45
         },
         {
           "name": "Shadow Scolipede",
@@ -704,9 +290,21 @@
           ],
           "fast": "Poison Jab",
           "charged": "Sludge Bomb",
-          "dps": 24.08,
-          "tdo": 21676.0,
-          "avg_faints": 77
+          "dps": 23.65,
+          "tdo": 21285.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Roserade",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 23.55,
+          "tdo": 21195.0,
+          "avg_faints": 90
         },
         {
           "name": "Landorus",
@@ -716,9 +314,413 @@
           ],
           "fast": "Mud Shot",
           "charged": "Earth Power",
-          "dps": 24.08,
-          "tdo": 21675.0,
-          "avg_faints": 65
+          "dps": 23.49,
+          "tdo": 21140.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Landorus (INCARNATE)",
+          "types": [
+            "Ground",
+            "Flying"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Earth Power",
+          "dps": 23.49,
+          "tdo": 21140.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Excadrill",
+          "types": [
+            "Ground",
+            "Steel"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Scorching Sands",
+          "dps": 23.45,
+          "tdo": 21108.0,
+          "avg_faints": 81
+        },
+        {
+          "name": "Munkidori",
+          "types": [
+            "Poison",
+            "Psychic"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 23.35,
+          "tdo": 21015.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Shadow Hippowdon",
+          "types": [
+            "Ground"
+          ],
+          "fast": "Sand Attack",
+          "charged": "Earth Power",
+          "dps": 23.33,
+          "tdo": 21000.0,
+          "avg_faints": 60
+        }
+      ],
+      "l50": [
+        {
+          "name": "Groudon (PRIMAL)",
+          "types": [
+            "Ground",
+            "Fire"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Precipice Blades",
+          "dps": 36.48,
+          "tdo": 32833.0,
+          "avg_faints": 45
+        },
+        {
+          "name": "Garchomp (MEGA)",
+          "types": [
+            "Dragon",
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Earth Power",
+          "dps": 32.05,
+          "tdo": 28848.0,
+          "avg_faints": 45
+        },
+        {
+          "name": "Gengar (MEGA)",
+          "types": [
+            "Ghost",
+            "Poison"
+          ],
+          "fast": "Lick",
+          "charged": "Sludge Bomb",
+          "dps": 31.01,
+          "tdo": 27908.0,
+          "avg_faints": 67
+        },
+        {
+          "name": "Beedrill (MEGA)",
+          "types": [
+            "Bug",
+            "Poison"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 30.6,
+          "tdo": 27540.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Shadow Excadrill",
+          "types": [
+            "Ground",
+            "Steel"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Scorching Sands",
+          "dps": 30.6,
+          "tdo": 27540.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Shadow Groudon",
+          "types": [
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Earthquake",
+          "dps": 28.93,
+          "tdo": 26040.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Shadow Landorus",
+          "types": [
+            "Ground",
+            "Flying"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Earth Power",
+          "dps": 28.09,
+          "tdo": 25280.0,
+          "avg_faints": 67
+        },
+        {
+          "name": "Groudon",
+          "types": [
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Precipice Blades",
+          "dps": 28.01,
+          "tdo": 25208.0,
+          "avg_faints": 45
+        },
+        {
+          "name": "Eternatus",
+          "types": [
+            "Poison",
+            "Dragon"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 28.0,
+          "tdo": 25200.0,
+          "avg_faints": 45
+        },
+        {
+          "name": "Victreebel (MEGA)",
+          "types": [
+            "Grass",
+            "Poison"
+          ],
+          "fast": "Acid",
+          "charged": "Sludge Bomb",
+          "dps": 27.87,
+          "tdo": 25080.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Landorus (THERIAN)",
+          "types": [
+            "Ground",
+            "Flying"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Sandsear Storm",
+          "dps": 27.53,
+          "tdo": 24780.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Shadow Golurk",
+          "types": [
+            "Ground",
+            "Ghost"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Earth Power",
+          "dps": 27.47,
+          "tdo": 24720.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Eternatus (ETERNAMAX)",
+          "types": [
+            "Poison",
+            "Dragon"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 27.08,
+          "tdo": 24371.0,
+          "avg_faints": 12
+        },
+        {
+          "name": "Shadow Garchomp",
+          "types": [
+            "Dragon",
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Earthquake",
+          "dps": 26.87,
+          "tdo": 24180.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Shadow Overqwil",
+          "types": [
+            "Dark",
+            "Poison"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 26.85,
+          "tdo": 24166.0,
+          "avg_faints": 81
+        },
+        {
+          "name": "Shadow Toxicroak",
+          "types": [
+            "Poison",
+            "Fighting"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 26.35,
+          "tdo": 23715.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Shadow Rhydon",
+          "types": [
+            "Ground",
+            "Rock"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Earthquake",
+          "dps": 26.29,
+          "tdo": 23661.0,
+          "avg_faints": 67
+        },
+        {
+          "name": "Shadow Mamoswine",
+          "types": [
+            "Ice",
+            "Ground"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Bulldoze",
+          "dps": 26.03,
+          "tdo": 23425.0,
+          "avg_faints": 75
+        },
+        {
+          "name": "Naganadel",
+          "types": [
+            "Poison",
+            "Dragon"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 25.9,
+          "tdo": 23306.0,
+          "avg_faints": 81
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "types": [
+            "Ground",
+            "Rock"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Earthquake",
+          "dps": 25.72,
+          "tdo": 23150.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Shadow Nidoking",
+          "types": [
+            "Poison",
+            "Ground"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Earth Power",
+          "dps": 25.4,
+          "tdo": 22860.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Nihilego",
+          "types": [
+            "Rock",
+            "Poison"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 25.2,
+          "tdo": 22680.0,
+          "avg_faints": 45
+        },
+        {
+          "name": "Heracross (MEGA)",
+          "types": [
+            "Bug",
+            "Fighting"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Earthquake",
+          "dps": 25.2,
+          "tdo": 22680.0,
+          "avg_faints": 45
+        },
+        {
+          "name": "Shadow Scolipede",
+          "types": [
+            "Bug",
+            "Poison"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Sludge Bomb",
+          "dps": 25.1,
+          "tdo": 22590.0,
+          "avg_faints": 90
+        },
+        {
+          "name": "Deoxys (ATTACK)",
+          "types": [
+            "Psychic"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Zap Cannon",
+          "dps": 25.0,
+          "tdo": 22500.0,
+          "avg_faints": 180
+        },
+        {
+          "name": "Shadow Golem",
+          "types": [
+            "Rock",
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Earthquake",
+          "dps": 25.0,
+          "tdo": 22500.0,
+          "avg_faints": 75
+        },
+        {
+          "name": "Shadow Muk",
+          "types": [
+            "Poison"
+          ],
+          "fast": "Poison Jab",
+          "charged": "Gunk Shot",
+          "dps": 24.73,
+          "tdo": 22260.0,
+          "avg_faints": 60
+        },
+        {
+          "name": "Garchomp",
+          "types": [
+            "Dragon",
+            "Ground"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Earth Power",
+          "dps": 24.69,
+          "tdo": 22224.0,
+          "avg_faints": 45
+        },
+        {
+          "name": "Excadrill",
+          "types": [
+            "Ground",
+            "Steel"
+          ],
+          "fast": "Mud Slap",
+          "charged": "Earthquake",
+          "dps": 24.63,
+          "tdo": 22164.0,
+          "avg_faints": 67
+        },
+        {
+          "name": "Shadow Hippowdon",
+          "types": [
+            "Ground"
+          ],
+          "fast": "Sand Attack",
+          "charged": "Earth Power",
+          "dps": 24.42,
+          "tdo": 21975.0,
+          "avg_faints": 60
         }
       ]
     },
@@ -756,7 +758,8 @@
         {
           "name": "Sceptile (MEGA)",
           "types": [
-            "Grass"
+            "Grass",
+            "Dragon"
           ],
           "fast": "Fury Cutter",
           "charged": "Frenzy Plant",
@@ -888,7 +891,7 @@
           "fast": "Counter",
           "charged": "Aura Sphere",
           "dps": 34.96,
-          "tdo": 31465.0,
+          "tdo": 31462.0,
           "avg_faints": 56
         },
         {
@@ -990,7 +993,7 @@
             "Bug",
             "Fighting"
           ],
-          "fast": "Bug Bite",
+          "fast": "Low Kick",
           "charged": "Focus Blast",
           "dps": 32.83,
           "tdo": 29550.0,
@@ -1021,7 +1024,8 @@
         {
           "name": "Pinsir (MEGA)",
           "types": [
-            "Bug"
+            "Bug",
+            "Flying"
           ],
           "fast": "Bug Bite",
           "charged": "X Scissor",
@@ -1106,7 +1110,8 @@
         {
           "name": "Sceptile (MEGA)",
           "types": [
-            "Grass"
+            "Grass",
+            "Dragon"
           ],
           "fast": "Fury Cutter",
           "charged": "Frenzy Plant",
@@ -1226,8 +1231,8 @@
           ],
           "fast": "Counter",
           "charged": "Aura Sphere",
-          "dps": 36.96,
-          "tdo": 33262.0,
+          "dps": 36.95,
+          "tdo": 33259.0,
           "avg_faints": 56
         },
         {
@@ -1324,7 +1329,8 @@
         {
           "name": "Pinsir (MEGA)",
           "types": [
-            "Bug"
+            "Bug",
+            "Flying"
           ],
           "fast": "Bug Bite",
           "charged": "X Scissor",
@@ -1592,6 +1598,18 @@
           "avg_faints": 54
         },
         {
+          "name": "Sceptile (MEGA)",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Breaking Swipe",
+          "dps": 25.72,
+          "tdo": 23148.0,
+          "avg_faints": 87
+        },
+        {
           "name": "Palkia (ORIGIN)",
           "types": [
             "Water",
@@ -1699,7 +1717,8 @@
         {
           "name": "Groudon (PRIMAL)",
           "types": [
-            "Ground"
+            "Ground",
+            "Fire"
           ],
           "fast": "Dragon Tail",
           "charged": "Precipice Blades",
@@ -1778,18 +1797,6 @@
           "dps": 24.0,
           "tdo": 21600.0,
           "avg_faints": 81
-        },
-        {
-          "name": "Rayquaza",
-          "types": [
-            "Dragon",
-            "Flying"
-          ],
-          "fast": "Dragon Tail",
-          "charged": "Breaking Swipe",
-          "dps": 23.89,
-          "tdo": 21504.0,
-          "avg_faints": 72
         }
       ],
       "l50": [
@@ -1899,6 +1906,18 @@
           "charged": "Draco Meteor",
           "dps": 29.18,
           "tdo": 26259.0,
+          "avg_faints": 72
+        },
+        {
+          "name": "Sceptile (MEGA)",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Breaking Swipe",
+          "dps": 28.99,
+          "tdo": 26088.0,
           "avg_faints": 72
         },
         {
@@ -2135,18 +2154,7 @@
           "fast": "Charm",
           "charged": "Dazzling Gleam",
           "dps": 25.67,
-          "tdo": 23102.0,
-          "avg_faints": 72
-        },
-        {
-          "name": "Sceptile (MEGA)",
-          "types": [
-            "Grass"
-          ],
-          "fast": "Fury Cutter",
-          "charged": "Breaking Swipe",
-          "dps": 25.65,
-          "tdo": 23085.0,
+          "tdo": 23103.0,
           "avg_faints": 72
         }
       ]
@@ -2189,7 +2197,7 @@
           "fast": "Psycho Cut",
           "charged": "Psychic",
           "dps": 36.43,
-          "tdo": 32783.0,
+          "tdo": 32786.0,
           "avg_faints": 60
         },
         {
@@ -2212,8 +2220,8 @@
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
-          "dps": 35.37,
-          "tdo": 31836.0,
+          "dps": 35.36,
+          "tdo": 31824.0,
           "avg_faints": 51
         },
         {
@@ -2312,6 +2320,18 @@
           "avg_faints": 51
         },
         {
+          "name": "Calyrex (SHADOW RIDER)",
+          "types": [
+            "Psychic",
+            "Ghost"
+          ],
+          "fast": "Confusion",
+          "charged": "Psychic",
+          "dps": 33.26,
+          "tdo": 29930.0,
+          "avg_faints": 45
+        },
+        {
           "name": "Shadow Alakazam",
           "types": [
             "Psychic"
@@ -2321,18 +2341,6 @@
           "dps": 33.22,
           "tdo": 29901.0,
           "avg_faints": 60
-        },
-        {
-          "name": "Calyrex (SHADOW RIDER)",
-          "types": [
-            "Psychic",
-            "Ghost"
-          ],
-          "fast": "Confusion",
-          "charged": "Psychic",
-          "dps": 33.2,
-          "tdo": 29880.0,
-          "avg_faints": 45
         },
         {
           "name": "Shadow Moltres",
@@ -2386,7 +2394,7 @@
           "types": [
             "Fire"
           ],
-          "fast": "Fire Fang",
+          "fast": "Fire Spin",
           "charged": "Overheat",
           "dps": 31.39,
           "tdo": 28250.0,
@@ -2401,19 +2409,19 @@
           "fast": "Fire Spin",
           "charged": "Magma Storm",
           "dps": 31.12,
-          "tdo": 28010.0,
+          "tdo": 28008.0,
           "avg_faints": 55
         },
         {
           "name": "Charizard (MEGA X)",
           "types": [
             "Fire",
-            "Flying"
+            "Dragon"
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
-          "dps": 30.62,
-          "tdo": 27559.0,
+          "dps": 30.63,
+          "tdo": 27564.0,
           "avg_faints": 51
         },
         {
@@ -2596,10 +2604,10 @@
           "avg_faints": 60
         },
         {
-          "name": "Gardevoir (MEGA)",
+          "name": "Gallade (MEGA)",
           "types": [
             "Psychic",
-            "Fairy"
+            "Fighting"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -2608,10 +2616,10 @@
           "avg_faints": 40
         },
         {
-          "name": "Gallade (MEGA)",
+          "name": "Gardevoir (MEGA)",
           "types": [
             "Psychic",
-            "Fighting"
+            "Fairy"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -2651,7 +2659,7 @@
           "fast": "Psycho Cut",
           "charged": "Psystrike",
           "dps": 35.85,
-          "tdo": 32262.0,
+          "tdo": 32264.0,
           "avg_faints": 40
         },
         {
@@ -2675,7 +2683,7 @@
           "fast": "Fire Spin",
           "charged": "Magma Storm",
           "dps": 35.66,
-          "tdo": 32090.0,
+          "tdo": 32098.0,
           "avg_faints": 40
         },
         {
@@ -2788,7 +2796,7 @@
           "name": "Charizard (MEGA X)",
           "types": [
             "Fire",
-            "Flying"
+            "Dragon"
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
@@ -2889,7 +2897,8 @@
         {
           "name": "Sceptile (MEGA)",
           "types": [
-            "Grass"
+            "Grass",
+            "Dragon"
           ],
           "fast": "Fury Cutter",
           "charged": "Frenzy Plant",
@@ -3069,7 +3078,7 @@
           "fast": "Water Gun",
           "charged": "Hydro Cannon",
           "dps": 33.98,
-          "tdo": 30584.0,
+          "tdo": 30586.0,
           "avg_faints": 50
         },
         {
@@ -3204,7 +3213,7 @@
           "name": "Gyarados (MEGA)",
           "types": [
             "Water",
-            "Flying"
+            "Dark"
           ],
           "fast": "Waterfall",
           "charged": "Hydro Pump",
@@ -3240,7 +3249,8 @@
         {
           "name": "Sceptile (MEGA)",
           "types": [
-            "Grass"
+            "Grass",
+            "Dragon"
           ],
           "fast": "Fury Cutter",
           "charged": "Frenzy Plant",
@@ -3405,7 +3415,7 @@
           "name": "Gyarados (MEGA)",
           "types": [
             "Water",
-            "Flying"
+            "Dark"
           ],
           "fast": "Waterfall",
           "charged": "Hydro Pump",
@@ -3510,7 +3520,8 @@
         {
           "name": "Groudon (PRIMAL)",
           "types": [
-            "Ground"
+            "Ground",
+            "Fire"
           ],
           "fast": "Mud Shot",
           "charged": "Solar Beam",
@@ -3562,7 +3573,7 @@
           "fast": "Magical Leaf",
           "charged": "Solar Beam",
           "dps": 34.48,
-          "tdo": 31034.0,
+          "tdo": 31036.0,
           "avg_faints": 67
         },
         {
@@ -3795,7 +3806,7 @@
           "fast": "Incinerate",
           "charged": "Mind Blown",
           "dps": 32.58,
-          "tdo": 29324.0,
+          "tdo": 29325.0,
           "avg_faints": 88
         },
         {
@@ -4009,7 +4020,7 @@
           "fast": "Ice Fang",
           "charged": "Avalanche",
           "dps": 38.77,
-          "tdo": 34897.0,
+          "tdo": 34896.0,
           "avg_faints": 51
         },
         {
@@ -4353,7 +4364,8 @@
         {
           "name": "Sceptile (MEGA)",
           "types": [
-            "Grass"
+            "Grass",
+            "Dragon"
           ],
           "fast": "Fury Cutter",
           "charged": "Frenzy Plant",
@@ -4514,7 +4526,8 @@
         {
           "name": "Ampharos (MEGA)",
           "types": [
-            "Electric"
+            "Electric",
+            "Dragon"
           ],
           "fast": "Volt Switch",
           "charged": "Zap Cannon",
@@ -4532,6 +4545,18 @@
           "dps": 28.54,
           "tdo": 25690.0,
           "avg_faints": 56
+        },
+        {
+          "name": "Lopunny (MEGA)",
+          "types": [
+            "Normal",
+            "Fighting"
+          ],
+          "fast": "Double Kick",
+          "charged": "Focus Blast",
+          "dps": 28.32,
+          "tdo": 25484.0,
+          "avg_faints": 48
         },
         {
           "name": "Latios (MEGA)",
@@ -4638,18 +4663,6 @@
           "dps": 27.41,
           "tdo": 24672.0,
           "avg_faints": 42
-        },
-        {
-          "name": "Shadow Chesnaught",
-          "types": [
-            "Grass",
-            "Fighting"
-          ],
-          "fast": "Vine Whip",
-          "charged": "Frenzy Plant",
-          "dps": 27.35,
-          "tdo": 24612.0,
-          "avg_faints": 42
         }
       ],
       "l50": [
@@ -4703,7 +4716,8 @@
         {
           "name": "Sceptile (MEGA)",
           "types": [
-            "Grass"
+            "Grass",
+            "Dragon"
           ],
           "fast": "Fury Cutter",
           "charged": "Frenzy Plant",
@@ -4990,16 +5004,16 @@
           "avg_faints": 48
         },
         {
-          "name": "Keldeo (RESOLUTE)",
+          "name": "Lopunny (MEGA)",
           "types": [
-            "Water",
+            "Normal",
             "Fighting"
           ],
-          "fast": "Low Kick",
-          "charged": "Sacred Sword",
-          "dps": 29.31,
-          "tdo": 26377.0,
-          "avg_faints": 36
+          "fast": "Double Kick",
+          "charged": "Focus Blast",
+          "dps": 29.33,
+          "tdo": 26397.0,
+          "avg_faints": 42
         }
       ]
     },
@@ -5126,7 +5140,7 @@
           "avg_faints": 53
         },
         {
-          "name": "Keldeo (RESOLUTE)",
+          "name": "Keldeo (ORDINARY)",
           "types": [
             "Water",
             "Fighting"
@@ -5150,7 +5164,7 @@
           "avg_faints": 48
         },
         {
-          "name": "Keldeo (ORDINARY)",
+          "name": "Keldeo (RESOLUTE)",
           "types": [
             "Water",
             "Fighting"
@@ -5243,6 +5257,18 @@
           "dps": 33.69,
           "tdo": 30320.0,
           "avg_faints": 80
+        },
+        {
+          "name": "Lopunny (MEGA)",
+          "types": [
+            "Normal",
+            "Fighting"
+          ],
+          "fast": "Double Kick",
+          "charged": "Focus Blast",
+          "dps": 33.6,
+          "tdo": 30240.0,
+          "avg_faints": 60
         },
         {
           "name": "Shadow Sawk",
@@ -5345,18 +5371,6 @@
           "dps": 32.33,
           "tdo": 29100.0,
           "avg_faints": 48
-        },
-        {
-          "name": "Shadow Toxicroak",
-          "types": [
-            "Poison",
-            "Fighting"
-          ],
-          "fast": "Counter",
-          "charged": "Dynamic Punch",
-          "dps": 32.18,
-          "tdo": 28960.0,
-          "avg_faints": 80
         }
       ],
       "l50": [
@@ -5474,7 +5488,7 @@
           "fast": "Dragon Breath",
           "charged": "Aura Sphere",
           "dps": 39.5,
-          "tdo": 35551.0,
+          "tdo": 35548.0,
           "avg_faints": 36
         },
         {
@@ -5501,18 +5515,6 @@
           "avg_faints": 60
         },
         {
-          "name": "Keldeo (ORDINARY)",
-          "types": [
-            "Water",
-            "Fighting"
-          ],
-          "fast": "Low Kick",
-          "charged": "Sacred Sword",
-          "dps": 37.03,
-          "tdo": 33323.0,
-          "avg_faints": 40
-        },
-        {
           "name": "Keldeo (RESOLUTE)",
           "types": [
             "Water",
@@ -5521,11 +5523,23 @@
           "fast": "Low Kick",
           "charged": "Sacred Sword",
           "dps": 37.03,
-          "tdo": 33323.0,
+          "tdo": 33325.0,
           "avg_faints": 40
         },
         {
           "name": "Keldeo",
+          "types": [
+            "Water",
+            "Fighting"
+          ],
+          "fast": "Low Kick",
+          "charged": "Sacred Sword",
+          "dps": 37.03,
+          "tdo": 33323.0,
+          "avg_faints": 40
+        },
+        {
+          "name": "Keldeo (ORDINARY)",
           "types": [
             "Water",
             "Fighting"
@@ -5606,18 +5620,6 @@
           "avg_faints": 48
         },
         {
-          "name": "Urshifu (RAPID STRIKE)",
-          "types": [
-            "Fighting",
-            "Water"
-          ],
-          "fast": "Counter",
-          "charged": "Dynamic Punch",
-          "dps": 35.09,
-          "tdo": 31580.0,
-          "avg_faints": 40
-        },
-        {
           "name": "Urshifu (SINGLE STRIKE)",
           "types": [
             "Fighting",
@@ -5633,6 +5635,18 @@
           "name": "Urshifu",
           "types": [
             "Fighting"
+          ],
+          "fast": "Counter",
+          "charged": "Dynamic Punch",
+          "dps": 35.09,
+          "tdo": 31580.0,
+          "avg_faints": 40
+        },
+        {
+          "name": "Urshifu (RAPID STRIKE)",
+          "types": [
+            "Fighting",
+            "Water"
           ],
           "fast": "Counter",
           "charged": "Dynamic Punch",
@@ -5675,6 +5689,18 @@
           "avg_faints": 51
         },
         {
+          "name": "Lopunny (MEGA)",
+          "types": [
+            "Normal",
+            "Fighting"
+          ],
+          "fast": "Low Kick",
+          "charged": "Focus Blast",
+          "dps": 34.13,
+          "tdo": 30714.0,
+          "avg_faints": 51
+        },
+        {
           "name": "Shadow Toxicroak",
           "types": [
             "Poison",
@@ -5696,18 +5722,6 @@
           "dps": 33.73,
           "tdo": 30354.0,
           "avg_faints": 40
-        },
-        {
-          "name": "Shadow Sneasler",
-          "types": [
-            "Fighting",
-            "Poison"
-          ],
-          "fast": "Rock Smash",
-          "charged": "Close Combat",
-          "dps": 33.68,
-          "tdo": 30312.0,
-          "avg_faints": 60
         }
       ]
     },
@@ -5736,8 +5750,8 @@
           ],
           "fast": "Confusion",
           "charged": "Psychic",
-          "dps": 64.57,
-          "tdo": 58113.0,
+          "dps": 64.8,
+          "tdo": 58318.0,
           "avg_faints": 34
         },
         {
@@ -5761,7 +5775,7 @@
           "fast": "Fire Spin",
           "charged": "Blast Burn",
           "dps": 63.05,
-          "tdo": 56743.0,
+          "tdo": 56744.0,
           "avg_faints": 34
         },
         {
@@ -5772,8 +5786,8 @@
           ],
           "fast": "Fire Fang",
           "charged": "Fly",
-          "dps": 62.26,
-          "tdo": 56034.0,
+          "dps": 62.27,
+          "tdo": 56046.0,
           "avg_faints": 37
         },
         {
@@ -5782,10 +5796,10 @@
             "Fire",
             "Flying"
           ],
-          "fast": "Wing Attack",
+          "fast": "Fire Spin",
           "charged": "Blast Burn",
-          "dps": 61.17,
-          "tdo": 55050.0,
+          "dps": 60.75,
+          "tdo": 54678.0,
           "avg_faints": 27
         },
         {
@@ -5830,8 +5844,8 @@
           ],
           "fast": "Confusion",
           "charged": "Psychic",
-          "dps": 57.79,
-          "tdo": 52009.0,
+          "dps": 57.62,
+          "tdo": 51854.0,
           "avg_faints": 51
         },
         {
@@ -6008,8 +6022,8 @@
           ],
           "fast": "Ice Fang",
           "charged": "Fusion Flare",
-          "dps": 53.47,
-          "tdo": 48120.0,
+          "dps": 53.44,
+          "tdo": 48099.0,
           "avg_faints": 24
         },
         {
@@ -6037,18 +6051,6 @@
           "avg_faints": 37
         },
         {
-          "name": "Charizard (MEGA X)",
-          "types": [
-            "Fire",
-            "Flying"
-          ],
-          "fast": "Wing Attack",
-          "charged": "Blast Burn",
-          "dps": 52.89,
-          "tdo": 47604.0,
-          "avg_faints": 27
-        },
-        {
           "name": "Pidgeot (MEGA)",
           "types": [
             "Normal",
@@ -6059,6 +6061,18 @@
           "dps": 52.23,
           "tdo": 47010.0,
           "avg_faints": 30
+        },
+        {
+          "name": "Charizard (MEGA X)",
+          "types": [
+            "Fire",
+            "Dragon"
+          ],
+          "fast": "Fire Spin",
+          "charged": "Blast Burn",
+          "dps": 52.05,
+          "tdo": 46845.0,
+          "avg_faints": 27
         },
         {
           "name": "Shadow Emboar",
@@ -6204,10 +6218,10 @@
           "avg_faints": 20
         },
         {
-          "name": "Gardevoir (MEGA)",
+          "name": "Gallade (MEGA)",
           "types": [
             "Psychic",
-            "Fairy"
+            "Fighting"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -6216,10 +6230,10 @@
           "avg_faints": 26
         },
         {
-          "name": "Gallade (MEGA)",
+          "name": "Gardevoir (MEGA)",
           "types": [
             "Psychic",
-            "Fighting"
+            "Fairy"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -6248,7 +6262,7 @@
           "fast": "Fire Spin",
           "charged": "Magma Storm",
           "dps": 60.28,
-          "tdo": 54250.0,
+          "tdo": 54253.0,
           "avg_faints": 27
         },
         {
@@ -6302,7 +6316,7 @@
           "name": "Charizard (MEGA X)",
           "types": [
             "Fire",
-            "Flying"
+            "Dragon"
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
@@ -6330,8 +6344,8 @@
           ],
           "fast": "Ice Fang",
           "charged": "Avalanche",
-          "dps": 58.12,
-          "tdo": 52304.0,
+          "dps": 58.1,
+          "tdo": 52293.0,
           "avg_faints": 30
         },
         {
@@ -6366,7 +6380,7 @@
           "fast": "Fire Spin",
           "charged": "Blast Burn",
           "dps": 57.14,
-          "tdo": 51424.0,
+          "tdo": 51423.0,
           "avg_faints": 34
         },
         {
@@ -6405,10 +6419,10 @@
           "avg_faints": 30
         },
         {
-          "name": "Shadow Gallade",
+          "name": "Shadow Gardevoir",
           "types": [
             "Psychic",
-            "Fighting"
+            "Fairy"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -6417,10 +6431,10 @@
           "avg_faints": 34
         },
         {
-          "name": "Shadow Gardevoir",
+          "name": "Shadow Gallade",
           "types": [
             "Psychic",
-            "Fairy"
+            "Fighting"
           ],
           "fast": "Confusion",
           "charged": "Psychic",
@@ -6494,7 +6508,7 @@
           "fast": "Fire Fang",
           "charged": "Fly",
           "dps": 55.3,
-          "tdo": 49771.0,
+          "tdo": 49773.0,
           "avg_faints": 44
         },
         {
@@ -6701,7 +6715,7 @@
           "name": "Charizard (MEGA X)",
           "types": [
             "Fire",
-            "Flying"
+            "Dragon"
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
@@ -7122,8 +7136,8 @@
           ],
           "fast": "Ember",
           "charged": "Blast Burn",
-          "dps": 50.32,
-          "tdo": 45292.0,
+          "dps": 50.33,
+          "tdo": 45295.0,
           "avg_faints": 37
         },
         {
@@ -7141,7 +7155,7 @@
           "name": "Charizard (MEGA X)",
           "types": [
             "Fire",
-            "Flying"
+            "Dragon"
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
@@ -7218,7 +7232,8 @@
         {
           "name": "Sceptile (MEGA)",
           "types": [
-            "Grass"
+            "Grass",
+            "Dragon"
           ],
           "fast": "Fury Cutter",
           "charged": "Frenzy Plant",
@@ -7257,7 +7272,7 @@
           "fast": "Bubble",
           "charged": "Crabhammer",
           "dps": 44.46,
-          "tdo": 40012.0,
+          "tdo": 40013.0,
           "avg_faints": 52
         },
         {
@@ -7304,7 +7319,7 @@
           "fast": "Snarl",
           "charged": "Brutal Swing",
           "dps": 43.97,
-          "tdo": 39570.0,
+          "tdo": 39572.0,
           "avg_faints": 68
         },
         {
@@ -7361,8 +7376,8 @@
           ],
           "fast": "Psycho Cut",
           "charged": "Shadow Ball",
-          "dps": 41.57,
-          "tdo": 37416.0,
+          "dps": 41.58,
+          "tdo": 37418.0,
           "avg_faints": 45
         },
         {
@@ -7448,6 +7463,18 @@
           "avg_faints": 45
         },
         {
+          "name": "Gyarados (MEGA)",
+          "types": [
+            "Water",
+            "Dark"
+          ],
+          "fast": "Bite",
+          "charged": "Hydro Pump",
+          "dps": 40.38,
+          "tdo": 36338.0,
+          "avg_faints": 27
+        },
+        {
           "name": "Swampert (MEGA)",
           "types": [
             "Water",
@@ -7491,20 +7518,8 @@
           "fast": "Ice Fang",
           "charged": "Blizzard",
           "dps": 39.92,
-          "tdo": 35925.0,
+          "tdo": 35927.0,
           "avg_faints": 30
-        },
-        {
-          "name": "Victreebel (MEGA)",
-          "types": [
-            "Grass",
-            "Poison"
-          ],
-          "fast": "Magical Leaf",
-          "charged": "Solar Beam",
-          "dps": 39.57,
-          "tdo": 35616.0,
-          "avg_faints": 39
         }
       ],
       "l50": [
@@ -7523,7 +7538,8 @@
         {
           "name": "Sceptile (MEGA)",
           "types": [
-            "Grass"
+            "Grass",
+            "Dragon"
           ],
           "fast": "Bullet Seed",
           "charged": "Frenzy Plant",
@@ -7872,8 +7888,8 @@
           ],
           "fast": "Incinerate",
           "charged": "Mind Blown",
-          "dps": 59.15,
-          "tdo": 53236.0,
+          "dps": 59.12,
+          "tdo": 53205.0,
           "avg_faints": 37
         },
         {
@@ -7884,9 +7900,9 @@
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
-          "dps": 57.96,
-          "tdo": 52165.0,
-          "avg_faints": 27
+          "dps": 57.97,
+          "tdo": 52172.0,
+          "avg_faints": 28
         },
         {
           "name": "Charizard (MEGA Y)",
@@ -7897,7 +7913,7 @@
           "fast": "Fire Spin",
           "charged": "Blast Burn",
           "dps": 55.9,
-          "tdo": 50311.0,
+          "tdo": 50309.0,
           "avg_faints": 22
         },
         {
@@ -7944,8 +7960,8 @@
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
-          "dps": 51.91,
-          "tdo": 46723.0,
+          "dps": 51.88,
+          "tdo": 46694.0,
           "avg_faints": 36
         },
         {
@@ -7968,8 +7984,8 @@
           ],
           "fast": "Gust",
           "charged": "Fly",
-          "dps": 51.22,
-          "tdo": 46098.0,
+          "dps": 51.2,
+          "tdo": 46084.0,
           "avg_faints": 33
         },
         {
@@ -8016,8 +8032,8 @@
           ],
           "fast": "Fire Spin",
           "charged": "Overheat",
-          "dps": 50.5,
-          "tdo": 45452.0,
+          "dps": 50.31,
+          "tdo": 45277.0,
           "avg_faints": 33
         },
         {
@@ -8108,12 +8124,12 @@
           "name": "Charizard (MEGA X)",
           "types": [
             "Fire",
-            "Flying"
+            "Dragon"
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
-          "dps": 48.13,
-          "tdo": 43321.0,
+          "dps": 48.14,
+          "tdo": 43322.0,
           "avg_faints": 22
         },
         {
@@ -8195,7 +8211,7 @@
           "fast": "Fire Fang",
           "charged": "Overheat",
           "dps": 46.98,
-          "tdo": 42285.0,
+          "tdo": 42286.0,
           "avg_faints": 36
         },
         {
@@ -8244,8 +8260,8 @@
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
-          "dps": 61.52,
-          "tdo": 55370.0,
+          "dps": 61.51,
+          "tdo": 55355.0,
           "avg_faints": 21
         },
         {
@@ -8256,8 +8272,8 @@
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
-          "dps": 59.98,
-          "tdo": 53983.0,
+          "dps": 60.0,
+          "tdo": 54001.0,
           "avg_faints": 20
         },
         {
@@ -8341,7 +8357,7 @@
           "fast": "Fire Spin",
           "charged": "Overheat",
           "dps": 55.15,
-          "tdo": 49636.0,
+          "tdo": 49639.0,
           "avg_faints": 31
         },
         {
@@ -8423,20 +8439,20 @@
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
-          "dps": 52.21,
-          "tdo": 46990.0,
-          "avg_faints": 27
+          "dps": 52.23,
+          "tdo": 47008.0,
+          "avg_faints": 28
         },
         {
           "name": "Charizard (MEGA X)",
           "types": [
             "Fire",
-            "Flying"
+            "Dragon"
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
-          "dps": 51.91,
-          "tdo": 46723.0,
+          "dps": 51.93,
+          "tdo": 46741.0,
           "avg_faints": 20
         },
         {
@@ -8447,8 +8463,8 @@
           ],
           "fast": "Bug Bite",
           "charged": "Fly",
-          "dps": 51.74,
-          "tdo": 46569.0,
+          "dps": 51.73,
+          "tdo": 46561.0,
           "avg_faints": 29
         },
         {
@@ -8460,7 +8476,7 @@
           "fast": "Lick",
           "charged": "Sludge Bomb",
           "dps": 51.24,
-          "tdo": 46116.0,
+          "tdo": 46115.0,
           "avg_faints": 23
         },
         {
@@ -8471,8 +8487,8 @@
           ],
           "fast": "Ember",
           "charged": "Blast Burn",
-          "dps": 50.89,
-          "tdo": 45802.0,
+          "dps": 50.87,
+          "tdo": 45779.0,
           "avg_faints": 27
         },
         {
@@ -8768,8 +8784,20 @@
           "fast": "Dragon Tail",
           "charged": "Draco Meteor",
           "dps": 53.66,
-          "tdo": 48290.0,
+          "tdo": 48293.0,
           "avg_faints": 28
+        },
+        {
+          "name": "Sceptile (MEGA)",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Breaking Swipe",
+          "dps": 53.09,
+          "tdo": 47778.0,
+          "avg_faints": 40
         },
         {
           "name": "Kyurem (WHITE)",
@@ -8936,18 +8964,6 @@
           "dps": 48.83,
           "tdo": 43949.0,
           "avg_faints": 32
-        },
-        {
-          "name": "Shadow Mamoswine",
-          "types": [
-            "Ice",
-            "Ground"
-          ],
-          "fast": "Powder Snow",
-          "charged": "Avalanche",
-          "dps": 48.8,
-          "tdo": 43920.0,
-          "avg_faints": 35
         }
       ],
       "l50": [
@@ -9191,6 +9207,18 @@
           "avg_faints": 36
         },
         {
+          "name": "Sceptile (MEGA)",
+          "types": [
+            "Grass",
+            "Dragon"
+          ],
+          "fast": "Fury Cutter",
+          "charged": "Breaking Swipe",
+          "dps": 55.51,
+          "tdo": 49956.0,
+          "avg_faints": 29
+        },
+        {
           "name": "Shadow Latios",
           "types": [
             "Dragon",
@@ -9205,7 +9233,8 @@
         {
           "name": "Groudon (PRIMAL)",
           "types": [
-            "Ground"
+            "Ground",
+            "Fire"
           ],
           "fast": "Dragon Tail",
           "charged": "Precipice Blades",
@@ -9296,18 +9325,6 @@
           "dps": 52.67,
           "tdo": 47400.0,
           "avg_faints": 24
-        },
-        {
-          "name": "Kyurem",
-          "types": [
-            "Dragon",
-            "Ice"
-          ],
-          "fast": "Dragon Breath",
-          "charged": "Glaciate",
-          "dps": 52.51,
-          "tdo": 47259.0,
-          "avg_faints": 28
         }
       ]
     },
@@ -9749,7 +9766,7 @@
           "fast": "Waterfall",
           "charged": "Avalanche",
           "dps": 39.48,
-          "tdo": 35529.0,
+          "tdo": 35528.0,
           "avg_faints": 23
         },
         {
@@ -10005,7 +10022,7 @@
           "fast": "Lock On",
           "charged": "Blizzard",
           "dps": 32.97,
-          "tdo": 29674.0,
+          "tdo": 29676.0,
           "avg_faints": 37
         },
         {
@@ -10247,7 +10264,7 @@
           "name": "Charizard (MEGA X)",
           "types": [
             "Fire",
-            "Flying"
+            "Dragon"
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
@@ -10571,7 +10588,7 @@
           "name": "Charizard (MEGA X)",
           "types": [
             "Fire",
-            "Flying"
+            "Dragon"
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
@@ -10722,7 +10739,8 @@
         {
           "name": "Pinsir (MEGA)",
           "types": [
-            "Bug"
+            "Bug",
+            "Flying"
           ],
           "fast": "Fury Cutter",
           "charged": "X Scissor",
@@ -10909,7 +10927,7 @@
           "name": "Charizard (MEGA X)",
           "types": [
             "Fire",
-            "Flying"
+            "Dragon"
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
@@ -11008,7 +11026,7 @@
           "fast": "Fire Spin",
           "charged": "Overheat",
           "dps": 46.08,
-          "tdo": 41473.0,
+          "tdo": 41468.0,
           "avg_faints": 28
         },
         {
@@ -11033,6 +11051,18 @@
           "dps": 45.56,
           "tdo": 41003.0,
           "avg_faints": 42
+        },
+        {
+          "name": "Groudon (PRIMAL)",
+          "types": [
+            "Ground",
+            "Fire"
+          ],
+          "fast": "Mud Shot",
+          "charged": "Fire Blast",
+          "dps": 45.5,
+          "tdo": 40954.0,
+          "avg_faints": 23
         },
         {
           "name": "Houndoom (MEGA)",
@@ -11092,17 +11122,6 @@
           "dps": 44.36,
           "tdo": 39920.0,
           "avg_faints": 27
-        },
-        {
-          "name": "Shadow Entei",
-          "types": [
-            "Fire"
-          ],
-          "fast": "Fire Spin",
-          "charged": "Overheat",
-          "dps": 44.28,
-          "tdo": 39848.0,
-          "avg_faints": 34
         }
       ],
       "l50": [
@@ -11275,7 +11294,7 @@
           "name": "Charizard (MEGA X)",
           "types": [
             "Fire",
-            "Flying"
+            "Dragon"
           ],
           "fast": "Fire Spin",
           "charged": "Blast Burn",
@@ -11362,7 +11381,7 @@
           "fast": "Fire Spin",
           "charged": "Overheat",
           "dps": 49.02,
-          "tdo": 44116.0,
+          "tdo": 44119.0,
           "avg_faints": 28
         },
         {
@@ -11410,7 +11429,7 @@
           "fast": "Rock Throw",
           "charged": "Rock Slide",
           "dps": 48.44,
-          "tdo": 43600.0,
+          "tdo": 43598.0,
           "avg_faints": 27
         },
         {
