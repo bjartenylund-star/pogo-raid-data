@@ -9,10 +9,11 @@
       ]
     },
     {
-      "name": "Groudon",
+      "name": "Tapu Lele",
       "tier": "T5",
       "types": [
-        "Ground"
+        "Psychic",
+        "Fairy"
       ]
     },
     {
@@ -24,6 +25,13 @@
       ]
     },
     {
+      "name": "Banette (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Ghost"
+      ]
+    },
+    {
       "name": "Shadow Latios",
       "tier": "Shadow T5",
       "types": [
@@ -32,26 +40,27 @@
       ]
     },
     {
-      "name": "Vileplume",
+      "name": "Nidoking",
       "tier": "T3",
       "types": [
-        "Grass",
-        "Poison"
-      ]
-    },
-    {
-      "name": "Dugtrio",
-      "tier": "T3",
-      "types": [
+        "Poison",
         "Ground"
       ]
     },
     {
-      "name": "Torterra",
+      "name": "Skarmory",
       "tier": "T3",
       "types": [
-        "Grass",
-        "Ground"
+        "Steel",
+        "Flying"
+      ]
+    },
+    {
+      "name": "Drampa",
+      "tier": "T3",
+      "types": [
+        "Normal",
+        "Dragon"
       ]
     },
     {
@@ -70,34 +79,33 @@
       ]
     },
     {
-      "name": "Foongus",
+      "name": "Cubone",
       "tier": "T1",
       "types": [
-        "Grass",
-        "Poison"
-      ]
-    },
-    {
-      "name": "Phantump",
-      "tier": "T1",
-      "types": [
-        "Ghost",
-        "Grass"
-      ]
-    },
-    {
-      "name": "Sandygast",
-      "tier": "T1",
-      "types": [
-        "Ghost",
         "Ground"
       ]
     },
     {
-      "name": "Gossifleur",
+      "name": "Dratini",
       "tier": "T1",
       "types": [
-        "Grass"
+        "Dragon"
+      ]
+    },
+    {
+      "name": "Qwilfish (HISUIAN)",
+      "tier": "T1",
+      "types": [
+        "Dark",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Meditite",
+      "tier": "T1",
+      "types": [
+        "Fighting",
+        "Psychic"
       ]
     },
     {
