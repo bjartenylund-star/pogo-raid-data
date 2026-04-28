@@ -1,41 +1,32 @@
 {
   "bosses": [
     {
-      "name": "Tapu Koko",
-      "tier": "T5",
+      "name": "Cubone",
+      "tier": "T1",
       "types": [
-        "Electric",
-        "Fairy"
+        "Ground"
       ]
     },
     {
-      "name": "Tapu Lele",
-      "tier": "T5",
+      "name": "Drampa",
+      "tier": "T3",
       "types": [
-        "Psychic",
-        "Fairy"
+        "Normal",
+        "Dragon"
       ]
     },
     {
-      "name": "Sharpedo (MEGA)",
-      "tier": "Mega",
+      "name": "Dratini",
+      "tier": "T1",
       "types": [
-        "Water",
-        "Dark"
+        "Dragon"
       ]
     },
     {
-      "name": "Banette (MEGA)",
-      "tier": "Mega",
+      "name": "Meditite",
+      "tier": "T1",
       "types": [
-        "Ghost"
-      ]
-    },
-    {
-      "name": "Shadow Latios",
-      "tier": "Shadow T5",
-      "types": [
-        "Dragon",
+        "Fighting",
         "Psychic"
       ]
     },
@@ -48,66 +39,6 @@
       ]
     },
     {
-      "name": "Skarmory",
-      "tier": "T3",
-      "types": [
-        "Steel",
-        "Flying"
-      ]
-    },
-    {
-      "name": "Drampa",
-      "tier": "T3",
-      "types": [
-        "Normal",
-        "Dragon"
-      ]
-    },
-    {
-      "name": "Orthworm",
-      "tier": "T3",
-      "types": [
-        "Steel"
-      ]
-    },
-    {
-      "name": "Shadow Marowak (Alola)",
-      "tier": "Shadow T3",
-      "types": [
-        "Fire",
-        "Ghost"
-      ]
-    },
-    {
-      "name": "Shadow Lapras",
-      "tier": "Shadow T3",
-      "types": [
-        "Water",
-        "Ice"
-      ]
-    },
-    {
-      "name": "Shadow Stantler",
-      "tier": "Shadow T3",
-      "types": [
-        "Normal"
-      ]
-    },
-    {
-      "name": "Cubone",
-      "tier": "T1",
-      "types": [
-        "Ground"
-      ]
-    },
-    {
-      "name": "Dratini",
-      "tier": "T1",
-      "types": [
-        "Dragon"
-      ]
-    },
-    {
       "name": "Qwilfish (Hisuian)",
       "tier": "T1",
       "types": [
@@ -116,11 +47,10 @@
       ]
     },
     {
-      "name": "Meditite",
-      "tier": "T1",
+      "name": "Shadow Cacnea",
+      "tier": "Shadow T1",
       "types": [
-        "Fighting",
-        "Psychic"
+        "Grass"
       ]
     },
     {
@@ -139,18 +69,58 @@
       ]
     },
     {
-      "name": "Shadow Cacnea",
-      "tier": "Shadow T1",
-      "types": [
-        "Grass"
-      ]
-    },
-    {
       "name": "Shadow Joltik",
       "tier": "Shadow T1",
       "types": [
         "Bug",
         "Electric"
+      ]
+    },
+    {
+      "name": "Shadow Lapras",
+      "tier": "Shadow T3",
+      "types": [
+        "Water",
+        "Ice"
+      ]
+    },
+    {
+      "name": "Shadow Latios",
+      "tier": "Shadow T5",
+      "types": [
+        "Dragon",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Shadow Marowak (Alola)",
+      "tier": "Shadow T3",
+      "types": [
+        "Fire",
+        "Ghost"
+      ]
+    },
+    {
+      "name": "Shadow Stantler",
+      "tier": "Shadow T3",
+      "types": [
+        "Normal"
+      ]
+    },
+    {
+      "name": "Skarmory",
+      "tier": "T3",
+      "types": [
+        "Steel",
+        "Flying"
+      ]
+    },
+    {
+      "name": "Tapu Koko",
+      "tier": "T5",
+      "types": [
+        "Electric",
+        "Fairy"
       ]
     }
   ]
