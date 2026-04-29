@@ -1,6 +1,13 @@
 {
   "bosses": [
     {
+      "name": "Banette (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Ghost"
+      ]
+    },
+    {
       "name": "Beldum",
       "tier": "T1",
       "types": [
@@ -14,6 +21,14 @@
       "types": [
         "Steel",
         "Ghost"
+      ]
+    },
+    {
+      "name": "Latios",
+      "tier": "Shadow T5",
+      "types": [
+        "Dragon",
+        "Psychic"
       ]
     },
     {
@@ -62,14 +77,6 @@
       ]
     },
     {
-      "name": "Shadow Latios",
-      "tier": "Shadow T5",
-      "types": [
-        "Dragon",
-        "Psychic"
-      ]
-    },
-    {
       "name": "Shadow Stantler",
       "tier": "Shadow T3",
       "types": [
@@ -85,10 +92,10 @@
       ]
     },
     {
-      "name": "Tapu Koko",
+      "name": "Tapu Lele",
       "tier": "T5",
       "types": [
-        "Electric",
+        "Psychic",
         "Fairy"
       ]
     }
