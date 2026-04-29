@@ -1,49 +1,26 @@
 {
   "bosses": [
     {
-      "name": "Cubone",
+      "name": "Beldum",
       "tier": "T1",
       "types": [
-        "Ground"
-      ]
-    },
-    {
-      "name": "Drampa",
-      "tier": "T3",
-      "types": [
-        "Normal",
-        "Dragon"
-      ]
-    },
-    {
-      "name": "Dratini",
-      "tier": "T1",
-      "types": [
-        "Dragon"
-      ]
-    },
-    {
-      "name": "Meditite",
-      "tier": "T1",
-      "types": [
-        "Fighting",
+        "Steel",
         "Psychic"
       ]
     },
     {
-      "name": "Nidoking",
-      "tier": "T3",
+      "name": "Honedge",
+      "tier": "T1",
       "types": [
-        "Poison",
-        "Ground"
+        "Steel",
+        "Ghost"
       ]
     },
     {
-      "name": "Qwilfish (Hisuian)",
-      "tier": "T1",
+      "name": "Orthworm",
+      "tier": "T3",
       "types": [
-        "Dark",
-        "Poison"
+        "Steel"
       ]
     },
     {
@@ -93,14 +70,6 @@
       ]
     },
     {
-      "name": "Shadow Marowak (Alola)",
-      "tier": "Shadow T3",
-      "types": [
-        "Fire",
-        "Ghost"
-      ]
-    },
-    {
       "name": "Shadow Stantler",
       "tier": "Shadow T3",
       "types": [
@@ -108,11 +77,11 @@
       ]
     },
     {
-      "name": "Skarmory",
-      "tier": "T3",
+      "name": "Shieldon",
+      "tier": "T1",
       "types": [
-        "Steel",
-        "Flying"
+        "Rock",
+        "Steel"
       ]
     },
     {
