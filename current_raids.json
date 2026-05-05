@@ -16,6 +16,13 @@
       ]
     },
     {
+      "name": "Cresselia",
+      "tier": "Shadow T5",
+      "types": [
+        "Psychic"
+      ]
+    },
+    {
       "name": "Honedge",
       "tier": "T1",
       "types": [
@@ -29,6 +36,14 @@
       "types": [
         "Dragon",
         "Psychic"
+      ]
+    },
+    {
+      "name": "Nihilego",
+      "tier": "T5",
+      "types": [
+        "Rock",
+        "Poison"
       ]
     },
     {
