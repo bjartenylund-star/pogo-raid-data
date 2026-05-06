@@ -1,27 +1,10 @@
 {
   "bosses": [
     {
-      "name": "Aggron",
-      "tier": "T3",
-      "types": [
-        "Steel",
-        "Rock"
-      ]
-    },
-    {
-      "name": "Beldum",
+      "name": "Bagon",
       "tier": "T1",
       "types": [
-        "Steel",
-        "Psychic"
-      ]
-    },
-    {
-      "name": "Bronzor",
-      "tier": "T1",
-      "types": [
-        "Steel",
-        "Psychic"
+        "Dragon"
       ]
     },
     {
@@ -32,25 +15,25 @@
       ]
     },
     {
-      "name": "Duraludon",
+      "name": "Druddigon",
       "tier": "T3",
       "types": [
-        "Steel",
         "Dragon"
       ]
     },
     {
-      "name": "Klink",
+      "name": "Espurr",
       "tier": "T1",
       "types": [
-        "Steel"
+        "Psychic"
       ]
     },
     {
-      "name": "Meowth (Galarian)",
-      "tier": "T1",
+      "name": "Nidoqueen",
+      "tier": "T3",
       "types": [
-        "Steel"
+        "Poison",
+        "Ground"
       ]
     },
     {
@@ -62,56 +45,81 @@
       ]
     },
     {
-      "name": "Shadow Cacnea",
+      "name": "Shadow Inkay",
       "tier": "Shadow T1",
       "types": [
-        "Grass"
+        "Dark",
+        "Psychic"
       ]
     },
     {
-      "name": "Shadow Dratini",
+      "name": "Shadow Larvitar",
       "tier": "Shadow T1",
       "types": [
-        "Dragon"
+        "Rock",
+        "Ground"
       ]
     },
     {
-      "name": "Shadow Gligar",
-      "tier": "Shadow T1",
-      "types": [
-        "Ground",
-        "Flying"
-      ]
-    },
-    {
-      "name": "Shadow Joltik",
-      "tier": "Shadow T1",
-      "types": [
-        "Bug",
-        "Electric"
-      ]
-    },
-    {
-      "name": "Shadow Lapras",
+      "name": "Shadow Ninetales",
       "tier": "Shadow T3",
       "types": [
-        "Water",
-        "Ice"
+        "Fire"
       ]
     },
     {
-      "name": "Shadow Stantler",
+      "name": "Shadow Onix",
       "tier": "Shadow T3",
       "types": [
-        "Normal"
+        "Rock",
+        "Ground"
       ]
     },
     {
-      "name": "Skarmory",
+      "name": "Shadow Primeape",
+      "tier": "Shadow T3",
+      "types": [
+        "Fighting"
+      ]
+    },
+    {
+      "name": "Shadow Sableye",
+      "tier": "Shadow T1",
+      "types": [
+        "Dark",
+        "Ghost"
+      ]
+    },
+    {
+      "name": "Shadow Spheal",
+      "tier": "Shadow T1",
+      "types": [
+        "Ice",
+        "Water"
+      ]
+    },
+    {
+      "name": "Shieldon",
+      "tier": "T1",
+      "types": [
+        "Rock",
+        "Steel"
+      ]
+    },
+    {
+      "name": "Starmie",
       "tier": "T3",
       "types": [
-        "Steel",
-        "Flying"
+        "Water",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Voltorb (Hisuian)",
+      "tier": "T1",
+      "types": [
+        "Electric",
+        "Grass"
       ]
     }
   ]
