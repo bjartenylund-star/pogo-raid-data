@@ -1,10 +1,27 @@
 {
   "bosses": [
     {
-      "name": "Banette (MEGA)",
-      "tier": "Mega",
+      "name": "Aggron",
+      "tier": "T3",
       "types": [
-        "Ghost"
+        "Steel",
+        "Rock"
+      ]
+    },
+    {
+      "name": "Beldum",
+      "tier": "T1",
+      "types": [
+        "Steel",
+        "Psychic"
+      ]
+    },
+    {
+      "name": "Bronzor",
+      "tier": "T1",
+      "types": [
+        "Steel",
+        "Psychic"
       ]
     },
     {
@@ -15,11 +32,25 @@
       ]
     },
     {
-      "name": "Latios",
-      "tier": "Shadow T5",
+      "name": "Duraludon",
+      "tier": "T3",
       "types": [
-        "Dragon",
-        "Psychic"
+        "Steel",
+        "Dragon"
+      ]
+    },
+    {
+      "name": "Klink",
+      "tier": "T1",
+      "types": [
+        "Steel"
+      ]
+    },
+    {
+      "name": "Meowth (Galarian)",
+      "tier": "T1",
+      "types": [
+        "Steel"
       ]
     },
     {
@@ -76,11 +107,11 @@
       ]
     },
     {
-      "name": "Tapu Lele",
-      "tier": "T5",
+      "name": "Skarmory",
+      "tier": "T3",
       "types": [
-        "Psychic",
-        "Fairy"
+        "Steel",
+        "Flying"
       ]
     }
   ]
