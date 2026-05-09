@@ -5,28 +5,36 @@
       "tier": "T1",
       "types": [
         "Dragon"
-      ]
+      ],
+      "cp20": 660,
+      "cp25": 826
     },
     {
       "name": "Cresselia",
       "tier": "Shadow T5",
       "types": [
         "Psychic"
-      ]
+      ],
+      "cp20": 1633,
+      "cp25": 2041
     },
     {
       "name": "Druddigon",
       "tier": "T3",
       "types": [
         "Dragon"
-      ]
+      ],
+      "cp20": 1561,
+      "cp25": 1951
     },
     {
       "name": "Espurr",
       "tier": "T1",
       "types": [
         "Psychic"
-      ]
+      ],
+      "cp20": 719,
+      "cp25": 899
     },
     {
       "name": "Nidoqueen",
@@ -34,7 +42,9 @@
       "types": [
         "Poison",
         "Ground"
-      ]
+      ],
+      "cp20": 1421,
+      "cp25": 1777
     },
     {
       "name": "Nihilego",
@@ -42,7 +52,9 @@
       "types": [
         "Rock",
         "Poison"
-      ]
+      ],
+      "cp20": 2256,
+      "cp25": 2820
     },
     {
       "name": "Shadow Inkay",
@@ -50,7 +62,9 @@
       "types": [
         "Dark",
         "Psychic"
-      ]
+      ],
+      "cp20": 529,
+      "cp25": 662
     },
     {
       "name": "Shadow Larvitar",
@@ -58,14 +72,18 @@
       "types": [
         "Rock",
         "Ground"
-      ]
+      ],
+      "cp20": 594,
+      "cp25": 743
     },
     {
       "name": "Shadow Ninetales",
       "tier": "Shadow T3",
       "types": [
         "Fire"
-      ]
+      ],
+      "cp20": 1302,
+      "cp25": 1628
     },
     {
       "name": "Shadow Onix",
@@ -73,14 +91,18 @@
       "types": [
         "Rock",
         "Ground"
-      ]
+      ],
+      "cp20": 629,
+      "cp25": 786
     },
     {
       "name": "Shadow Primeape",
       "tier": "Shadow T3",
       "types": [
         "Fighting"
-      ]
+      ],
+      "cp20": 1307,
+      "cp25": 1634
     },
     {
       "name": "Shadow Sableye",
@@ -88,7 +110,9 @@
       "types": [
         "Dark",
         "Ghost"
-      ]
+      ],
+      "cp20": 843,
+      "cp25": 1054
     },
     {
       "name": "Shadow Spheal",
@@ -96,7 +120,9 @@
       "types": [
         "Ice",
         "Water"
-      ]
+      ],
+      "cp20": 550,
+      "cp25": 687
     },
     {
       "name": "Shieldon",
@@ -104,7 +130,9 @@
       "types": [
         "Rock",
         "Steel"
-      ]
+      ],
+      "cp20": 509,
+      "cp25": 636
     },
     {
       "name": "Starmie",
@@ -112,7 +140,9 @@
       "types": [
         "Water",
         "Psychic"
-      ]
+      ],
+      "cp20": 1476,
+      "cp25": 1846
     },
     {
       "name": "Voltorb (Hisuian)",
@@ -120,7 +150,9 @@
       "types": [
         "Electric",
         "Grass"
-      ]
+      ],
+      "cp20": 577,
+      "cp25": 721
     }
   ]
 }
