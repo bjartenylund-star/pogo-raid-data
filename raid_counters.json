@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T02:40:32.985297",
+  "generated_at": "2026-05-12T06:05:47.078556",
   "bosses": {
     "Bagon": {
       "types": [
@@ -1433,6 +1433,1461 @@
             "dps": 51.33,
             "tdo": 46201.0,
             "avg_faints": 28
+          }
+        ]
+      }
+    },
+    "Buzzwole": {
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "tier": "T5",
+      "l40": {
+        "megas": [
+          {
+            "name": "Rayquaza (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Dragon Ascent",
+            "dps": 65.51,
+            "tdo": 58956.0,
+            "avg_faints": 18
+          },
+          {
+            "name": "Pidgeot (MEGA)",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Brave Bird",
+            "dps": 44.33,
+            "tdo": 39895.0,
+            "avg_faints": 32
+          },
+          {
+            "name": "Salamence (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 42.64,
+            "tdo": 38379.0,
+            "avg_faints": 17
+          },
+          {
+            "name": "Charizard (MEGA Y)",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Blast Burn",
+            "dps": 37.92,
+            "tdo": 34126.0,
+            "avg_faints": 19
+          },
+          {
+            "name": "Blaziken (MEGA)",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Brave Bird",
+            "dps": 37.86,
+            "tdo": 34071.0,
+            "avg_faints": 30
+          },
+          {
+            "name": "Alakazam (MEGA)",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 34.78,
+            "tdo": 31304.0,
+            "avg_faints": 39
+          },
+          {
+            "name": "Gallade (MEGA)",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 31.0,
+            "tdo": 27903.0,
+            "avg_faints": 27
+          },
+          {
+            "name": "Gardevoir (MEGA)",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 30.92,
+            "tdo": 27826.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Latios (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 30.41,
+            "tdo": 27370.0,
+            "avg_faints": 28
+          },
+          {
+            "name": "Charizard (MEGA X)",
+            "types": [
+              "Fire",
+              "Dragon"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Blast Burn",
+            "dps": 29.97,
+            "tdo": 26971.0,
+            "avg_faints": 28
+          },
+          {
+            "name": "Altaria (MEGA)",
+            "types": [
+              "Dragon",
+              "Fairy"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 27.87,
+            "tdo": 25079.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Sceptile (MEGA)",
+            "types": [
+              "Grass",
+              "Dragon"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Aerial Ace",
+            "dps": 27.52,
+            "tdo": 24766.0,
+            "avg_faints": 47
+          },
+          {
+            "name": "Metagross (MEGA)",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 27.14,
+            "tdo": 24429.0,
+            "avg_faints": 23
+          },
+          {
+            "name": "Dragonite (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Hurricane",
+            "dps": 27.1,
+            "tdo": 24387.0,
+            "avg_faints": 17
+          },
+          {
+            "name": "Latias (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 26.61,
+            "tdo": 23952.0,
+            "avg_faints": 23
+          },
+          {
+            "name": "Gengar (MEGA)",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Psychic",
+            "dps": 25.66,
+            "tdo": 23090.0,
+            "avg_faints": 13
+          },
+          {
+            "name": "Beedrill (MEGA)",
+            "types": [
+              "Bug",
+              "Poison"
+            ],
+            "fast": "Poison Sting",
+            "charged": "Aerial Ace",
+            "dps": 25.51,
+            "tdo": 22959.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Houndoom (MEGA)",
+            "types": [
+              "Dark",
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Flamethrower",
+            "dps": 25.25,
+            "tdo": 22728.0,
+            "avg_faints": 46
+          },
+          {
+            "name": "Groudon (PRIMAL)",
+            "types": [
+              "Ground",
+              "Fire"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Fire Blast",
+            "dps": 24.01,
+            "tdo": 21613.0,
+            "avg_faints": 19
+          },
+          {
+            "name": "Garchomp (MEGA)",
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Fire Blast",
+            "dps": 22.72,
+            "tdo": 20452.0,
+            "avg_faints": 24
+          }
+        ],
+        "shadows": [
+          {
+            "name": "Shadow Toucannon",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Beak Blast",
+            "dps": 51.57,
+            "tdo": 46416.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Shadow Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 50.48,
+            "tdo": 45433.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Shadow Staraptor",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Fly",
+            "dps": 49.39,
+            "tdo": 44453.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Shadow Salamence",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 47.02,
+            "tdo": 42322.0,
+            "avg_faints": 28
+          },
+          {
+            "name": "Shadow Honchkrow",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 44.73,
+            "tdo": 40258.0,
+            "avg_faints": 57
+          },
+          {
+            "name": "Shadow Unfezant",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Sky Attack",
+            "dps": 41.42,
+            "tdo": 37280.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Shadow Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Drill Peck",
+            "dps": 39.99,
+            "tdo": 35994.0,
+            "avg_faints": 26
+          },
+          {
+            "name": "Shadow Mewtwo",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psystrike",
+            "dps": 37.94,
+            "tdo": 34147.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Shadow Vikavolt",
+            "types": [
+              "Bug",
+              "Electric"
+            ],
+            "fast": "Volt Switch",
+            "charged": "Fly",
+            "dps": 37.65,
+            "tdo": 33882.0,
+            "avg_faints": 39
+          },
+          {
+            "name": "Shadow Swanna",
+            "types": [
+              "Water",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 36.14,
+            "tdo": 32523.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Shadow Ho Oh",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Incinerate",
+            "charged": "Brave Bird",
+            "dps": 36.02,
+            "tdo": 32416.0,
+            "avg_faints": 18
+          },
+          {
+            "name": "Shadow Lugia",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Extrasensory",
+            "charged": "Fly",
+            "dps": 35.48,
+            "tdo": 31935.0,
+            "avg_faints": 15
+          },
+          {
+            "name": "Shadow Hydreigon",
+            "types": [
+              "Dark",
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Fly",
+            "dps": 35.39,
+            "tdo": 31849.0,
+            "avg_faints": 54
+          },
+          {
+            "name": "Shadow Talonflame",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Fly",
+            "dps": 35.21,
+            "tdo": 31688.0,
+            "avg_faints": 30
+          },
+          {
+            "name": "Shadow Blaziken",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Brave Bird",
+            "dps": 33.99,
+            "tdo": 30588.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Shadow Swellow",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Brave Bird",
+            "dps": 33.35,
+            "tdo": 30016.0,
+            "avg_faints": 59
+          },
+          {
+            "name": "Shadow Scyther",
+            "types": [
+              "Bug",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Aerial Ace",
+            "dps": 32.66,
+            "tdo": 29391.0,
+            "avg_faints": 27
+          },
+          {
+            "name": "Shadow Pidgeot",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Brave Bird",
+            "dps": 32.04,
+            "tdo": 28835.0,
+            "avg_faints": 41
+          },
+          {
+            "name": "Shadow Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Blast Burn",
+            "dps": 31.63,
+            "tdo": 28469.0,
+            "avg_faints": 27
+          },
+          {
+            "name": "Shadow Chandelure",
+            "types": [
+              "Ghost",
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "dps": 31.14,
+            "tdo": 28029.0,
+            "avg_faints": 22
+          }
+        ],
+        "regulars": [
+          {
+            "name": "Rayquaza",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Dragon Ascent",
+            "dps": 50.16,
+            "tdo": 45145.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Toucannon",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Beak Blast",
+            "dps": 43.27,
+            "tdo": 38946.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Enamorus (Incarnate)",
+            "types": [
+              "Fairy",
+              "Flying"
+            ],
+            "fast": "Fairy Wind",
+            "charged": "Fly",
+            "dps": 43.01,
+            "tdo": 38706.0,
+            "avg_faints": 22
+          },
+          {
+            "name": "Yveltal",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Oblivion Wing",
+            "dps": 42.78,
+            "tdo": 38505.0,
+            "avg_faints": 28
+          },
+          {
+            "name": "Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 42.0,
+            "tdo": 37799.0,
+            "avg_faints": 20
+          },
+          {
+            "name": "Staraptor",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Fly",
+            "dps": 41.09,
+            "tdo": 36982.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Articuno (Galarian)",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Fly",
+            "dps": 39.22,
+            "tdo": 35294.0,
+            "avg_faints": 21
+          },
+          {
+            "name": "Tornadus (Therian)",
+            "types": [
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Bleakwind Storm",
+            "dps": 39.18,
+            "tdo": 35258.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Salamence",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 38.9,
+            "tdo": 35011.0,
+            "avg_faints": 23
+          },
+          {
+            "name": "Braviary",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 38.47,
+            "tdo": 34625.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Enamorus (Therian)",
+            "types": [
+              "Fairy",
+              "Flying"
+            ],
+            "fast": "Fairy Wind",
+            "charged": "Fly",
+            "dps": 37.77,
+            "tdo": 33989.0,
+            "avg_faints": 19
+          },
+          {
+            "name": "Honchkrow",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 37.69,
+            "tdo": 33922.0,
+            "avg_faints": 49
+          },
+          {
+            "name": "Braviary (Hisuian)",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 35.31,
+            "tdo": 31779.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Flamigo",
+            "types": [
+              "Flying",
+              "Fighting"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Brave Bird",
+            "dps": 34.87,
+            "tdo": 31384.0,
+            "avg_faints": 26
+          },
+          {
+            "name": "Tornadus (Incarnate)",
+            "types": [
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Hurricane",
+            "dps": 34.61,
+            "tdo": 31153.0,
+            "avg_faints": 27
+          },
+          {
+            "name": "Blacephalon",
+            "types": [
+              "Fire",
+              "Ghost"
+            ],
+            "fast": "Incinerate",
+            "charged": "Mind Blown",
+            "dps": 34.58,
+            "tdo": 31119.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Unfezant",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Sky Attack",
+            "dps": 34.36,
+            "tdo": 30924.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Moltres (Galarian)",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 34.19,
+            "tdo": 30775.0,
+            "avg_faints": 27
+          },
+          {
+            "name": "Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Drill Peck",
+            "dps": 33.78,
+            "tdo": 30402.0,
+            "avg_faints": 22
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Air Slash",
+            "charged": "Play Rough",
+            "dps": 33.44,
+            "tdo": 30094.0,
+            "avg_faints": 21
+          }
+        ]
+      },
+      "l50": {
+        "megas": [
+          {
+            "name": "Rayquaza (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Dragon Ascent",
+            "dps": 69.28,
+            "tdo": 62355.0,
+            "avg_faints": 16
+          },
+          {
+            "name": "Pidgeot (MEGA)",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Brave Bird",
+            "dps": 47.14,
+            "tdo": 42425.0,
+            "avg_faints": 29
+          },
+          {
+            "name": "Salamence (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 45.49,
+            "tdo": 40943.0,
+            "avg_faints": 14
+          },
+          {
+            "name": "Charizard (MEGA Y)",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Blast Burn",
+            "dps": 40.42,
+            "tdo": 36374.0,
+            "avg_faints": 17
+          },
+          {
+            "name": "Blaziken (MEGA)",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Brave Bird",
+            "dps": 40.01,
+            "tdo": 36006.0,
+            "avg_faints": 27
+          },
+          {
+            "name": "Alakazam (MEGA)",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 37.1,
+            "tdo": 33389.0,
+            "avg_faints": 35
+          },
+          {
+            "name": "Gallade (MEGA)",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 33.11,
+            "tdo": 29799.0,
+            "avg_faints": 23
+          },
+          {
+            "name": "Gardevoir (MEGA)",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 33.01,
+            "tdo": 29706.0,
+            "avg_faints": 22
+          },
+          {
+            "name": "Latios (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 32.1,
+            "tdo": 28892.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Charizard (MEGA X)",
+            "types": [
+              "Fire",
+              "Dragon"
+            ],
+            "fast": "Air Slash",
+            "charged": "Blast Burn",
+            "dps": 32.07,
+            "tdo": 28859.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Sceptile (MEGA)",
+            "types": [
+              "Grass",
+              "Dragon"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Aerial Ace",
+            "dps": 30.06,
+            "tdo": 27051.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Altaria (MEGA)",
+            "types": [
+              "Dragon",
+              "Fairy"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 29.74,
+            "tdo": 26770.0,
+            "avg_faints": 21
+          },
+          {
+            "name": "Metagross (MEGA)",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 28.95,
+            "tdo": 26057.0,
+            "avg_faints": 20
+          },
+          {
+            "name": "Dragonite (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Hurricane",
+            "dps": 28.86,
+            "tdo": 25973.0,
+            "avg_faints": 15
+          },
+          {
+            "name": "Latias (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 28.37,
+            "tdo": 25537.0,
+            "avg_faints": 21
+          },
+          {
+            "name": "Houndoom (MEGA)",
+            "types": [
+              "Dark",
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Flamethrower",
+            "dps": 27.78,
+            "tdo": 25001.0,
+            "avg_faints": 41
+          },
+          {
+            "name": "Beedrill (MEGA)",
+            "types": [
+              "Bug",
+              "Poison"
+            ],
+            "fast": "Poison Jab",
+            "charged": "Aerial Ace",
+            "dps": 27.02,
+            "tdo": 24318.0,
+            "avg_faints": 23
+          },
+          {
+            "name": "Gengar (MEGA)",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Psychic",
+            "dps": 26.79,
+            "tdo": 24109.0,
+            "avg_faints": 12
+          },
+          {
+            "name": "Groudon (PRIMAL)",
+            "types": [
+              "Ground",
+              "Fire"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Fire Blast",
+            "dps": 24.95,
+            "tdo": 22455.0,
+            "avg_faints": 17
+          },
+          {
+            "name": "Garchomp (MEGA)",
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Fire Blast",
+            "dps": 23.63,
+            "tdo": 21271.0,
+            "avg_faints": 21
+          }
+        ],
+        "shadows": [
+          {
+            "name": "Shadow Toucannon",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Beak Blast",
+            "dps": 55.41,
+            "tdo": 49869.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Shadow Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 53.43,
+            "tdo": 48086.0,
+            "avg_faints": 21
+          },
+          {
+            "name": "Shadow Staraptor",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Fly",
+            "dps": 52.76,
+            "tdo": 47481.0,
+            "avg_faints": 39
+          },
+          {
+            "name": "Shadow Salamence",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 50.09,
+            "tdo": 45084.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Shadow Honchkrow",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 47.74,
+            "tdo": 42965.0,
+            "avg_faints": 52
+          },
+          {
+            "name": "Shadow Unfezant",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Sky Attack",
+            "dps": 44.24,
+            "tdo": 39817.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Shadow Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Drill Peck",
+            "dps": 42.58,
+            "tdo": 38321.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Shadow Mewtwo",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Psystrike",
+            "dps": 40.8,
+            "tdo": 36719.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Shadow Vikavolt",
+            "types": [
+              "Bug",
+              "Electric"
+            ],
+            "fast": "Volt Switch",
+            "charged": "Fly",
+            "dps": 40.19,
+            "tdo": 36172.0,
+            "avg_faints": 35
+          },
+          {
+            "name": "Shadow Ho Oh",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Incinerate",
+            "charged": "Brave Bird",
+            "dps": 38.79,
+            "tdo": 34912.0,
+            "avg_faints": 16
+          },
+          {
+            "name": "Shadow Swanna",
+            "types": [
+              "Water",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 38.47,
+            "tdo": 34626.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Shadow Lugia",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Extrasensory",
+            "charged": "Fly",
+            "dps": 37.8,
+            "tdo": 34016.0,
+            "avg_faints": 13
+          },
+          {
+            "name": "Shadow Talonflame",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Fly",
+            "dps": 37.17,
+            "tdo": 33457.0,
+            "avg_faints": 27
+          },
+          {
+            "name": "Shadow Hydreigon",
+            "types": [
+              "Dark",
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Fly",
+            "dps": 36.69,
+            "tdo": 33019.0,
+            "avg_faints": 49
+          },
+          {
+            "name": "Shadow Blaziken",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Brave Bird",
+            "dps": 35.79,
+            "tdo": 32211.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Shadow Swellow",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Sky Attack",
+            "dps": 35.72,
+            "tdo": 32151.0,
+            "avg_faints": 54
+          },
+          {
+            "name": "Shadow Pidgeot",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Brave Bird",
+            "dps": 35.05,
+            "tdo": 31548.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Shadow Scyther",
+            "types": [
+              "Bug",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Aerial Ace",
+            "dps": 34.58,
+            "tdo": 31120.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Shadow Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Blast Burn",
+            "dps": 34.3,
+            "tdo": 30869.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Shadow Heatran",
+            "types": [
+              "Fire",
+              "Steel"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Magma Storm",
+            "dps": 32.95,
+            "tdo": 29655.0,
+            "avg_faints": 30
+          }
+        ],
+        "regulars": [
+          {
+            "name": "Rayquaza",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Dragon Ascent",
+            "dps": 53.18,
+            "tdo": 47863.0,
+            "avg_faints": 21
+          },
+          {
+            "name": "Toucannon",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Beak Blast",
+            "dps": 45.93,
+            "tdo": 41335.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Yveltal",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Oblivion Wing",
+            "dps": 45.51,
+            "tdo": 40958.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Enamorus (Incarnate)",
+            "types": [
+              "Fairy",
+              "Flying"
+            ],
+            "fast": "Fairy Wind",
+            "charged": "Fly",
+            "dps": 45.48,
+            "tdo": 40933.0,
+            "avg_faints": 20
+          },
+          {
+            "name": "Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 44.37,
+            "tdo": 39936.0,
+            "avg_faints": 17
+          },
+          {
+            "name": "Staraptor",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Fly",
+            "dps": 44.03,
+            "tdo": 39628.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Articuno (Galarian)",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Fly",
+            "dps": 42.57,
+            "tdo": 38312.0,
+            "avg_faints": 19
+          },
+          {
+            "name": "Salamence",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 41.33,
+            "tdo": 37198.0,
+            "avg_faints": 21
+          },
+          {
+            "name": "Tornadus (Therian)",
+            "types": [
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Bleakwind Storm",
+            "dps": 41.12,
+            "tdo": 37004.0,
+            "avg_faints": 21
+          },
+          {
+            "name": "Braviary",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 41.11,
+            "tdo": 36996.0,
+            "avg_faints": 28
+          },
+          {
+            "name": "Enamorus (Therian)",
+            "types": [
+              "Fairy",
+              "Flying"
+            ],
+            "fast": "Fairy Wind",
+            "charged": "Fly",
+            "dps": 40.56,
+            "tdo": 36507.0,
+            "avg_faints": 16
+          },
+          {
+            "name": "Honchkrow",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 40.27,
+            "tdo": 36247.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Braviary (Hisuian)",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 38.2,
+            "tdo": 34376.0,
+            "avg_faints": 22
+          },
+          {
+            "name": "Tornadus (Incarnate)",
+            "types": [
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Hurricane",
+            "dps": 37.61,
+            "tdo": 33847.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Blacephalon",
+            "types": [
+              "Fire",
+              "Ghost"
+            ],
+            "fast": "Incinerate",
+            "charged": "Mind Blown",
+            "dps": 37.1,
+            "tdo": 33393.0,
+            "avg_faints": 22
+          },
+          {
+            "name": "Flamigo",
+            "types": [
+              "Flying",
+              "Fighting"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Brave Bird",
+            "dps": 36.99,
+            "tdo": 33288.0,
+            "avg_faints": 23
+          },
+          {
+            "name": "Unfezant",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Sky Attack",
+            "dps": 36.97,
+            "tdo": 33276.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Moltres (Galarian)",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 36.55,
+            "tdo": 32893.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Bombirdier",
+            "types": [
+              "Flying",
+              "Dark"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 35.81,
+            "tdo": 32231.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Drill Peck",
+            "dps": 35.69,
+            "tdo": 32122.0,
+            "avg_faints": 20
           }
         ]
       }
@@ -5747,6 +7202,1448 @@
         ]
       }
     },
+    "Glalie (MEGA)": {
+      "types": [
+        "Ice"
+      ],
+      "tier": "Mega",
+      "l40": {
+        "megas": [
+          {
+            "name": "Lucario (MEGA)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Force Palm",
+            "charged": "Aura Sphere",
+            "dps": 44.73,
+            "tdo": 40256.0,
+            "avg_faints": 41
+          },
+          {
+            "name": "Blaziken (MEGA)",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Aura Sphere",
+            "dps": 43.29,
+            "tdo": 38965.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Charizard (MEGA Y)",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 37.88,
+            "tdo": 34096.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Metagross (MEGA)",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Bullet Punch",
+            "charged": "Meteor Mash",
+            "dps": 35.42,
+            "tdo": 31879.0,
+            "avg_faints": 28
+          },
+          {
+            "name": "Heracross (MEGA)",
+            "types": [
+              "Bug",
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Close Combat",
+            "dps": 33.08,
+            "tdo": 29773.0,
+            "avg_faints": 39
+          },
+          {
+            "name": "Charizard (MEGA X)",
+            "types": [
+              "Fire",
+              "Dragon"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 32.84,
+            "tdo": 29560.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Diancie (MEGA)",
+            "types": [
+              "Rock",
+              "Fairy"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Rock Slide",
+            "dps": 32.37,
+            "tdo": 29133.0,
+            "avg_faints": 65
+          },
+          {
+            "name": "Latios (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Aura Sphere",
+            "dps": 31.88,
+            "tdo": 28695.0,
+            "avg_faints": 50
+          },
+          {
+            "name": "Rayquaza (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Ascent",
+            "dps": 30.74,
+            "tdo": 27666.0,
+            "avg_faints": 50
+          },
+          {
+            "name": "Tyranitar (MEGA)",
+            "types": [
+              "Rock",
+              "Dark"
+            ],
+            "fast": "Smack Down",
+            "charged": "Stone Edge",
+            "dps": 30.13,
+            "tdo": 27119.0,
+            "avg_faints": 29
+          },
+          {
+            "name": "Houndoom (MEGA)",
+            "types": [
+              "Dark",
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Flamethrower",
+            "dps": 29.69,
+            "tdo": 26722.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Alakazam (MEGA)",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Counter",
+            "charged": "Focus Blast",
+            "dps": 29.55,
+            "tdo": 26591.0,
+            "avg_faints": 54
+          },
+          {
+            "name": "Aerodactyl (MEGA)",
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Rock Slide",
+            "dps": 29.15,
+            "tdo": 26235.0,
+            "avg_faints": 58
+          },
+          {
+            "name": "Gallade (MEGA)",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Close Combat",
+            "dps": 28.62,
+            "tdo": 25754.0,
+            "avg_faints": 48
+          },
+          {
+            "name": "Groudon (PRIMAL)",
+            "types": [
+              "Ground",
+              "Fire"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Fire Blast",
+            "dps": 28.56,
+            "tdo": 25707.0,
+            "avg_faints": 26
+          },
+          {
+            "name": "Lopunny (MEGA)",
+            "types": [
+              "Normal",
+              "Fighting"
+            ],
+            "fast": "Double Kick",
+            "charged": "Focus Blast",
+            "dps": 28.44,
+            "tdo": 25592.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Aggron (MEGA)",
+            "types": [
+              "Steel",
+              "Rock"
+            ],
+            "fast": "Metal Sound",
+            "charged": "Meteor Beam",
+            "dps": 27.83,
+            "tdo": 25046.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Latias (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Aura Sphere",
+            "dps": 27.66,
+            "tdo": 24890.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Salamence (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 27.32,
+            "tdo": 24589.0,
+            "avg_faints": 46
+          },
+          {
+            "name": "Dragonite (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Steel Wing",
+            "charged": "Super Power",
+            "dps": 26.22,
+            "tdo": 23594.0,
+            "avg_faints": 47
+          }
+        ],
+        "shadows": [
+          {
+            "name": "Shadow Blaziken",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Aura Sphere",
+            "dps": 38.09,
+            "tdo": 34284.0,
+            "avg_faints": 51
+          },
+          {
+            "name": "Shadow Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Bullet Punch",
+            "charged": "Meteor Mash",
+            "dps": 36.31,
+            "tdo": 32677.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Shadow Rampardos",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Rock Slide",
+            "dps": 35.26,
+            "tdo": 31730.0,
+            "avg_faints": 78
+          },
+          {
+            "name": "Shadow Heatran",
+            "types": [
+              "Fire",
+              "Steel"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Magma Storm",
+            "dps": 35.11,
+            "tdo": 31599.0,
+            "avg_faints": 27
+          },
+          {
+            "name": "Shadow Conkeldurr",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Dynamic Punch",
+            "dps": 34.42,
+            "tdo": 30978.0,
+            "avg_faints": 50
+          },
+          {
+            "name": "Shadow Emboar",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Blast Burn",
+            "dps": 33.36,
+            "tdo": 30020.0,
+            "avg_faints": 46
+          },
+          {
+            "name": "Shadow Delphox",
+            "types": [
+              "Fire",
+              "Psychic"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 33.32,
+            "tdo": 29991.0,
+            "avg_faints": 47
+          },
+          {
+            "name": "Shadow Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Rock Wrecker",
+            "dps": 33.2,
+            "tdo": 29881.0,
+            "avg_faints": 57
+          },
+          {
+            "name": "Shadow Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "dps": 32.81,
+            "tdo": 29530.0,
+            "avg_faints": 48
+          },
+          {
+            "name": "Shadow Raikou",
+            "types": [
+              "Electric"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Aura Sphere",
+            "dps": 32.38,
+            "tdo": 29143.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Shadow Chandelure",
+            "types": [
+              "Ghost",
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "dps": 32.27,
+            "tdo": 29047.0,
+            "avg_faints": 63
+          },
+          {
+            "name": "Shadow Machamp",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Dynamic Punch",
+            "dps": 32.24,
+            "tdo": 29013.0,
+            "avg_faints": 57
+          },
+          {
+            "name": "Shadow Dialga",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Iron Head",
+            "dps": 32.18,
+            "tdo": 28961.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Shadow Entei",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "dps": 32.1,
+            "tdo": 28892.0,
+            "avg_faints": 35
+          },
+          {
+            "name": "Shadow Tyrantrum",
+            "types": [
+              "Rock",
+              "Dragon"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Meteor Beam",
+            "dps": 32.04,
+            "tdo": 28835.0,
+            "avg_faints": 64
+          },
+          {
+            "name": "Shadow Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 32.02,
+            "tdo": 28820.0,
+            "avg_faints": 56
+          },
+          {
+            "name": "Shadow Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Aura Sphere",
+            "dps": 31.91,
+            "tdo": 28720.0,
+            "avg_faints": 59
+          },
+          {
+            "name": "Shadow Infernape",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 31.79,
+            "tdo": 28614.0,
+            "avg_faints": 50
+          },
+          {
+            "name": "Shadow Hariyama",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Force Palm",
+            "charged": "Dynamic Punch",
+            "dps": 31.62,
+            "tdo": 28459.0,
+            "avg_faints": 52
+          },
+          {
+            "name": "Shadow Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Iron Head",
+            "dps": 31.52,
+            "tdo": 28372.0,
+            "avg_faints": 53
+          }
+        ],
+        "regulars": [
+          {
+            "name": "Necrozma (Dusk Mane)",
+            "types": [
+              "Psychic",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Sunsteel Strike",
+            "dps": 42.08,
+            "tdo": 37876.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "dps": 42.0,
+            "tdo": 37799.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Keldeo (Resolute)",
+            "types": [
+              "Water",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Secret Sword",
+            "dps": 38.66,
+            "tdo": 34792.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Blacephalon",
+            "types": [
+              "Fire",
+              "Ghost"
+            ],
+            "fast": "Incinerate",
+            "charged": "Mind Blown",
+            "dps": 35.14,
+            "tdo": 31622.0,
+            "avg_faints": 73
+          },
+          {
+            "name": "Lucario",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Force Palm",
+            "charged": "Aura Sphere",
+            "dps": 34.1,
+            "tdo": 30688.0,
+            "avg_faints": 46
+          },
+          {
+            "name": "Terrakion",
+            "types": [
+              "Rock",
+              "Fighting"
+            ],
+            "fast": "Double Kick",
+            "charged": "Sacred Sword",
+            "dps": 33.9,
+            "tdo": 30511.0,
+            "avg_faints": 47
+          },
+          {
+            "name": "Reshiram",
+            "types": [
+              "Dragon",
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fusion Flare",
+            "dps": 32.61,
+            "tdo": 29350.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Blaziken",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Aura Sphere",
+            "dps": 31.87,
+            "tdo": 28686.0,
+            "avg_faints": 45
+          },
+          {
+            "name": "Keldeo (Ordinary)",
+            "types": [
+              "Water",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Sacred Sword",
+            "dps": 31.44,
+            "tdo": 28297.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Kartana",
+            "types": [
+              "Grass",
+              "Steel"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Sacred Sword",
+            "dps": 31.05,
+            "tdo": 27942.0,
+            "avg_faints": 55
+          },
+          {
+            "name": "Kyurem (White)",
+            "types": [
+              "Dragon",
+              "Ice"
+            ],
+            "fast": "Steel Wing",
+            "charged": "Fusion Flare",
+            "dps": 30.7,
+            "tdo": 27633.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Rampardos",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Rock Slide",
+            "dps": 30.41,
+            "tdo": 27365.0,
+            "avg_faints": 65
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Bullet Punch",
+            "charged": "Meteor Mash",
+            "dps": 30.32,
+            "tdo": 27290.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Cinderace",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Pyroball",
+            "dps": 29.98,
+            "tdo": 26981.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Urshifu (Single Strike)",
+            "types": [
+              "Fighting",
+              "Dark"
+            ],
+            "fast": "Counter",
+            "charged": "Dynamic Punch",
+            "dps": 29.45,
+            "tdo": 26504.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Urshifu (Rapid Strike)",
+            "types": [
+              "Fighting",
+              "Water"
+            ],
+            "fast": "Counter",
+            "charged": "Dynamic Punch",
+            "dps": 29.31,
+            "tdo": 26376.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Heatran",
+            "types": [
+              "Fire",
+              "Steel"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Magma Storm",
+            "dps": 29.26,
+            "tdo": 26333.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Volcarona",
+            "types": [
+              "Bug",
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "dps": 29.16,
+            "tdo": 26240.0,
+            "avg_faints": 35
+          },
+          {
+            "name": "Necrozma (Dawn Wings)",
+            "types": [
+              "Psychic",
+              "Ghost"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Moongeist Beam",
+            "dps": 29.12,
+            "tdo": 26204.0,
+            "avg_faints": 47
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Poison Jab",
+            "charged": "Dynamax Cannon",
+            "dps": 29.1,
+            "tdo": 26192.0,
+            "avg_faints": 38
+          }
+        ]
+      },
+      "l50": {
+        "megas": [
+          {
+            "name": "Lucario (MEGA)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Force Palm",
+            "charged": "Aura Sphere",
+            "dps": 47.94,
+            "tdo": 43142.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Blaziken (MEGA)",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Aura Sphere",
+            "dps": 46.09,
+            "tdo": 41477.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Charizard (MEGA Y)",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 40.83,
+            "tdo": 36748.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Metagross (MEGA)",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Bullet Punch",
+            "charged": "Meteor Mash",
+            "dps": 37.6,
+            "tdo": 33843.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Heracross (MEGA)",
+            "types": [
+              "Bug",
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Close Combat",
+            "dps": 35.63,
+            "tdo": 32069.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Diancie (MEGA)",
+            "types": [
+              "Rock",
+              "Fairy"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Rock Slide",
+            "dps": 35.5,
+            "tdo": 31952.0,
+            "avg_faints": 53
+          },
+          {
+            "name": "Latios (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Aura Sphere",
+            "dps": 35.08,
+            "tdo": 31571.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Charizard (MEGA X)",
+            "types": [
+              "Fire",
+              "Dragon"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 34.95,
+            "tdo": 31454.0,
+            "avg_faints": 35
+          },
+          {
+            "name": "Rayquaza (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Dragon Ascent",
+            "dps": 33.65,
+            "tdo": 30281.0,
+            "avg_faints": 46
+          },
+          {
+            "name": "Alakazam (MEGA)",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Counter",
+            "charged": "Focus Blast",
+            "dps": 32.27,
+            "tdo": 29045.0,
+            "avg_faints": 50
+          },
+          {
+            "name": "Aerodactyl (MEGA)",
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Rock Slide",
+            "dps": 32.23,
+            "tdo": 29007.0,
+            "avg_faints": 49
+          },
+          {
+            "name": "Tyranitar (MEGA)",
+            "types": [
+              "Rock",
+              "Dark"
+            ],
+            "fast": "Smack Down",
+            "charged": "Stone Edge",
+            "dps": 32.08,
+            "tdo": 28870.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Houndoom (MEGA)",
+            "types": [
+              "Dark",
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Flamethrower",
+            "dps": 32.07,
+            "tdo": 28859.0,
+            "avg_faints": 28
+          },
+          {
+            "name": "Gallade (MEGA)",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Close Combat",
+            "dps": 31.52,
+            "tdo": 28364.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Groudon (PRIMAL)",
+            "types": [
+              "Ground",
+              "Fire"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Fire Blast",
+            "dps": 31.12,
+            "tdo": 28012.0,
+            "avg_faints": 23
+          },
+          {
+            "name": "Lopunny (MEGA)",
+            "types": [
+              "Normal",
+              "Fighting"
+            ],
+            "fast": "Double Kick",
+            "charged": "Focus Blast",
+            "dps": 30.56,
+            "tdo": 27503.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Latias (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Aura Sphere",
+            "dps": 30.11,
+            "tdo": 27098.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Aggron (MEGA)",
+            "types": [
+              "Steel",
+              "Rock"
+            ],
+            "fast": "Iron Tail",
+            "charged": "Meteor Beam",
+            "dps": 29.39,
+            "tdo": 26452.0,
+            "avg_faints": 23
+          },
+          {
+            "name": "Salamence (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 29.0,
+            "tdo": 26098.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Gengar (MEGA)",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Focus Blast",
+            "dps": 27.92,
+            "tdo": 25125.0,
+            "avg_faints": 49
+          }
+        ],
+        "shadows": [
+          {
+            "name": "Shadow Blaziken",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Aura Sphere",
+            "dps": 41.12,
+            "tdo": 37007.0,
+            "avg_faints": 47
+          },
+          {
+            "name": "Shadow Rampardos",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Rock Slide",
+            "dps": 38.66,
+            "tdo": 34797.0,
+            "avg_faints": 68
+          },
+          {
+            "name": "Shadow Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Bullet Punch",
+            "charged": "Meteor Mash",
+            "dps": 38.59,
+            "tdo": 34727.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Shadow Heatran",
+            "types": [
+              "Fire",
+              "Steel"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Magma Storm",
+            "dps": 37.61,
+            "tdo": 33849.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Shadow Chandelure",
+            "types": [
+              "Ghost",
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "dps": 36.84,
+            "tdo": 33154.0,
+            "avg_faints": 50
+          },
+          {
+            "name": "Shadow Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Rock Wrecker",
+            "dps": 36.49,
+            "tdo": 32839.0,
+            "avg_faints": 48
+          },
+          {
+            "name": "Shadow Conkeldurr",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Dynamic Punch",
+            "dps": 36.35,
+            "tdo": 32713.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Shadow Emboar",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Blast Burn",
+            "dps": 36.05,
+            "tdo": 32441.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Shadow Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "dps": 35.49,
+            "tdo": 31940.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Shadow Delphox",
+            "types": [
+              "Fire",
+              "Psychic"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 35.45,
+            "tdo": 31904.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Shadow Machamp",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Dynamic Punch",
+            "dps": 34.84,
+            "tdo": 31356.0,
+            "avg_faints": 48
+          },
+          {
+            "name": "Shadow Dialga",
+            "types": [
+              "Steel",
+              "Dragon"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Iron Head",
+            "dps": 34.83,
+            "tdo": 31350.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Shadow Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 34.35,
+            "tdo": 30916.0,
+            "avg_faints": 50
+          },
+          {
+            "name": "Shadow Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Aura Sphere",
+            "dps": 34.24,
+            "tdo": 30818.0,
+            "avg_faints": 57
+          },
+          {
+            "name": "Shadow Infernape",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 34.05,
+            "tdo": 30644.0,
+            "avg_faints": 46
+          },
+          {
+            "name": "Shadow Raikou",
+            "types": [
+              "Electric"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Aura Sphere",
+            "dps": 34.0,
+            "tdo": 30600.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Shadow Entei",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "dps": 33.97,
+            "tdo": 30574.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Shadow Hariyama",
+            "types": [
+              "Fighting"
+            ],
+            "fast": "Force Palm",
+            "charged": "Dynamic Punch",
+            "dps": 33.9,
+            "tdo": 30510.0,
+            "avg_faints": 45
+          },
+          {
+            "name": "Shadow Typhlosion",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Incinerate",
+            "charged": "Blast Burn",
+            "dps": 33.39,
+            "tdo": 30052.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Shadow Tyrantrum",
+            "types": [
+              "Rock",
+              "Dragon"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Meteor Beam",
+            "dps": 33.09,
+            "tdo": 29780.0,
+            "avg_faints": 59
+          }
+        ],
+        "regulars": [
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Behemoth Blade",
+            "dps": 46.06,
+            "tdo": 41456.0,
+            "avg_faints": 28
+          },
+          {
+            "name": "Necrozma (Dusk Mane)",
+            "types": [
+              "Psychic",
+              "Steel"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Sunsteel Strike",
+            "dps": 43.04,
+            "tdo": 38737.0,
+            "avg_faints": 32
+          },
+          {
+            "name": "Keldeo (Resolute)",
+            "types": [
+              "Water",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Secret Sword",
+            "dps": 40.48,
+            "tdo": 36433.0,
+            "avg_faints": 29
+          },
+          {
+            "name": "Blacephalon",
+            "types": [
+              "Fire",
+              "Ghost"
+            ],
+            "fast": "Incinerate",
+            "charged": "Mind Blown",
+            "dps": 38.99,
+            "tdo": 35093.0,
+            "avg_faints": 56
+          },
+          {
+            "name": "Lucario",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Force Palm",
+            "charged": "Aura Sphere",
+            "dps": 37.01,
+            "tdo": 33310.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Terrakion",
+            "types": [
+              "Rock",
+              "Fighting"
+            ],
+            "fast": "Double Kick",
+            "charged": "Sacred Sword",
+            "dps": 36.21,
+            "tdo": 32587.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Reshiram",
+            "types": [
+              "Dragon",
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fusion Flare",
+            "dps": 36.03,
+            "tdo": 32423.0,
+            "avg_faints": 32
+          },
+          {
+            "name": "Blaziken",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Aura Sphere",
+            "dps": 34.51,
+            "tdo": 31060.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Kyurem (White)",
+            "types": [
+              "Dragon",
+              "Ice"
+            ],
+            "fast": "Steel Wing",
+            "charged": "Fusion Flare",
+            "dps": 33.99,
+            "tdo": 30590.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Kartana",
+            "types": [
+              "Grass",
+              "Steel"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Sacred Sword",
+            "dps": 33.09,
+            "tdo": 29778.0,
+            "avg_faints": 48
+          },
+          {
+            "name": "Rampardos",
+            "types": [
+              "Rock"
+            ],
+            "fast": "Smack Down",
+            "charged": "Rock Slide",
+            "dps": 32.62,
+            "tdo": 29357.0,
+            "avg_faints": 60
+          },
+          {
+            "name": "Keldeo (Ordinary)",
+            "types": [
+              "Water",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Sacred Sword",
+            "dps": 32.59,
+            "tdo": 29335.0,
+            "avg_faints": 29
+          },
+          {
+            "name": "Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Bullet Punch",
+            "charged": "Meteor Mash",
+            "dps": 32.5,
+            "tdo": 29248.0,
+            "avg_faints": 32
+          },
+          {
+            "name": "Pheromosa",
+            "types": [
+              "Bug",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Focus Blast",
+            "dps": 32.48,
+            "tdo": 29235.0,
+            "avg_faints": 71
+          },
+          {
+            "name": "Cinderace",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Pyroball",
+            "dps": 31.93,
+            "tdo": 28740.0,
+            "avg_faints": 35
+          },
+          {
+            "name": "Necrozma (Dawn Wings)",
+            "types": [
+              "Psychic",
+              "Ghost"
+            ],
+            "fast": "Metal Claw",
+            "charged": "Moongeist Beam",
+            "dps": 31.67,
+            "tdo": 28502.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Darmanitan (Standard)",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Overheat",
+            "dps": 31.51,
+            "tdo": 28360.0,
+            "avg_faints": 41
+          },
+          {
+            "name": "Urshifu (Single Strike)",
+            "types": [
+              "Fighting",
+              "Dark"
+            ],
+            "fast": "Counter",
+            "charged": "Dynamic Punch",
+            "dps": 31.35,
+            "tdo": 28217.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Heatran",
+            "types": [
+              "Fire",
+              "Steel"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Magma Storm",
+            "dps": 31.28,
+            "tdo": 28149.0,
+            "avg_faints": 21
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Poison Jab",
+            "charged": "Dynamax Cannon",
+            "dps": 31.16,
+            "tdo": 28044.0,
+            "avg_faints": 35
+          }
+        ]
+      }
+    },
     "Nidoqueen": {
       "types": [
         "Poison",
@@ -8600,6 +11497,1461 @@
             "dps": 29.5,
             "tdo": 26550.0,
             "avg_faints": 27
+          }
+        ]
+      }
+    },
+    "Pheromosa": {
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "tier": "T5",
+      "l40": {
+        "megas": [
+          {
+            "name": "Rayquaza (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Dragon Ascent",
+            "dps": 137.64,
+            "tdo": 123879.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Pidgeot (MEGA)",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Brave Bird",
+            "dps": 94.62,
+            "tdo": 85158.0,
+            "avg_faints": 51
+          },
+          {
+            "name": "Salamence (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 91.03,
+            "tdo": 81929.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Charizard (MEGA Y)",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Blast Burn",
+            "dps": 78.18,
+            "tdo": 70364.0,
+            "avg_faints": 28
+          },
+          {
+            "name": "Blaziken (MEGA)",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Brave Bird",
+            "dps": 76.79,
+            "tdo": 69108.0,
+            "avg_faints": 41
+          },
+          {
+            "name": "Alakazam (MEGA)",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 70.55,
+            "tdo": 63494.0,
+            "avg_faints": 61
+          },
+          {
+            "name": "Gallade (MEGA)",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 65.39,
+            "tdo": 58855.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Gardevoir (MEGA)",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 65.36,
+            "tdo": 58825.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Latios (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 62.98,
+            "tdo": 56678.0,
+            "avg_faints": 45
+          },
+          {
+            "name": "Charizard (MEGA X)",
+            "types": [
+              "Fire",
+              "Dragon"
+            ],
+            "fast": "Air Slash",
+            "charged": "Blast Burn",
+            "dps": 62.45,
+            "tdo": 56203.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Altaria (MEGA)",
+            "types": [
+              "Dragon",
+              "Fairy"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 58.51,
+            "tdo": 52656.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Sceptile (MEGA)",
+            "types": [
+              "Grass",
+              "Dragon"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Aerial Ace",
+            "dps": 56.47,
+            "tdo": 50826.0,
+            "avg_faints": 69
+          },
+          {
+            "name": "Metagross (MEGA)",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 56.22,
+            "tdo": 50602.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Dragonite (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Hurricane",
+            "dps": 56.2,
+            "tdo": 50581.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Latias (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 54.01,
+            "tdo": 48605.0,
+            "avg_faints": 39
+          },
+          {
+            "name": "Beedrill (MEGA)",
+            "types": [
+              "Bug",
+              "Poison"
+            ],
+            "fast": "Poison Jab",
+            "charged": "Aerial Ace",
+            "dps": 53.6,
+            "tdo": 48244.0,
+            "avg_faints": 39
+          },
+          {
+            "name": "Gengar (MEGA)",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Psychic",
+            "dps": 52.31,
+            "tdo": 47076.0,
+            "avg_faints": 21
+          },
+          {
+            "name": "Houndoom (MEGA)",
+            "types": [
+              "Dark",
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Flamethrower",
+            "dps": 50.11,
+            "tdo": 45095.0,
+            "avg_faints": 70
+          },
+          {
+            "name": "Groudon (PRIMAL)",
+            "types": [
+              "Ground",
+              "Fire"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Fire Blast",
+            "dps": 48.48,
+            "tdo": 43630.0,
+            "avg_faints": 26
+          },
+          {
+            "name": "Slowbro (MEGA)",
+            "types": [
+              "Water",
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 45.99,
+            "tdo": 41391.0,
+            "avg_faints": 39
+          }
+        ],
+        "shadows": [
+          {
+            "name": "Shadow Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 107.44,
+            "tdo": 96696.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Shadow Salamence",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 99.47,
+            "tdo": 89522.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Shadow Toucannon",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Beak Blast",
+            "dps": 98.06,
+            "tdo": 88255.0,
+            "avg_faints": 68
+          },
+          {
+            "name": "Shadow Staraptor",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Fly",
+            "dps": 95.76,
+            "tdo": 86186.0,
+            "avg_faints": 73
+          },
+          {
+            "name": "Shadow Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Drill Peck",
+            "dps": 85.15,
+            "tdo": 76634.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Shadow Honchkrow",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 83.61,
+            "tdo": 75245.0,
+            "avg_faints": 87
+          },
+          {
+            "name": "Shadow Mewtwo",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psystrike",
+            "dps": 80.38,
+            "tdo": 72340.0,
+            "avg_faints": 60
+          },
+          {
+            "name": "Shadow Unfezant",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Sky Attack",
+            "dps": 79.08,
+            "tdo": 71169.0,
+            "avg_faints": 70
+          },
+          {
+            "name": "Shadow Vikavolt",
+            "types": [
+              "Bug",
+              "Electric"
+            ],
+            "fast": "Volt Switch",
+            "charged": "Fly",
+            "dps": 78.62,
+            "tdo": 70760.0,
+            "avg_faints": 56
+          },
+          {
+            "name": "Shadow Lugia",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Extrasensory",
+            "charged": "Fly",
+            "dps": 76.68,
+            "tdo": 69016.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Shadow Ho Oh",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Incinerate",
+            "charged": "Brave Bird",
+            "dps": 75.84,
+            "tdo": 68257.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Shadow Swanna",
+            "types": [
+              "Water",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 75.71,
+            "tdo": 68138.0,
+            "avg_faints": 57
+          },
+          {
+            "name": "Shadow Talonflame",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Fly",
+            "dps": 75.1,
+            "tdo": 67589.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Shadow Scyther",
+            "types": [
+              "Bug",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Aerial Ace",
+            "dps": 67.98,
+            "tdo": 61186.0,
+            "avg_faints": 41
+          },
+          {
+            "name": "Shadow Hydreigon",
+            "types": [
+              "Dark",
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Fly",
+            "dps": 67.84,
+            "tdo": 61060.0,
+            "avg_faints": 83
+          },
+          {
+            "name": "Shadow Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Blast Burn",
+            "dps": 66.49,
+            "tdo": 59838.0,
+            "avg_faints": 41
+          },
+          {
+            "name": "Shadow Blaziken",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Brave Bird",
+            "dps": 62.86,
+            "tdo": 56574.0,
+            "avg_faints": 57
+          },
+          {
+            "name": "Shadow Chandelure",
+            "types": [
+              "Ghost",
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "dps": 62.69,
+            "tdo": 56425.0,
+            "avg_faints": 32
+          },
+          {
+            "name": "Shadow Pidgeot",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Brave Bird",
+            "dps": 61.63,
+            "tdo": 55466.0,
+            "avg_faints": 60
+          },
+          {
+            "name": "Shadow Gliscor",
+            "types": [
+              "Ground",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Acrobatics",
+            "dps": 61.14,
+            "tdo": 55026.0,
+            "avg_faints": 39
+          }
+        ],
+        "regulars": [
+          {
+            "name": "Rayquaza",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Dragon Ascent",
+            "dps": 105.76,
+            "tdo": 95180.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Toucannon",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Beak Blast",
+            "dps": 92.45,
+            "tdo": 83205.0,
+            "avg_faints": 52
+          },
+          {
+            "name": "Enamorus (Incarnate)",
+            "types": [
+              "Fairy",
+              "Flying"
+            ],
+            "fast": "Fairy Wind",
+            "charged": "Fly",
+            "dps": 89.51,
+            "tdo": 80562.0,
+            "avg_faints": 29
+          },
+          {
+            "name": "Yveltal",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Oblivion Wing",
+            "dps": 88.31,
+            "tdo": 79476.0,
+            "avg_faints": 46
+          },
+          {
+            "name": "Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 87.84,
+            "tdo": 79056.0,
+            "avg_faints": 30
+          },
+          {
+            "name": "Staraptor",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Fly",
+            "dps": 86.86,
+            "tdo": 78178.0,
+            "avg_faints": 52
+          },
+          {
+            "name": "Articuno (Galarian)",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Fly",
+            "dps": 85.01,
+            "tdo": 76512.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Salamence",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 83.95,
+            "tdo": 75559.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Braviary",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 82.27,
+            "tdo": 74046.0,
+            "avg_faints": 47
+          },
+          {
+            "name": "Enamorus (Therian)",
+            "types": [
+              "Fairy",
+              "Flying"
+            ],
+            "fast": "Fairy Wind",
+            "charged": "Fly",
+            "dps": 80.85,
+            "tdo": 72764.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Tornadus (Therian)",
+            "types": [
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Bleakwind Storm",
+            "dps": 80.47,
+            "tdo": 72424.0,
+            "avg_faints": 35
+          },
+          {
+            "name": "Braviary (Hisuian)",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 76.6,
+            "tdo": 68937.0,
+            "avg_faints": 41
+          },
+          {
+            "name": "Moltres (Galarian)",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 72.98,
+            "tdo": 65679.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Blacephalon",
+            "types": [
+              "Fire",
+              "Ghost"
+            ],
+            "fast": "Incinerate",
+            "charged": "Mind Blown",
+            "dps": 72.73,
+            "tdo": 65456.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Honchkrow",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 72.62,
+            "tdo": 65358.0,
+            "avg_faints": 74
+          },
+          {
+            "name": "Tornadus (Incarnate)",
+            "types": [
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Hurricane",
+            "dps": 72.09,
+            "tdo": 64885.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Unfezant",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Sky Attack",
+            "dps": 72.09,
+            "tdo": 64879.0,
+            "avg_faints": 51
+          },
+          {
+            "name": "Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Drill Peck",
+            "dps": 71.77,
+            "tdo": 64597.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Flamigo",
+            "types": [
+              "Flying",
+              "Fighting"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Brave Bird",
+            "dps": 71.41,
+            "tdo": 64265.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Zacian (Crowned Sword)",
+            "types": [
+              "Fairy",
+              "Steel"
+            ],
+            "fast": "Air Slash",
+            "charged": "Play Rough",
+            "dps": 70.54,
+            "tdo": 63482.0,
+            "avg_faints": 35
+          }
+        ]
+      },
+      "l50": {
+        "megas": [
+          {
+            "name": "Rayquaza (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Dragon Ascent",
+            "dps": 147.31,
+            "tdo": 132582.0,
+            "avg_faints": 26
+          },
+          {
+            "name": "Pidgeot (MEGA)",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Brave Bird",
+            "dps": 100.26,
+            "tdo": 90237.0,
+            "avg_faints": 47
+          },
+          {
+            "name": "Salamence (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 96.69,
+            "tdo": 87018.0,
+            "avg_faints": 22
+          },
+          {
+            "name": "Charizard (MEGA Y)",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Blast Burn",
+            "dps": 84.09,
+            "tdo": 75685.0,
+            "avg_faints": 26
+          },
+          {
+            "name": "Blaziken (MEGA)",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Brave Bird",
+            "dps": 82.29,
+            "tdo": 74057.0,
+            "avg_faints": 39
+          },
+          {
+            "name": "Alakazam (MEGA)",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 76.87,
+            "tdo": 69179.0,
+            "avg_faints": 54
+          },
+          {
+            "name": "Gallade (MEGA)",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 70.31,
+            "tdo": 63277.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Gardevoir (MEGA)",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 69.74,
+            "tdo": 62763.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Latios (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 67.59,
+            "tdo": 60835.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Charizard (MEGA X)",
+            "types": [
+              "Fire",
+              "Dragon"
+            ],
+            "fast": "Air Slash",
+            "charged": "Blast Burn",
+            "dps": 67.1,
+            "tdo": 60388.0,
+            "avg_faints": 39
+          },
+          {
+            "name": "Altaria (MEGA)",
+            "types": [
+              "Dragon",
+              "Fairy"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 62.27,
+            "tdo": 56043.0,
+            "avg_faints": 30
+          },
+          {
+            "name": "Dragonite (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Hurricane",
+            "dps": 61.84,
+            "tdo": 55653.0,
+            "avg_faints": 20
+          },
+          {
+            "name": "Metagross (MEGA)",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 61.63,
+            "tdo": 55463.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Sceptile (MEGA)",
+            "types": [
+              "Grass",
+              "Dragon"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Aerial Ace",
+            "dps": 61.38,
+            "tdo": 55245.0,
+            "avg_faints": 63
+          },
+          {
+            "name": "Latias (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Zen Headbutt",
+            "charged": "Psychic",
+            "dps": 58.95,
+            "tdo": 53053.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Beedrill (MEGA)",
+            "types": [
+              "Bug",
+              "Poison"
+            ],
+            "fast": "Poison Sting",
+            "charged": "Aerial Ace",
+            "dps": 57.23,
+            "tdo": 51505.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Gengar (MEGA)",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Psychic",
+            "dps": 56.17,
+            "tdo": 50549.0,
+            "avg_faints": 19
+          },
+          {
+            "name": "Houndoom (MEGA)",
+            "types": [
+              "Dark",
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Flamethrower",
+            "dps": 54.39,
+            "tdo": 48950.0,
+            "avg_faints": 63
+          },
+          {
+            "name": "Groudon (PRIMAL)",
+            "types": [
+              "Ground",
+              "Fire"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Fire Blast",
+            "dps": 53.18,
+            "tdo": 47862.0,
+            "avg_faints": 23
+          },
+          {
+            "name": "Garchomp (MEGA)",
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Fire Blast",
+            "dps": 50.19,
+            "tdo": 45170.0,
+            "avg_faints": 31
+          }
+        ],
+        "shadows": [
+          {
+            "name": "Shadow Toucannon",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Beak Blast",
+            "dps": 117.95,
+            "tdo": 106151.0,
+            "avg_faints": 55
+          },
+          {
+            "name": "Shadow Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 114.94,
+            "tdo": 103445.0,
+            "avg_faints": 32
+          },
+          {
+            "name": "Shadow Staraptor",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Fly",
+            "dps": 111.65,
+            "tdo": 100485.0,
+            "avg_faints": 58
+          },
+          {
+            "name": "Shadow Salamence",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 108.24,
+            "tdo": 97419.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Shadow Honchkrow",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 93.83,
+            "tdo": 84445.0,
+            "avg_faints": 76
+          },
+          {
+            "name": "Shadow Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Drill Peck",
+            "dps": 92.89,
+            "tdo": 83597.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Shadow Unfezant",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Sky Attack",
+            "dps": 92.09,
+            "tdo": 82880.0,
+            "avg_faints": 55
+          },
+          {
+            "name": "Shadow Mewtwo",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psystrike",
+            "dps": 86.77,
+            "tdo": 78092.0,
+            "avg_faints": 51
+          },
+          {
+            "name": "Shadow Vikavolt",
+            "types": [
+              "Bug",
+              "Electric"
+            ],
+            "fast": "Volt Switch",
+            "charged": "Fly",
+            "dps": 84.4,
+            "tdo": 75958.0,
+            "avg_faints": 53
+          },
+          {
+            "name": "Shadow Swanna",
+            "types": [
+              "Water",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 82.0,
+            "tdo": 73804.0,
+            "avg_faints": 52
+          },
+          {
+            "name": "Shadow Lugia",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Extrasensory",
+            "charged": "Fly",
+            "dps": 81.33,
+            "tdo": 73194.0,
+            "avg_faints": 22
+          },
+          {
+            "name": "Shadow Ho Oh",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Extrasensory",
+            "charged": "Brave Bird",
+            "dps": 80.75,
+            "tdo": 72678.0,
+            "avg_faints": 22
+          },
+          {
+            "name": "Shadow Talonflame",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Fly",
+            "dps": 80.24,
+            "tdo": 72215.0,
+            "avg_faints": 39
+          },
+          {
+            "name": "Shadow Hydreigon",
+            "types": [
+              "Dark",
+              "Dragon"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Fly",
+            "dps": 75.06,
+            "tdo": 67556.0,
+            "avg_faints": 71
+          },
+          {
+            "name": "Shadow Scyther",
+            "types": [
+              "Bug",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Aerial Ace",
+            "dps": 72.66,
+            "tdo": 65398.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Shadow Pidgeot",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Brave Bird",
+            "dps": 71.55,
+            "tdo": 64397.0,
+            "avg_faints": 49
+          },
+          {
+            "name": "Shadow Charizard",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Blast Burn",
+            "dps": 70.72,
+            "tdo": 63650.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Shadow Blaziken",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Brave Bird",
+            "dps": 68.96,
+            "tdo": 62060.0,
+            "avg_faints": 51
+          },
+          {
+            "name": "Shadow Chandelure",
+            "types": [
+              "Ghost",
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Overheat",
+            "dps": 67.87,
+            "tdo": 61086.0,
+            "avg_faints": 30
+          },
+          {
+            "name": "Shadow Gliscor",
+            "types": [
+              "Ground",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Acrobatics",
+            "dps": 67.13,
+            "tdo": 60416.0,
+            "avg_faints": 34
+          }
+        ],
+        "regulars": [
+          {
+            "name": "Rayquaza",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Dragon Ascent",
+            "dps": 112.23,
+            "tdo": 101006.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Toucannon",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Beak Blast",
+            "dps": 98.35,
+            "tdo": 88515.0,
+            "avg_faints": 49
+          },
+          {
+            "name": "Enamorus (Incarnate)",
+            "types": [
+              "Fairy",
+              "Flying"
+            ],
+            "fast": "Fairy Wind",
+            "charged": "Fly",
+            "dps": 97.07,
+            "tdo": 87363.0,
+            "avg_faints": 25
+          },
+          {
+            "name": "Yveltal",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Oblivion Wing",
+            "dps": 95.17,
+            "tdo": 85651.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Moltres",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 94.46,
+            "tdo": 85014.0,
+            "avg_faints": 27
+          },
+          {
+            "name": "Staraptor",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Fly",
+            "dps": 93.67,
+            "tdo": 84302.0,
+            "avg_faints": 52
+          },
+          {
+            "name": "Articuno (Galarian)",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Fly",
+            "dps": 89.44,
+            "tdo": 80494.0,
+            "avg_faints": 30
+          },
+          {
+            "name": "Salamence",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Fly",
+            "dps": 89.33,
+            "tdo": 80396.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Tornadus (Therian)",
+            "types": [
+              "Flying"
+            ],
+            "fast": "Gust",
+            "charged": "Bleakwind Storm",
+            "dps": 87.02,
+            "tdo": 78314.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Braviary",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 86.86,
+            "tdo": 78172.0,
+            "avg_faints": 45
+          },
+          {
+            "name": "Enamorus (Therian)",
+            "types": [
+              "Fairy",
+              "Flying"
+            ],
+            "fast": "Fairy Wind",
+            "charged": "Fly",
+            "dps": 86.2,
+            "tdo": 77581.0,
+            "avg_faints": 22
+          },
+          {
+            "name": "Honchkrow",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Peck",
+            "charged": "Sky Attack",
+            "dps": 84.81,
+            "tdo": 76329.0,
+            "avg_faints": 62
+          },
+          {
+            "name": "Braviary (Hisuian)",
+            "types": [
+              "Psychic",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Fly",
+            "dps": 81.75,
+            "tdo": 73574.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Tornadus (Incarnate)",
+            "types": [
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Hurricane",
+            "dps": 77.58,
+            "tdo": 69821.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Moltres (Galarian)",
+            "types": [
+              "Dark",
+              "Flying"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 77.45,
+            "tdo": 69704.0,
+            "avg_faints": 41
+          },
+          {
+            "name": "Blacephalon",
+            "types": [
+              "Fire",
+              "Ghost"
+            ],
+            "fast": "Incinerate",
+            "charged": "Mind Blown",
+            "dps": 76.93,
+            "tdo": 69239.0,
+            "avg_faints": 32
+          },
+          {
+            "name": "Unfezant",
+            "types": [
+              "Normal",
+              "Flying"
+            ],
+            "fast": "Air Slash",
+            "charged": "Sky Attack",
+            "dps": 76.38,
+            "tdo": 68744.0,
+            "avg_faints": 48
+          },
+          {
+            "name": "Flamigo",
+            "types": [
+              "Flying",
+              "Fighting"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Brave Bird",
+            "dps": 75.83,
+            "tdo": 68243.0,
+            "avg_faints": 35
+          },
+          {
+            "name": "Zapdos",
+            "types": [
+              "Electric",
+              "Flying"
+            ],
+            "fast": "Thunder Shock",
+            "charged": "Drill Peck",
+            "dps": 75.37,
+            "tdo": 67835.0,
+            "avg_faints": 32
+          },
+          {
+            "name": "Bombirdier",
+            "types": [
+              "Flying",
+              "Dark"
+            ],
+            "fast": "Wing Attack",
+            "charged": "Fly",
+            "dps": 75.03,
+            "tdo": 67526.0,
+            "avg_faints": 56
           }
         ]
       }
@@ -22943,6 +27295,1436 @@
             "dps": 42.39,
             "tdo": 38149.0,
             "avg_faints": 22
+          }
+        ]
+      }
+    },
+    "Xurkitree": {
+      "types": [
+        "Electric"
+      ],
+      "tier": "T5",
+      "l40": {
+        "megas": [
+          {
+            "name": "Groudon (PRIMAL)",
+            "types": [
+              "Ground",
+              "Fire"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Precipice Blades",
+            "dps": 41.93,
+            "tdo": 37733.0,
+            "avg_faints": 22
+          },
+          {
+            "name": "Garchomp (MEGA)",
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Earth Power",
+            "dps": 38.06,
+            "tdo": 34253.0,
+            "avg_faints": 32
+          },
+          {
+            "name": "Lucario (MEGA)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Force Palm",
+            "charged": "Aura Sphere",
+            "dps": 32.15,
+            "tdo": 28935.0,
+            "avg_faints": 53
+          },
+          {
+            "name": "Swampert (MEGA)",
+            "types": [
+              "Water",
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Earthquake",
+            "dps": 32.03,
+            "tdo": 28828.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Rayquaza (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Breaking Swipe",
+            "dps": 31.94,
+            "tdo": 28750.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Blaziken (MEGA)",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Aura Sphere",
+            "dps": 31.01,
+            "tdo": 27906.0,
+            "avg_faints": 52
+          },
+          {
+            "name": "Heracross (MEGA)",
+            "types": [
+              "Bug",
+              "Fighting"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Earthquake",
+            "dps": 30.35,
+            "tdo": 27314.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Sceptile (MEGA)",
+            "types": [
+              "Grass",
+              "Dragon"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Earthquake",
+            "dps": 28.73,
+            "tdo": 25859.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Beedrill (MEGA)",
+            "types": [
+              "Bug",
+              "Poison"
+            ],
+            "fast": "Bug Bite",
+            "charged": "Drill Run",
+            "dps": 27.63,
+            "tdo": 24867.0,
+            "avg_faints": 54
+          },
+          {
+            "name": "Gengar (MEGA)",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Shadow Claw",
+            "charged": "Shadow Ball",
+            "dps": 27.57,
+            "tdo": 24815.0,
+            "avg_faints": 46
+          },
+          {
+            "name": "Alakazam (MEGA)",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 27.35,
+            "tdo": 24618.0,
+            "avg_faints": 58
+          },
+          {
+            "name": "Latios (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Aura Sphere",
+            "dps": 27.14,
+            "tdo": 24429.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Charizard (MEGA Y)",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 26.9,
+            "tdo": 24214.0,
+            "avg_faints": 47
+          },
+          {
+            "name": "Kyogre (PRIMAL)",
+            "types": [
+              "Water"
+            ],
+            "fast": "Waterfall",
+            "charged": "Origin Pulse",
+            "dps": 26.9,
+            "tdo": 24210.0,
+            "avg_faints": 50
+          },
+          {
+            "name": "Metagross (MEGA)",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Earthquake",
+            "dps": 26.83,
+            "tdo": 24150.0,
+            "avg_faints": 29
+          },
+          {
+            "name": "Aerodactyl (MEGA)",
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Earth Power",
+            "dps": 26.17,
+            "tdo": 23552.0,
+            "avg_faints": 57
+          },
+          {
+            "name": "Gallade (MEGA)",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Psychic",
+            "dps": 25.67,
+            "tdo": 23103.0,
+            "avg_faints": 50
+          },
+          {
+            "name": "Absol (MEGA)",
+            "types": [
+              "Dark"
+            ],
+            "fast": "Snarl",
+            "charged": "Brutal Swing",
+            "dps": 25.54,
+            "tdo": 22987.0,
+            "avg_faints": 85
+          },
+          {
+            "name": "Salamence (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Draco Meteor",
+            "dps": 25.39,
+            "tdo": 22847.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Tyranitar (MEGA)",
+            "types": [
+              "Rock",
+              "Dark"
+            ],
+            "fast": "Bite",
+            "charged": "Brutal Swing",
+            "dps": 25.34,
+            "tdo": 22803.0,
+            "avg_faints": 44
+          }
+        ],
+        "shadows": [
+          {
+            "name": "Shadow Groudon",
+            "types": [
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Precipice Blades",
+            "dps": 38.93,
+            "tdo": 35036.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Shadow Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Scorching Sands",
+            "dps": 38.66,
+            "tdo": 34793.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Shadow Mamoswine",
+            "types": [
+              "Ice",
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "High Horsepower",
+            "dps": 36.22,
+            "tdo": 32601.0,
+            "avg_faints": 47
+          },
+          {
+            "name": "Shadow Garchomp",
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Earth Power",
+            "dps": 35.85,
+            "tdo": 32268.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Shadow Regigigas",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Hidden Power",
+            "charged": "Crush Grip",
+            "dps": 34.5,
+            "tdo": 31049.0,
+            "avg_faints": 50
+          },
+          {
+            "name": "Shadow Donphan",
+            "types": [
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 31.71,
+            "tdo": 28536.0,
+            "avg_faints": 45
+          },
+          {
+            "name": "Shadow Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 31.3,
+            "tdo": 28166.0,
+            "avg_faints": 58
+          },
+          {
+            "name": "Shadow Mewtwo",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Psystrike",
+            "dps": 30.98,
+            "tdo": 27880.0,
+            "avg_faints": 58
+          },
+          {
+            "name": "Shadow Magmortar",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Scorching Sands",
+            "dps": 29.18,
+            "tdo": 26265.0,
+            "avg_faints": 54
+          },
+          {
+            "name": "Shadow Golurk",
+            "types": [
+              "Ground",
+              "Ghost"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earth Power",
+            "dps": 29.03,
+            "tdo": 26123.0,
+            "avg_faints": 62
+          },
+          {
+            "name": "Shadow Rhydon",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 28.91,
+            "tdo": 26022.0,
+            "avg_faints": 61
+          },
+          {
+            "name": "Shadow Hippowdon",
+            "types": [
+              "Ground"
+            ],
+            "fast": "Sand Attack",
+            "charged": "Earth Power",
+            "dps": 28.84,
+            "tdo": 25954.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Shadow Ursaluna",
+            "types": [
+              "Ground",
+              "Normal"
+            ],
+            "fast": "Tackle",
+            "charged": "High Horsepower",
+            "dps": 28.66,
+            "tdo": 25794.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Shadow Torterra",
+            "types": [
+              "Grass",
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 28.38,
+            "tdo": 25539.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Shadow Heatran",
+            "types": [
+              "Fire",
+              "Steel"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Earth Power",
+            "dps": 28.28,
+            "tdo": 25453.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Shadow Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Earthquake",
+            "dps": 27.99,
+            "tdo": 25193.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Shadow Entei",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Scorching Sands",
+            "dps": 27.98,
+            "tdo": 25184.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Shadow Blaziken",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Aura Sphere",
+            "dps": 27.97,
+            "tdo": 25169.0,
+            "avg_faints": 67
+          },
+          {
+            "name": "Shadow Golem",
+            "types": [
+              "Rock",
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 27.68,
+            "tdo": 24915.0,
+            "avg_faints": 61
+          },
+          {
+            "name": "Shadow Arcanine",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Scorching Sands",
+            "dps": 27.48,
+            "tdo": 24728.0,
+            "avg_faints": 47
+          }
+        ],
+        "regulars": [
+          {
+            "name": "Landorus (Therian)",
+            "types": [
+              "Ground",
+              "Flying"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Sandsear Storm",
+            "dps": 36.0,
+            "tdo": 32396.0,
+            "avg_faints": 45
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Poison Jab",
+            "charged": "Dynamax Cannon",
+            "dps": 33.18,
+            "tdo": 29862.0,
+            "avg_faints": 27
+          },
+          {
+            "name": "Groudon",
+            "types": [
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Precipice Blades",
+            "dps": 32.42,
+            "tdo": 29182.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Scorching Sands",
+            "dps": 31.44,
+            "tdo": 28300.0,
+            "avg_faints": 41
+          },
+          {
+            "name": "Necrozma (Dawn Wings)",
+            "types": [
+              "Psychic",
+              "Ghost"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Moongeist Beam",
+            "dps": 31.38,
+            "tdo": 28244.0,
+            "avg_faints": 41
+          },
+          {
+            "name": "Kyurem (Black)",
+            "types": [
+              "Dragon",
+              "Ice"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Freeze Shock",
+            "dps": 30.57,
+            "tdo": 27514.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Mamoswine",
+            "types": [
+              "Ice",
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "High Horsepower",
+            "dps": 30.52,
+            "tdo": 27466.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Landorus (Incarnate)",
+            "types": [
+              "Ground",
+              "Flying"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Earth Power",
+            "dps": 29.83,
+            "tdo": 26845.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Garchomp",
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Earth Power",
+            "dps": 29.77,
+            "tdo": 26795.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Keldeo (Resolute)",
+            "types": [
+              "Water",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Secret Sword",
+            "dps": 29.57,
+            "tdo": 26610.0,
+            "avg_faints": 65
+          },
+          {
+            "name": "Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 29.43,
+            "tdo": 26490.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Regigigas",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Hidden Power",
+            "charged": "Crush Grip",
+            "dps": 29.26,
+            "tdo": 26331.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Krookodile",
+            "types": [
+              "Ground",
+              "Dark"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 28.19,
+            "tdo": 25370.0,
+            "avg_faints": 45
+          },
+          {
+            "name": "Kyurem (White)",
+            "types": [
+              "Dragon",
+              "Ice"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Ice Burn",
+            "dps": 27.27,
+            "tdo": 24545.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Golurk",
+            "types": [
+              "Ground",
+              "Ghost"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earth Power",
+            "dps": 26.67,
+            "tdo": 23999.0,
+            "avg_faints": 45
+          },
+          {
+            "name": "Donphan",
+            "types": [
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 26.48,
+            "tdo": 23833.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Mudsdale",
+            "types": [
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 26.33,
+            "tdo": 23697.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Mewtwo",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psystrike",
+            "dps": 26.31,
+            "tdo": 23679.0,
+            "avg_faints": 49
+          },
+          {
+            "name": "Lucario",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Force Palm",
+            "charged": "Aura Sphere",
+            "dps": 25.07,
+            "tdo": 22559.0,
+            "avg_faints": 59
+          },
+          {
+            "name": "Haxorus",
+            "types": [
+              "Dragon"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Earthquake",
+            "dps": 24.82,
+            "tdo": 22339.0,
+            "avg_faints": 47
+          }
+        ]
+      },
+      "l50": {
+        "megas": [
+          {
+            "name": "Groudon (PRIMAL)",
+            "types": [
+              "Ground",
+              "Fire"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Precipice Blades",
+            "dps": 45.59,
+            "tdo": 41035.0,
+            "avg_faints": 20
+          },
+          {
+            "name": "Garchomp (MEGA)",
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Earth Power",
+            "dps": 41.18,
+            "tdo": 37064.0,
+            "avg_faints": 29
+          },
+          {
+            "name": "Lucario (MEGA)",
+            "types": [
+              "Fighting",
+              "Steel"
+            ],
+            "fast": "Force Palm",
+            "charged": "Aura Sphere",
+            "dps": 34.36,
+            "tdo": 30923.0,
+            "avg_faints": 51
+          },
+          {
+            "name": "Rayquaza (MEGA)",
+            "types": [
+              "Dragon",
+              "Flying"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Breaking Swipe",
+            "dps": 34.3,
+            "tdo": 30870.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Swampert (MEGA)",
+            "types": [
+              "Water",
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Earthquake",
+            "dps": 33.61,
+            "tdo": 30250.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Blaziken (MEGA)",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Aura Sphere",
+            "dps": 32.81,
+            "tdo": 29529.0,
+            "avg_faints": 50
+          },
+          {
+            "name": "Heracross (MEGA)",
+            "types": [
+              "Bug",
+              "Fighting"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Earthquake",
+            "dps": 32.61,
+            "tdo": 29347.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Sceptile (MEGA)",
+            "types": [
+              "Grass",
+              "Dragon"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Earthquake",
+            "dps": 30.15,
+            "tdo": 27135.0,
+            "avg_faints": 31
+          },
+          {
+            "name": "Gengar (MEGA)",
+            "types": [
+              "Ghost",
+              "Poison"
+            ],
+            "fast": "Lick",
+            "charged": "Shadow Ball",
+            "dps": 29.55,
+            "tdo": 26592.0,
+            "avg_faints": 45
+          },
+          {
+            "name": "Alakazam (MEGA)",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 29.48,
+            "tdo": 26534.0,
+            "avg_faints": 57
+          },
+          {
+            "name": "Beedrill (MEGA)",
+            "types": [
+              "Bug",
+              "Poison"
+            ],
+            "fast": "Bug Bite",
+            "charged": "Drill Run",
+            "dps": 29.45,
+            "tdo": 26501.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Charizard (MEGA Y)",
+            "types": [
+              "Fire",
+              "Flying"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Blast Burn",
+            "dps": 29.37,
+            "tdo": 26436.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Metagross (MEGA)",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Earthquake",
+            "dps": 29.32,
+            "tdo": 26384.0,
+            "avg_faints": 27
+          },
+          {
+            "name": "Kyogre (PRIMAL)",
+            "types": [
+              "Water"
+            ],
+            "fast": "Waterfall",
+            "charged": "Origin Pulse",
+            "dps": 29.01,
+            "tdo": 26113.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Latios (MEGA)",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Aura Sphere",
+            "dps": 28.95,
+            "tdo": 26059.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Aerodactyl (MEGA)",
+            "types": [
+              "Rock",
+              "Flying"
+            ],
+            "fast": "Rock Throw",
+            "charged": "Earth Power",
+            "dps": 28.85,
+            "tdo": 25969.0,
+            "avg_faints": 48
+          },
+          {
+            "name": "Absol (MEGA)",
+            "types": [
+              "Dark"
+            ],
+            "fast": "Snarl",
+            "charged": "Brutal Swing",
+            "dps": 27.44,
+            "tdo": 24695.0,
+            "avg_faints": 81
+          },
+          {
+            "name": "Gardevoir (MEGA)",
+            "types": [
+              "Psychic",
+              "Fairy"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 27.28,
+            "tdo": 24552.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Gallade (MEGA)",
+            "types": [
+              "Psychic",
+              "Fighting"
+            ],
+            "fast": "Confusion",
+            "charged": "Psychic",
+            "dps": 27.18,
+            "tdo": 24464.0,
+            "avg_faints": 47
+          },
+          {
+            "name": "Tyranitar (MEGA)",
+            "types": [
+              "Rock",
+              "Dark"
+            ],
+            "fast": "Smack Down",
+            "charged": "Brutal Swing",
+            "dps": 26.88,
+            "tdo": 24195.0,
+            "avg_faints": 36
+          }
+        ],
+        "shadows": [
+          {
+            "name": "Shadow Groudon",
+            "types": [
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Precipice Blades",
+            "dps": 41.77,
+            "tdo": 37593.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Shadow Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Scorching Sands",
+            "dps": 40.87,
+            "tdo": 36782.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Shadow Regigigas",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Hidden Power",
+            "charged": "Crush Grip",
+            "dps": 38.76,
+            "tdo": 34887.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Shadow Garchomp",
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Earth Power",
+            "dps": 38.62,
+            "tdo": 34756.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Shadow Mamoswine",
+            "types": [
+              "Ice",
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "High Horsepower",
+            "dps": 38.45,
+            "tdo": 34608.0,
+            "avg_faints": 45
+          },
+          {
+            "name": "Shadow Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 36.96,
+            "tdo": 33265.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Shadow Mewtwo",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Psystrike",
+            "dps": 34.43,
+            "tdo": 30983.0,
+            "avg_faints": 54
+          },
+          {
+            "name": "Shadow Donphan",
+            "types": [
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 33.95,
+            "tdo": 30552.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Shadow Golurk",
+            "types": [
+              "Ground",
+              "Ghost"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earth Power",
+            "dps": 33.6,
+            "tdo": 30240.0,
+            "avg_faints": 47
+          },
+          {
+            "name": "Shadow Ursaluna",
+            "types": [
+              "Ground",
+              "Normal"
+            ],
+            "fast": "Tackle",
+            "charged": "High Horsepower",
+            "dps": 31.61,
+            "tdo": 28447.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Shadow Magmortar",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Scorching Sands",
+            "dps": 31.02,
+            "tdo": 27918.0,
+            "avg_faints": 48
+          },
+          {
+            "name": "Shadow Hippowdon",
+            "types": [
+              "Ground"
+            ],
+            "fast": "Sand Attack",
+            "charged": "Earth Power",
+            "dps": 30.93,
+            "tdo": 27841.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Shadow Rhydon",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 30.88,
+            "tdo": 27794.0,
+            "avg_faints": 60
+          },
+          {
+            "name": "Shadow Torterra",
+            "types": [
+              "Grass",
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 30.82,
+            "tdo": 27734.0,
+            "avg_faints": 32
+          },
+          {
+            "name": "Shadow Heatran",
+            "types": [
+              "Fire",
+              "Steel"
+            ],
+            "fast": "Fire Spin",
+            "charged": "Earth Power",
+            "dps": 30.32,
+            "tdo": 27285.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Shadow Entei",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Scorching Sands",
+            "dps": 30.27,
+            "tdo": 27246.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Shadow Blaziken",
+            "types": [
+              "Fire",
+              "Fighting"
+            ],
+            "fast": "Counter",
+            "charged": "Aura Sphere",
+            "dps": 30.15,
+            "tdo": 27132.0,
+            "avg_faints": 56
+          },
+          {
+            "name": "Shadow Metagross",
+            "types": [
+              "Steel",
+              "Psychic"
+            ],
+            "fast": "Fury Cutter",
+            "charged": "Earthquake",
+            "dps": 29.89,
+            "tdo": 26901.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Shadow Latios",
+            "types": [
+              "Dragon",
+              "Psychic"
+            ],
+            "fast": "Dragon Breath",
+            "charged": "Aura Sphere",
+            "dps": 29.09,
+            "tdo": 26182.0,
+            "avg_faints": 40
+          },
+          {
+            "name": "Shadow Arcanine",
+            "types": [
+              "Fire"
+            ],
+            "fast": "Fire Fang",
+            "charged": "Scorching Sands",
+            "dps": 28.99,
+            "tdo": 26093.0,
+            "avg_faints": 47
+          }
+        ],
+        "regulars": [
+          {
+            "name": "Landorus (Therian)",
+            "types": [
+              "Ground",
+              "Flying"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Sandsear Storm",
+            "dps": 38.89,
+            "tdo": 34997.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Eternatus",
+            "types": [
+              "Poison",
+              "Dragon"
+            ],
+            "fast": "Poison Jab",
+            "charged": "Dynamax Cannon",
+            "dps": 35.66,
+            "tdo": 32098.0,
+            "avg_faints": 24
+          },
+          {
+            "name": "Groudon",
+            "types": [
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Precipice Blades",
+            "dps": 35.03,
+            "tdo": 31528.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Excadrill",
+            "types": [
+              "Ground",
+              "Steel"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Scorching Sands",
+            "dps": 34.12,
+            "tdo": 30704.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Landorus (Incarnate)",
+            "types": [
+              "Ground",
+              "Flying"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Earth Power",
+            "dps": 33.07,
+            "tdo": 29759.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Necrozma (Dawn Wings)",
+            "types": [
+              "Psychic",
+              "Ghost"
+            ],
+            "fast": "Psycho Cut",
+            "charged": "Moongeist Beam",
+            "dps": 32.94,
+            "tdo": 29644.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Mamoswine",
+            "types": [
+              "Ice",
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "High Horsepower",
+            "dps": 32.91,
+            "tdo": 29617.0,
+            "avg_faints": 38
+          },
+          {
+            "name": "Kyurem (Black)",
+            "types": [
+              "Dragon",
+              "Ice"
+            ],
+            "fast": "Dragon Tail",
+            "charged": "Freeze Shock",
+            "dps": 32.47,
+            "tdo": 29220.0,
+            "avg_faints": 35
+          },
+          {
+            "name": "Garchomp",
+            "types": [
+              "Dragon",
+              "Ground"
+            ],
+            "fast": "Mud Shot",
+            "charged": "Earth Power",
+            "dps": 32.19,
+            "tdo": 28968.0,
+            "avg_faints": 33
+          },
+          {
+            "name": "Rhyperior",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 31.5,
+            "tdo": 28354.0,
+            "avg_faints": 36
+          },
+          {
+            "name": "Regigigas",
+            "types": [
+              "Normal"
+            ],
+            "fast": "Hidden Power",
+            "charged": "Crush Grip",
+            "dps": 30.48,
+            "tdo": 27432.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Keldeo (Resolute)",
+            "types": [
+              "Water",
+              "Fighting"
+            ],
+            "fast": "Low Kick",
+            "charged": "Secret Sword",
+            "dps": 30.42,
+            "tdo": 27382.0,
+            "avg_faints": 60
+          },
+          {
+            "name": "Krookodile",
+            "types": [
+              "Ground",
+              "Dark"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 30.25,
+            "tdo": 27222.0,
+            "avg_faints": 43
+          },
+          {
+            "name": "Blacephalon",
+            "types": [
+              "Fire",
+              "Ghost"
+            ],
+            "fast": "Astonish",
+            "charged": "Mind Blown",
+            "dps": 29.62,
+            "tdo": 26660.0,
+            "avg_faints": 57
+          },
+          {
+            "name": "Mewtwo",
+            "types": [
+              "Psychic"
+            ],
+            "fast": "Confusion",
+            "charged": "Psystrike",
+            "dps": 28.97,
+            "tdo": 26074.0,
+            "avg_faints": 42
+          },
+          {
+            "name": "Rhydon",
+            "types": [
+              "Ground",
+              "Rock"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 28.73,
+            "tdo": 25861.0,
+            "avg_faints": 39
+          },
+          {
+            "name": "Kyurem (White)",
+            "types": [
+              "Dragon",
+              "Ice"
+            ],
+            "fast": "Ice Fang",
+            "charged": "Ice Burn",
+            "dps": 28.55,
+            "tdo": 25697.0,
+            "avg_faints": 34
+          },
+          {
+            "name": "Golurk",
+            "types": [
+              "Ground",
+              "Ghost"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earth Power",
+            "dps": 28.09,
+            "tdo": 25277.0,
+            "avg_faints": 44
+          },
+          {
+            "name": "Mudsdale",
+            "types": [
+              "Ground"
+            ],
+            "fast": "Mud Slap",
+            "charged": "Earthquake",
+            "dps": 27.73,
+            "tdo": 24953.0,
+            "avg_faints": 37
+          },
+          {
+            "name": "Ursaluna",
+            "types": [
+              "Ground",
+              "Normal"
+            ],
+            "fast": "Tackle",
+            "charged": "High Horsepower",
+            "dps": 27.29,
+            "tdo": 24561.0,
+            "avg_faints": 32
           }
         ]
       }

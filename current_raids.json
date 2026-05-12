@@ -10,6 +10,16 @@
       "cp25": 826
     },
     {
+      "name": "Buzzwole",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "cp20": 1977,
+      "cp25": 2471
+    },
+    {
       "name": "Cresselia",
       "tier": "Shadow T5",
       "types": [
@@ -37,6 +47,15 @@
       "cp25": 899
     },
     {
+      "name": "Glalie (MEGA)",
+      "tier": "Mega",
+      "types": [
+        "Ice"
+      ],
+      "cp20": 1845,
+      "cp25": 2306
+    },
+    {
       "name": "Nidoqueen",
       "tier": "T3",
       "types": [
@@ -55,6 +74,16 @@
       ],
       "cp20": 2256,
       "cp25": 2820
+    },
+    {
+      "name": "Pheromosa",
+      "tier": "T5",
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "cp20": 1624,
+      "cp25": 2029
     },
     {
       "name": "Shadow Inkay",
@@ -153,6 +182,15 @@
       ],
       "cp20": 577,
       "cp25": 721
+    },
+    {
+      "name": "Xurkitree",
+      "tier": "T5",
+      "types": [
+        "Electric"
+      ],
+      "cp20": 2249,
+      "cp25": 2812
     }
   ]
 }
